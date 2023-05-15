@@ -4,8 +4,6 @@ links:
     url: /aboutus/
   - title: Knowledge Sharing Hub
     url: /example-page/
-  - title: Events
-    collection: example-folder
   - title: Menu Title
     url: /permalink
     sublinks: []
