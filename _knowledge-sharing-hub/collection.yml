@@ -2,4 +2,4 @@ collections:
   knowledge-sharing-hub:
     output: true
     order:
-      - Knowledge Sharing Hub Welcome.md
+      - Welcome.md
