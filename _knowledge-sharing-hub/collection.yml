@@ -1,4 +1,5 @@
 collections:
   knowledge-sharing-hub:
     output: true
-    order: []
+    order:
+      - Knowledge Sharing Hub Welcome.md
