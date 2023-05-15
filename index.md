@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety!
 sections:
   - hero:
-      title: Hero title
+      title: Hero Title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
