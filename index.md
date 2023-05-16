@@ -23,4 +23,11 @@ sections:
         at the point of care.
       button: Download GPSAP
       url: /https://www.who.int/publications/i/item/9789240032705
+  - infobar:
+      title: Patient Safety
+      subtitle: WHO
+      description: eliminating preventable harm to improve patient safety and health
+        outcomes at the point of care.
+      button: Click here
+      url: https://www.who.int/teams/integrated-health-services/patient-safety
 ---
