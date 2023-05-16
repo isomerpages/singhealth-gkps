@@ -13,7 +13,7 @@ sections:
       dropdown:
         title: Submit best practices
         options:
-          - title: Share Best Practices WPSD
+          - title: Share Best Practices WPSD 2023
             url: https://form.gov.sg/645363b36101aa00118f298c
   - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
