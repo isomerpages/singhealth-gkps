@@ -7,18 +7,16 @@ permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety!
 sections:
   - hero:
-      title: Hero Title
-      subtitle: Hero subtitle
+      title: GKSP
+      subtitle: "Global Knowledge Sharing Platform for Patient Safety "
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Latest News
+          description: Highlight latest news from World Health Organization (WHO)
+          url: https://www.who.int/news-room/headlines
+        - title: Health Topics
+          description: List of Health Topics from conditions to interventions
+          url: https://www.who.int/health-topics/
         - title: Page A
           description: Page A is important too
           url: /privacy/
