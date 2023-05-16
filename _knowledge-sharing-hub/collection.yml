@@ -2,7 +2,6 @@ collections:
   knowledge-sharing-hub:
     output: true
     order:
-      - Best Practices 2019 WPSD.md
       - Welcome.md
       - Best Practices WPSD.md
       - Category of Resource.md
