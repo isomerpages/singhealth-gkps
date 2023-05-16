@@ -11,8 +11,6 @@ Click on the link before for best practices on Speaking up for Patient Safety fr
 
 | Africa | Americas | South-East Asia |
 | ------ | -------- | -------- |
-
-
+  
 | Europe | Eastern Mediterranean | Western Pacific |
 | -------- | -------- | -------- |
-
