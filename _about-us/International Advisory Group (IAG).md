@@ -11,30 +11,23 @@ The GKPS Advisory Group (AG) comprises of international experts in the field of 
 
 **Members of GKPS Advisory Group **
 
-|Dr Neelam Dhingra |
-| -------| 
+Dr Neelam Dhingra
 Unit Head, WHO Patient Safety Flagship, Geneva
 
-| Prof Tan Kok Hian  |
-| -------| 
+Prof Tan Kok Hian
 Group Director, SingHealth Institute for Patient Safety & Quality (IPSQ), Singapore 
 
-| Name  |
-| -------| 
+Name
 Designation, Organisation, Country 
 
-| Name  |
-| -------| 
+Name
 Designation, Organisation, Country 
 
-| Name  |
-| -------| 
+Name
 Designation, Organisation, Country 
 
-| Name  |
-| -------| 
+Name
 Designation, Organisation, Country 
 
-| Name  |
-| -------| 
-Designation, Organisation, Country
+Name
+Designation, Organisation, Country 
