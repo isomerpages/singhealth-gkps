@@ -3,7 +3,7 @@ url: https://www.gksp.net
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#2f068c"
+  secondary-color: "#ef9a0e"
   media-colors:
     - title: media-color-one
       color: "#49759a"
