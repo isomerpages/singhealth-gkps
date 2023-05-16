@@ -7,9 +7,7 @@ description: ""
 -------------------------------
 On World Patient Safety Day (WPSD), all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety.
 
-The Global action on patient safety resolution (WHA 72.6) acknowledges patient safety as a global health focus area & priority, and approves the annual observance of World Patient Safety Day on September 17th.
-
-The theme and slogan of WPSD change every year, and this page aims to share best practices on the annual theme to support WPSD.
+The Global action on patient safety resolution (WHA 72.6) acknowledges patient safety as a global health focus area & priority, and approves the annual observance of World Patient Safety Day on September 17th. The theme and slogan of WPSD change every year, and this page aims to share best practices on the annual theme to support WPSD.
 
 Please click on the links to access the best practices for each WPSD:
 
@@ -26,4 +24,6 @@ Please click on the links to access the best practices for each WPSD:
 2020 WPSD Best Practices - Health Worker Safety: A Priority for Patient Safety. 
 
 ![](/images/2019%20wpsd%20poster.jpg) | 
+2019 WPSD Best Practices - Speak Up For Patient Safety.
+
 2019 WPSD Best Practices - Speak Up For Patient Safety
