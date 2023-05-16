@@ -3,13 +3,16 @@ title: Welcome
 permalink: /knowledge-sharing-hub/
 description: ""
 ---
-Welcome to the knowledge sharing hub page where we share best practices in major categories. 
+Welcome to the knowledge sharing hub page!
 
-Please click on the category to access the page to the relevant materials. You can also do so by clicking the navigation bar on the left of this page:
+GKPS is a repository of global resources of knowledge on patient safety and quality.
+
+All information in this knowledge sharing hub page have been validated by the International Advisory Group (IAG) composed by international experts in the field of patient safety and quality of care for health care.
+
+Please access the relevant resources by clicking on the resource category. You may also do so by clicking on the navigation bar on the left of this page:
 
 1) Best Practices Word Patient Safety Day (WPSD)
 
-2) Category/ Naming of Resource
+2) Category of Resource
 
-3) Category/ Naming of Resource
-
+3) Category of Resource
