@@ -2,6 +2,7 @@ collections:
   knowledge-sharing-hub:
     output: true
     order:
+      - Category of Resource 2.md
       - Welcome.md
       - Best Practices WPSD.md
       - Category of Resource.md
