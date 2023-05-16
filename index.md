@@ -17,9 +17,9 @@ sections:
         - title: Health Topics
           description: List of Health Topics from conditions to interventions
           url: https://www.who.int/health-topics/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Contact Us
+          description: gkps@singhealth.com.sg
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
