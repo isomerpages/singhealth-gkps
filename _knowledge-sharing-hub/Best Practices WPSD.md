@@ -20,5 +20,4 @@ Please click on the links to access the best practices for each WPSD:
 ![](/images/hero-banner.png)
 2021 WPSD Best Practices - Safe Maternal and Newborn Care
 
-![](/images/hero-banner.png)
-2020 WPSD Best Practices - Health Worker Safety: A Priority for Patient Safety.
+#####  **Click for 2020, 2019 WPSD Materials**
