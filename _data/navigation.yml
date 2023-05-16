@@ -3,5 +3,16 @@ links:
   - title: About Us
     url: /about-us
     sublinks:
-      - title: "International Advisory Group "
+      - title: International Advisory Group
         url: /iag
+  - title: Knowledge Sharing
+    url: /knowledge-sharing-hub
+    sublinks:
+      - title: Best Practices WPSD
+        url: /best-practices-wpsd
+      - title: Category of Resource
+        url: /category-of-resource
+      - title: Category of Resource 2
+        url: /category-of-resource-2
+  - title: Events
+    url: /events
