@@ -3,7 +3,7 @@ title: Welcome
 permalink: /knowledge-sharing-hub/
 description: ""
 ---
-Welcome to the knowledge sharing hub page!
+### Welcome to the Patient Safety Knowledge Sharing Repository
 
 GKPS is a repository of global resources of knowledge on patient safety and quality.
 
