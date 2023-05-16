@@ -12,7 +12,9 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: Submit best practices
-        options: []
+        options:
+          - title: Share Best Practices WPSD
+            url: https://form.gov.sg/645363b36101aa00118f298c
   - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
