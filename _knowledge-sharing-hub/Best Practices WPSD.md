@@ -25,3 +25,6 @@ Please click on the links to access the best practices or each WPSD
 
 ![](/images/hero-banner.png)
 2020 WPSD Best Practices - Health Worker Safety
+
+![](/images/hero-banner.png)
+2019 WPSD Best Practices - Speak Up For Patient Safety 
