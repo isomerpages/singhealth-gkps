@@ -7,7 +7,7 @@ description: ""
 
 The Charter urges all stakeholders, including Member States, intergovernmental organizations, professional associations, patient organizations, and the private sector, among others, to make a firm and long-term commitment to promoting health worker safety and patient safety. WHO also encourages all relevant stakeholders to support this Charter by signing it.
 
-Click on the link below for best practices on"Health worker safety: a priority for patient safety,"  from key stakeholders and patient safety champions from    different geographic regions, economic and cultural settings:
+Click on the link below for best practices on"Health worker safety: a priority for patient safety,"  from key stakeholders and patient safety champions from different geographic regions, economic and cultural settings:
 
 * Africa 
 * Americas 
