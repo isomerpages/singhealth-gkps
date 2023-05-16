@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Global Knowledge Sharing Platform for Patient Safety (GKSP)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -8,7 +8,7 @@ notification: Welcome to the Global Knowledge Sharing Platform for Patient Safet
 sections:
   - hero:
       title: GKSP
-      subtitle: "Global Knowledge Sharing Platform for Patient Safety "
+      subtitle: Global Knowledge Sharing Platform for Patient Safety
       background: /images/hero-banner.png
       key_highlights:
         - title: Latest News
