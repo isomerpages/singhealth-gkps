@@ -9,8 +9,6 @@ The Charter urges all stakeholders, including Member States, intergovernmental o
 
 Click on the link before for best practices on"Health worker safety: a priority for patient safety,"  from key stakeholders and patient safety champions from    different geographic regions, economic and cultural settings:
 
-|Africa |Americas |South-East Asia |
-| ------ | -------- | -------- |
+**| Africa | Americas | South-East Asia |**
   
-|Europe |Eastern Mediterranean |Western Pacific |
-| ------- | -------- | -------- |
+**| Europe | Eastern Mediterranean | Western Pacific |**
