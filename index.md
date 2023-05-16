@@ -16,6 +16,13 @@ sections:
           - title: Share Best Practices WPSD 2023
             url: https://form.gov.sg/645363b36101aa00118f298c
   - infobar:
+      title: Patient Safety
+      subtitle: WHO
+      description: eliminating preventable harm to improve patient safety and health
+        outcomes at the point of care.
+      button: Click here
+      url: https://www.who.int/teams/integrated-health-services/patient-safety
+  - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
       description: Provide guidance to eliminate harm and improve patient safety in
@@ -23,11 +30,4 @@ sections:
         at the point of care.
       button: Download GPSAP
       url: /https://www.who.int/publications/i/item/9789240032705
-  - infobar:
-      title: Patient Safety
-      subtitle: WHO
-      description: eliminating preventable harm to improve patient safety and health
-        outcomes at the point of care.
-      button: Click here
-      url: https://www.who.int/teams/integrated-health-services/patient-safety
 ---
