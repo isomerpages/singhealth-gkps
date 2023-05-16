@@ -20,4 +20,4 @@ Please click on the links to access the best practices for each WPSD:
 ![](/images/hero-banner.png)
 2021 WPSD Best Practices - Safe Maternal and Newborn Care
 
-#####  **Click for 2020, 2019 WPSD Materials**
+#####  **Click for 2020, [2019](/best-practices-2019-wpsd/) WPSD Materials**
