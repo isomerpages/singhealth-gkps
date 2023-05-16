@@ -11,10 +11,10 @@ The Global action on patient safety resolution (WHA 72.6) acknowledges patient s
 
 Please click on the links to access the best practices for each WPSD:
 
-![](/images/rsz_2023_wpsd_poster.jpg)
+![](/images/hero-banner.png)
 2023 WPSD Best Practices - Engaging Patients for Patient Safety 
 
-![](/images/rsz_2022_wpsd_poster.jpg)
+![](/images/hero-banner.png)
 2022 WPSD Best Practices - Medication Safety
 
 ![](/images/hero-banner.png)
