@@ -10,16 +10,9 @@ sections:
       title: GKSP
       subtitle: Global Knowledge Sharing Platform for Patient Safety
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Latest News
-          description: Highlight latest news from World Health Organization (WHO)
-          url: https://www.who.int/news-room/headlines
-        - title: Health Topics
-          description: List of Health Topics from conditions to interventions
-          url: https://www.who.int/health-topics/
-        - title: Events
-          description: Share your events with the global network
-          url: /events/
+      dropdown:
+        title: Submit best practices
+        options: []
   - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
