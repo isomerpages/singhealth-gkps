@@ -11,8 +11,7 @@ The Global action on patient safety resolution (WHA 72.6) acknowledges patient s
 
 The theme and slogan of WPSD change every year, and this page aims to share best practices on the annual theme to support WPSD.
 
-Please click on the links to access the best practices or each WPSD
-
+Please click on the links to access the best practices for each WPSD:
 
 ![](/images/hero-banner.png)
 2023 WPSD Best Practices - Engaging Patients for Patient Safety 
@@ -26,5 +25,5 @@ Please click on the links to access the best practices or each WPSD
 ![](/images/hero-banner.png)
 2020 WPSD Best Practices - Health Worker Safety: A Priority for Patient Safety. 
 
-![](/images/hero-banner.png)
+| ![](/images/2019%20wpsd%20poster.jpg) | 
 2019 WPSD Best Practices - Speak Up For Patient Safety
