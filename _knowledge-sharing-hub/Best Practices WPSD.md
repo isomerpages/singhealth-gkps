@@ -22,8 +22,3 @@ Please click on the links to access the best practices for each WPSD:
 
 ![](/images/hero-banner.png)
 2020 WPSD Best Practices - Health Worker Safety: A Priority for Patient Safety. 
-
-![](/images/2019%20wpsd%20poster.jpg) | 
-2019 WPSD Best Practices - Speak Up For Patient Safety.
-
-2019 WPSD Best Practices - Speak Up For Patient Safety
