@@ -11,7 +11,7 @@ All information in this knowledge sharing hub page have been validated by the In
 
 Please access the relevant resources by clicking on the resource category. You may also do so by clicking on the navigation bar on the left of this page:
 
-1) Best Practices Word Patient Safety Day (WPSD)
+[1. Best Practices World Patient Safety Day (WPSD)](/best-practices-wpsd)
 
 2) Category of Resource
 
