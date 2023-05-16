@@ -13,3 +13,5 @@ In developing global  patient safety and healthcare quality leaders and expertis
 *   Work towards developing good strategies and effective contextualized implementation of needed areas in every country in the world. 
 
 Click [Here](https://form.gov.sg/64536d86f7b4ae0012e5ee1f) to submit your event for sharing with the global network
+
+Click Here to view calendar of events
