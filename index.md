@@ -17,9 +17,9 @@ sections:
         - title: Health Topics
           description: List of Health Topics from conditions to interventions
           url: https://www.who.int/health-topics/
-        - title: Contact Us
-          description: gkps@singhealth.com.sg
-          url: ""
+        - title: Events
+          description: Share your events with the global network
+          url: /events/
   - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
