@@ -18,7 +18,7 @@ sections:
   - infobar:
       title: Patient Safety
       subtitle: WHO
-      description: eliminating preventable harm to improve patient safety and health
+      description: eliminates preventable harm to improve patient safety and health
         outcomes at the point of care.
       button: Click here
       url: https://www.who.int/teams/integrated-health-services/patient-safety
