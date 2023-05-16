@@ -3,11 +3,13 @@ title: Best Practices WPSD
 permalink: /best-practices-wpsd/
 description: ""
 ---
-World Patient Safety Day (WPSD) is one of WHO’s global public health days. 
+17 September is World Patient Safety Day
+-------------------------------
+On World Patient Safety Day (WPSD), all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety.
 
-It was established in 2019 by the Seventy-second World Health Assembly through the adoption of resolution WHA72.6 – “Global action on patient safety”. 
+The Global action on patient safety resolution (WHA 72.6) acknowledges patient safety as a global health focus area & priority, and approves the annual observance of World Patient Safety Day on September 17th.
 
-The theme and slogan of WPSD change every year, and this page shares best practices on the annual theme to support WPSD.
+The theme and slogan of WPSD change every year, and this page aims to share best practices on the annual theme to support WPSD.
 
 Please click on the links to access the best practices or each WPSD
 
