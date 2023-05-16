@@ -5,7 +5,7 @@ description: ""
 ---
 The inaugural World Patient Safety Day took place on September 17th, 2019, where World Health Organization (WHO) introduced the global initiative to raise awareness about patient safety and encourage individuals to prioritize making healthcare safer by speaking up for patient safety.
 
-Click on the link before for best practices on Speaking up for Patient Safety from key stakeholders and patient safety champions from    different geographic regions, economic and cultural settings:
+Click on the link below for best practices on Speaking up for Patient Safety from key stakeholders and patient safety champions from    different geographic regions, economic and cultural settings:
 
 * Africa 
 * Americas 
