@@ -11,7 +11,7 @@ Click [here](https://form.gov.sg/64631e5f0fbfe400126c8e0d) to submit your best p
 
 #### Please click on the links to access the best practices for each SO:
 
-* [SO 1 Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere](/gpsap-strategic-objective-1)
+* [SO 1 Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere](/strategic-objective-1/)
 * SO 2 - Build high-reliability health systems and health organizations that protect patients daily from harm
 * SO 3 - Assure the safety of every clinical process
 * SO 4 - Engage and empower patients and families to help and support the journey to safer health care
