@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - International Advisory Group (IAG).md
       - About Us.md
