@@ -11,6 +11,6 @@ Please access the relevant resources by clicking on the resource category. You m
 
 [1. Best Practices World Patient Safety Day (WPSD)](/best-practices-wpsd)
 
-2) Category of Resource
+[2. Category of Resource](/category-of-resource)
 
-3) Category of Resource
+[3. Category of Resource 2](/category-of-resource-2)
