@@ -25,7 +25,6 @@ sections:
       button: CLICK HERE
       alt: Image alt text
       url: https://www.who.int/teams/integrated-health-services/patient-safety
-      image: /images/hw and patient.png
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
