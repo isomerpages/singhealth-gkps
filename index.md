@@ -40,4 +40,13 @@ sections:
         at the point of care.
       button: Download GPSAP
       url: /https://www.who.int/publications/i/item/9789240032705
+  - infopic:
+      title: Global Patient Safety Action Plan (GPSAP)
+      subtitle: 2021-2030
+      description: Provide guidance to eliminate harm and improve patient safety in
+        healthcare through policies on safety and quality, and recommendations
+        at the point of care.
+      button: DOWNLOAD HERE
+      url: /https://www.who.int/publications/i/item/9789240032705
+      alt: Image alt text
 ---
