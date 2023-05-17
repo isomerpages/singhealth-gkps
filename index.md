@@ -18,11 +18,13 @@ sections:
           - title: Share Best Practices GPSAP
             url: https://form.gov.sg/64631e5f0fbfe400126c8e0d
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Patient Safety
+      subtitle: WHO
+      description: eliminates preventable harm to improve patient safety and health
+        outcomes at the point of care.
+      button: CLICK HERE
       alt: Image alt text
+      url: https://www.who.int/teams/integrated-health-services/patient-safety
   - infobar:
       title: Patient Safety
       subtitle: WHO
