@@ -14,4 +14,4 @@ In developing global  patient safety and healthcare quality leaders and expertis
 
 Click [Here](https://form.gov.sg/64536d86f7b4ae0012e5ee1f) to submit your event for sharing with the global network
 
-Click Here to view the calendar of events
+Click [Here](https://calendar.google.com/calendar/u/1/r/month/2023/9/1?pli=1) to view the calendar of events
