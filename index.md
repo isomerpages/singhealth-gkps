@@ -35,4 +35,5 @@ sections:
       button: DOWNLOAD HERE
       url: /https://www.who.int/publications/i/item/9789240032705
       alt: Image alt text
+      image: /images/gpsap bookcover crop1.jpg
 ---
