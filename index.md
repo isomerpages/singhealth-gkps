@@ -35,13 +35,6 @@ sections:
       url: /https://www.who.int/publications/i/item/9789240032705
       alt: Image alt text
   - infobar:
-      title: Patient Safety
-      subtitle: WHO
-      description: eliminates preventable harm to improve patient safety and health
-        outcomes at the point of care.
-      button: Click here
-      url: https://www.who.int/teams/integrated-health-services/patient-safety
-  - infobar:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
       description: Provide guidance to eliminate harm and improve patient safety in
