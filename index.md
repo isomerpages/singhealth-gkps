@@ -9,7 +9,7 @@ sections:
   - hero:
       title: GKPS
       subtitle: Global Knowledge Sharing Platform for Patient Safety
-      background: /images/gksp homepage pic.png
+      background: /images/gkps pic.png
       dropdown:
         title: Submit best practices
         options:
