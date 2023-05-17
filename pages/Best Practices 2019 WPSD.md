@@ -8,7 +8,7 @@ The inaugural World Patient Safety Day took place on September 17th, 2019, where
 Click on the link below for best practices on Speaking up for Patient Safety from key stakeholders and patient safety champions from    different geographic regions, economic and cultural settings:
 
 * [Africa](/files/Africa/2019%20WPSD%20Africa/best%20practices%202019%20wpsd_africa.pdf)
-* Americas 
+* Americas [](/files/Africa/WPSD%20Africa/best%20practices%202019%20wpsd_africa.pdf)
 * South-East Asia
 * Europe 
 * Eastern Mediterranean 
