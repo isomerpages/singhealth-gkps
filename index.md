@@ -7,9 +7,9 @@ permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety!
 sections:
   - hero:
-      title: GKSP
+      title: GKPS
       subtitle: Global Knowledge Sharing Platform for Patient Safety
-      background: /images/hero-banner.png
+      background: /images/gksp homepage pic.png
       dropdown:
         title: Submit best practices
         options:
@@ -17,6 +17,12 @@ sections:
             url: https://form.gov.sg/645363b36101aa00118f298c
           - title: Share Best Practices GPSAP
             url: https://form.gov.sg/64631e5f0fbfe400126c8e0d
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Patient Safety
       subtitle: WHO
