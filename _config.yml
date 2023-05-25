@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2qijbsoh0q7ha.amplifyapp.com
 prod: https://master.d2qijbsoh0q7ha.amplifyapp.com
 resources_name: huda
-shareicon: /images/gkps-logo2.png
+shareicon: /images/gkpslogo-2.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
