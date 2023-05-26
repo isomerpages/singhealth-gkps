@@ -8,7 +8,6 @@ notification: Welcome to the Global Knowledge Sharing Platform for Patient Safet
 sections:
   - hero:
       title: Global Knowledge Sharing<br> Platform for<br> Patient Safety
-      subtitle: Global Knowledge Sharing<br> Platform for<br> Patient Safety
       background: /images/gkpsbanner.png
       dropdown:
         title: Submit best practices
