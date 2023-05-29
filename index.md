@@ -34,5 +34,5 @@ sections:
       button: DOWNLOAD HERE
       url: /https://www.who.int/publications/i/item/9789240032705
       alt: Image alt text
-      image: /images/gkps imageresize2.png
+      image: /images/gkps imageresize21.png
 ---
