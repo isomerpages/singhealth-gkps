@@ -2,7 +2,7 @@ collections:
   knowledge-sharing-hub:
     output: true
     order:
-      - Welcome.md
+      - Message.md
       - Best Practices WPSD.md
       - Best Practices GPSAP.md
       - National Patient Safety Strategies & Actions.md
