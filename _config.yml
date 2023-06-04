@@ -3,12 +3,12 @@ url: https://www.gkps.net
 favicon: /images/gkpslogo2.png
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#9013fe"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
-      color: "#50e3c2"
+      color: "#9013fe"
     - title: media-color-two
-      color: "#f5a623"
+      color: "#bd10e0"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
