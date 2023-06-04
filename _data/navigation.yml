@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us
     sublinks:
+      - title: Welcome
+        url: /welcome
       - title: International Advisory Group
         url: /iag
   - title: Knowledge Sharing
