@@ -36,4 +36,7 @@ sections:
       url: https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan
       alt: Image alt text
       image: /images/gkps imageresize22.png
+  - resources:
+      title: Patient Safety
+      subtitle: Networks
 ---
