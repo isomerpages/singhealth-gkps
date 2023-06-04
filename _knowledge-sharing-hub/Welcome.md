@@ -13,4 +13,4 @@ Please access the relevant resources by clicking on the resource category. You m
 
 [2. Best Practices GPSAP ](/best-practices-gpsap/)
 
-[3. National PS Strategies/Actions](/national-sa)
+[3. National Patient Safety Strategies & Actions](/national-sa)
