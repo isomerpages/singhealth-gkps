@@ -15,17 +15,4 @@ Dr Neelam Dhingra, Unit Head, WHO Patient Safety Flagship, Geneva
 
 Prof Tan Kok Hian, Group Director SingHealth Institute for Patient Safety & Quality (IPSQ), Singapore 
 
-Name
-Designation, Organisation, Country 
-
-Name
-Designation, Organisation, Country 
-
-Name
-Designation, Organisation, Country 
-
-Name
-Designation, Organisation, Country 
-
-Name
-Designation, Organisation, Country
+To list Name, Designation, Organization, Country by Name in Alpha Order
