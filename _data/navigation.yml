@@ -1,7 +1,7 @@
 logo: /images/gkpslogo2.png
 links:
   - title: About Us
-    url: /about-us
+    url: /welcome
     sublinks:
       - title: Welcome
         url: /welcome
