@@ -32,7 +32,7 @@ sections:
         healthcare through policies on safety and quality, and recommendations
         at the point of care.
       button: DOWNLOAD HERE
-      url: /https://www.who.int/publications/i/item/9789240032705
+      url: https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan
       alt: Image alt text
       image: /images/gkps imageresize22.png
 ---
