@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About Us.md
+      - Welcome.md
       - International Advisory Group (IAG).md
