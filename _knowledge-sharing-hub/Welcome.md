@@ -13,4 +13,4 @@ Please access the relevant resources by clicking on the resource category. You m
 
 [2. Best Practices GPSAP ](/best-practices-gpsap/)
 
-[3. Category of Resource 2](/category-of-resource-2)
+[3. National PS Strategies/Actions](/national-sa)
