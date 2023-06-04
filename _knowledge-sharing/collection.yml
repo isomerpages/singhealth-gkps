@@ -1,5 +1,5 @@
 collections:
-  knowledge-sharing-hub:
+  knowledge-sharing:
     output: true
     order:
       - Message.md
