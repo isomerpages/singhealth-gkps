@@ -8,8 +8,10 @@ links:
       - title: International Advisory Group
         url: /iag
   - title: Knowledge Sharing
-    url: /knowledge-sharing-hub
+    url: /message
     sublinks:
+      - title: Message
+        url: /message
       - title: Best Practices WPSD
         url: /best-practices-wpsd
       - title: Best Practices GPSAP
