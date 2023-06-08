@@ -13,11 +13,10 @@ Essentially, these national efforts aim to prevent errors, reduce harm and enhan
 
 Please click here to share your national patient safety policies, strategies & actions.
 
-Click on the link below for national patient safety policies, strategies & actions from countries in the following regions:
+Click on the link below for national patient safety policies, strategies & actions:
 
-*   Africa
-*   Americas
-*   South-East Asia
-*   Europe
-*   Eastern Mediterranean
-*   Western Pacific
+
+| Column 1 | Column 2 | Column 3 | Column 3 |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
+
