@@ -5,6 +5,8 @@ description: ""
 ---
 #### SO 1 - Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere
 
+The Global 
+
 Click on the link for best practices on SO 1 from key stakeholders and patient safety champions from different geographic regions, economic and cultural settings:
 
 
