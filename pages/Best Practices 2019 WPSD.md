@@ -14,4 +14,3 @@ Click on the links below for best practices on Speaking up for Patient Safety fr
 | Africa  | Training Programme on speaking up for patient safety for Nurses     | Staff Competency   | Click here for shared documents & links|
 | Singapore  | Speak Up Culture in an Acute Setting     | Culture   | Click here for shared documents & links|
 | Malaysia  | Success Stories on Speaking Up Campaign  | Communications  | Click here for shared documents & links|
-
