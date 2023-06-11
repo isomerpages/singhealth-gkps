@@ -3,9 +3,9 @@ title: GPSAP Strategic Objective 1
 permalink: /strategic-objective-1/
 description: ""
 ---
-#### SO 1 - Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere
+#### Strategic Objective (SO) 1 - Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere
 
-The Global Patient Safety Action Plan 2021-2030 outlines the following 5 strategies to guide action plans on patient safety, as well as to align existing strategic instruments for improving patient safety in all clinical and health-related programmes: 
+The Global Patient Safety Action Plan 2021-2030 outlines the following 5 strategies to guide actions on patient safety for SO 1: 
 
 * Strategy 1.1 Patient safety policy, strategy and implementation framework
 * Strategy 1.2 Resource mobilization and allocation
