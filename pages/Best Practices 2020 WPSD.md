@@ -9,9 +9,8 @@ The Charter urges all stakeholders, including Member States, intergovernmental o
 
 Click on the link below for best practices on"Health worker safety: a priority for patient safety,"  from key stakeholders and patient safety champions from different geographic regions, economic and cultural settings:
 
-* [Africa](/files/Africa/2019%20WPSD%20Africa/best%20practices%202020%20wpsd_africa.pdf)
-* Americas 
-* South-East Asia
-* Europe 
-* Eastern Mediterranean 
-* Western Pacific
+| Country | Project Title| Domain | Files
+|------- | -------- | -------- | -------- |
+| Africa  | Training Programme on speaking up for patient safety for Nurses     | Staff Competency   | Click here for shared links|
+| Singapore  | Training Speak Up for Patient Safety  | Culture   | Click here for shared links|
+| Malaysia  | Success Stories on Speaking Up Campaign  | Communications  | Click here for shared links|
