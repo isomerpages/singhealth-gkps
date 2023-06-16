@@ -3,7 +3,7 @@ title: Welcome
 permalink: /welcome/
 description: ""
 ---
-Welcome to the Global Knowledge Sharing Platform for Patient Safety (GKSP).
+Welcome to the Global Knowledge Sharing Platform for Patient Safety (GKPS).
         
 The Global Knowledge Sharing Platform for Patient Safety (GKPS) is an online platform, a public domain to facilitate systematic collection and sharing of patient safety knowledge by different stakeholder in different geographic regions, economic and cultural settings.
 
