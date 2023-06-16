@@ -16,3 +16,5 @@ Please click here to share your national patient safety policies, strategies & a
 Click on the link below for national patient safety policies, strategies & actions:
 
 [Mapping National PS Policies and Strategies](/files/mapping%20national%20ps%20policies%20and%20strategies.pdf)
+
+[Inventory List](/files/inventory%20list%20national%20policies%20and%20strategies%20for%20patient%20safety.pdf)
