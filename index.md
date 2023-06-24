@@ -8,6 +8,9 @@ notification: Welcome to the Global Knowledge Sharing Platform for Patient Safet
 sections:
   - hero:
       background: /images/gkpsbanner.png
+  - resources:
+      title: Patient Safety
+      subtitle: Resources & Networks
   - infopic:
       title: Patient Safety
       subtitle: WHO
@@ -28,7 +31,4 @@ sections:
       url: https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan
       alt: Image alt text
       image: /images/gkps imageresize22.png
-  - resources:
-      title: Patient Safety
-      subtitle: Resources & Networks
 ---
