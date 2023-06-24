@@ -11,10 +11,10 @@ Click [here](https://form.gov.sg/64631e5f0fbfe400126c8e0d) to submit your best p
 
 #### Please click on the links to access the best practices for each SO:
 
-* [SO 1 Make zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere](/strategic-objective-1/)
-* SO 2 - Build high-reliability health systems and health organizations that protect patients daily from harm
-* SO 3 - Assure the safety of every clinical process
-* SO 4 - Engage and empower patients and families to help and support the journey to safer health care
-* SO 5 - Inspire, educate, skill and protect health workers to contribute to the design and delivery of safe care systems
-* SO 6 - Ensure a constant flow of information and knowledge to drive the mitigation of risk, a reduction in levels of avoidable harm, and improvements in the safety of care
-* SO 7 - Develop and sustain multisectoral and multinational synergy, partnership and solidarity to improve patient safety and quality of care
+* [SO1 Policies to eliminate avoidable harm in health care](/files/gkpslinka01-20232406.pdf)
+* [SO2 Build high-reliability health systems and health organizations that protect patients daily from harm](/files/gkpslinka02-20232406.pdf)
+* [SO3 Assure the safety of every clinical process](/files/gkpslinka03-20232406.pdf)
+* [SO4 Patient and family engagement](/files/gkpslinka04-20232406.pdf)
+* [SO5 Health worker education, skills and safety](/files/gkpslinka05-20232406.pdf)s
+* [SO6 Information, research and risk management](/files/gkpslinka06-20232406.pdf)
+* [SO7 Synergy, partnership and solidarity ](/files/gkpslinka07-20232406.pdf)
