@@ -14,12 +14,9 @@ Recognizing the central role that patients, their families and caregivers play i
 Through the slogan “Elevate the voice of patients!”, WHO calls on all stakeholders to take necessary action to ensure that patients are involved in policy formulation, are represented in governance structures, are engaged in co-designing safety strategies, and are active partners in their own care. There is a need to provide plaforms at global, national and local levels to enable patients and their families to make their voices heard and share their experiences of safe and unsafe care; and to ensure that they are engaged and empowered, and their insights are used as a vital source of learning and improvement.
 Objectives of World Patient Safety Day 2023:
 
-1.  Raise global awareness of the need for active engagement of patients and their families and caregivers in all settings and at all levels of health care to improve patient safety.
-
-1. Engage policy-makers, health care leaders, health and care workers, patients’ organizations, civil society and other stakeholders in efforts to engage patients and families in the policies and practices for safe health care.
-
-1. Empower patients and families to be actively involved in their own health care and in the improvement of safety of health care.
-
-1. Advocate urgent action on patient and family engagement, aligned with the Global Patient Safety Action Plan 2021–2030, to be taken by all partners.
+* Raise global awareness of the need for active engagement of patients and their families and caregivers in all settings and at all levels of health care to improve patient safety.
+* Engage policy-makers, health care leaders, health and care workers, patients’ organizations, civil society and other stakeholders in efforts to engage patients and families in the policies and practices for safe health care.
+* Empower patients and families to be actively involved in their own health care and in the improvement of safety of health care.
+* Advocate urgent action on patient and family engagement, aligned with the Global Patient Safety Action Plan 2021–2030, to be taken by all partners.
 
 Please click [here](https://form.gov.sg/645363b36101aa00118f298c) to share best practices for 2023 WPSD
