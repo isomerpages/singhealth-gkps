@@ -1,0 +1,4 @@
+collections:
+  submission-forms:
+    output: true
+    order: []
