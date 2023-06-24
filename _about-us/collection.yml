@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Welcome.md
-      - Global Knowledge Sharing Platform for Patient Safety International
-        Advisory Group (IAG).md
+      - International Advisory Group (IAG).md
