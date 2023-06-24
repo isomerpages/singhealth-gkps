@@ -7,16 +7,14 @@ links:
         url: /welcome
       - title: International Advisory Group
         url: /iag
-  - title: Knowledge Sharing
+  - title: Best Practices
     url: /message
     sublinks:
       - title: Message
         url: /message
-      - title: Best Practices WPSD
+      - title: "Best Practices WPSD "
         url: /best-practices-wpsd
       - title: Best Practices GPSAP
         url: /best-practices-gpsap/
-      - title: National PS Strategies/Actions
-        url: /national-sa
   - title: Events
     url: /events
