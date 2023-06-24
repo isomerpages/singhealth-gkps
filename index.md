@@ -8,13 +8,6 @@ notification: Welcome to the Global Knowledge Sharing Platform for Patient Safet
 sections:
   - hero:
       background: /images/gkpsbanner.png
-      dropdown:
-        title: Best Practices Submission
-        options:
-          - title: Share Best Practices WPSD 2023
-            url: https://form.gov.sg/645363b36101aa00118f298c
-          - title: Share Best Practices GPSAP
-            url: https://form.gov.sg/64631e5f0fbfe400126c8e0d
   - infopic:
       title: Patient Safety
       subtitle: WHO
