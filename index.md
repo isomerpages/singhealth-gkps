@@ -37,5 +37,5 @@ sections:
       image: /images/gkps imageresize22.png
   - resources:
       title: Patient Safety
-      subtitle: Networks
+      subtitle: Resources & Networks
 ---
