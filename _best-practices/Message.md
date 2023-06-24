@@ -11,6 +11,4 @@ Please access the relevant resources by clicking on the resource category. You m
 
 [1. Best Practices World Patient Safety Day (WPSD)](/best-practices-wpsd)
 
-[2. Best Practices GPSAP ](/best-practices-gpsap/)
-
-[3. National Patient Safety Strategies & Actions](/national-sa)
+[2. Best Practices Global Patient Safety Action Plan (GPSAP) ](/best-practices-gpsap/)
