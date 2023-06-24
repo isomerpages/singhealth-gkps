@@ -11,15 +11,3 @@ The Global action on patient safety resolution (WHA 72.6) acknowledges patient s
 
 Please click [here](https://form.gov.sg/645363b36101aa00118f298c) to share best practices for 2023 WPSD 
 
-#### Please click on the links to access the best practices for each WPSD:
-
-![](/images/hero-banner.png)
-2023 WPSD Best Practices - Engaging Patients for Patient Safety 
-
-![](/images/hero-banner.png)
-2022 WPSD Best Practices - Medication Safety
-
-![](/images/hero-banner.png)
-2021 WPSD Best Practices - Safe Maternal and Newborn Care
-
-#####  **Click for [2020](/best-practices-2020-wpsd/), [2019](/best-practices-2019-wpsd/) WPSD Materials**
