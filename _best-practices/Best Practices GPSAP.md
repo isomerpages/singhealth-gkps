@@ -15,6 +15,6 @@ Click [here](https://form.gov.sg/64631e5f0fbfe400126c8e0d) to submit your best p
 * [SO2 Build high-reliability health systems and health organizations that protect patients daily from harm](/files/gkpslinka02-20232406.pdf)
 * [SO3 Assure the safety of every clinical process](/files/gkpslinka03-20232406.pdf)
 * [SO4 Patient and family engagement](/files/gkpslinka04-20232406.pdf)
-* [SO5 Health worker education, skills and safety](/files/gkpslinka05-20232406.pdf)s
+* [SO5 Health worker education, skills and safety](/files/gkpslinka05-20232406.pdf)
 * [SO6 Information, research and risk management](/files/gkpslinka06-20232406.pdf)
 * [SO7 Synergy, partnership and solidarity ](/files/gkpslinka07-20232406.pdf)
