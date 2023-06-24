@@ -3,16 +3,15 @@ title: International Advisory Group (IAG)
 permalink: /iag/
 description: ""
 ---
-The GKPS Advisory Group (AG) comprises of international experts in the field of patient safety and quality for healthcare. The GKPS AG is managed by SingHealth Institute for Patient Safety & Quality (IPSQ). The main role of GKPS AG is to validate the technical contents before they are being shared on GKPS. Essentially, the GKPS AG:
+The International Advisory Group of the Global Knowledge Sharing Platform for Patient Safety (GKPS) comprises of international health care and patient safety experts.  The key roles of the International Advisory Group are to:
 
-* reviews the technical content, and events submitted to GKPS for sharing
-* provides endorsement for resources to be shared on GKPS
+* review practices, resources, events and programmes submitted to the Global Knowledge Sharing Platform for Patient Safety (GKPS)
+* provide endorsement for practices and resources to be shared on the Global Knowledge Sharing Platform for Patient Safety (GKPS)
 * supports the editorial board
 
-### Members of GKPS Advisory Group 
+The International Advisory Group is managed by the SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ). 
 
-Dr Neelam Dhingra, Unit Head, WHO Patient Safety Flagship, Geneva
+### Members of <br> GKPS International Advisory Group
 
-Prof Tan Kok Hian, Group Director SingHealth Institute for Patient Safety & Quality (IPSQ), Singapore 
-
-To list Name, Designation, Organization, Country by Name in Alpha Order
+1. Dr Neelam Dhingra, Unit Head, Patient Safety Flagship, World Health Organization-HQ, Geneva, Switzerland.
+2. Prof Tan Kok Hian, Group Director and Senior Associate Dean, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore 
