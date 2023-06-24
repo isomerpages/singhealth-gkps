@@ -1,0 +1,4 @@
+collections:
+  national-strategies:
+    output: true
+    order: []
