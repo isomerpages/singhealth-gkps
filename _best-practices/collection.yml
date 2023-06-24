@@ -1,5 +1,5 @@
 collections:
-  knowledge-sharing:
+  best-practices:
     output: true
     order:
       - Message.md
