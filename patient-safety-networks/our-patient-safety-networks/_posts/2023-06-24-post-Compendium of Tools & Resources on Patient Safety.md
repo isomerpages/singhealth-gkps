@@ -20,8 +20,6 @@ Click on the link to access the materials for each Strategies Objective
 * [SO7 Synergy, partnership and solidarity ](/files/gkpslinka07-20232406.pdf)
 
 
-
-
-
+#### To submit best practices on GPSAP for sharing on this platform, please click [Here](https://form.gov.sg/64631e5f0fbfe400126c8e0d)
 
 ****Disclaimer: the resources and links in this document are accurate as of 24 June 2023.
