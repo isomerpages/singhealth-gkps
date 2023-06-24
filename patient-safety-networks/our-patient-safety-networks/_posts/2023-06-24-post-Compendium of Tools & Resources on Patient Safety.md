@@ -10,11 +10,18 @@ The Compendium of Tools & Resources on Patient Safety curated by World Health Or
 
 Click on the link to access the materials for each Strategies Objective
 
+#### Please click on the links to access the best practices for each SO:
+* [SO1 Policies to eliminate avoidable harm in health care](/files/gkpslinka01-20232406.pdf)
+* [SO2 Build high-reliability health systems and health organizations that protect patients daily from harm](/files/gkpslinka02-20232406.pdf)
+* [SO3 Assure the safety of every clinical process](/files/gkpslinka03-20232406.pdf)
+* [SO4 Patient and family engagement](/files/gkpslinka04-20232406.pdf)
+* [SO5 Health worker education, skills and safety](/files/gkpslinka05-20232406.pdf)
+* [SO6 Information, research and risk management](/files/gkpslinka06-20232406.pdf)
+* [SO7 Synergy, partnership and solidarity ](/files/gkpslinka07-20232406.pdf)
 
 
 
 
 
 
-
-****Disclaimer: the resources consolidated in this document is accurate as of 24 June 2023.
+****Disclaimer: the resources and links in this document are accurate as of 24 June 2023.
