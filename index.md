@@ -7,10 +7,9 @@ permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety!
 sections:
   - hero:
-      title: Global Knowledge Sharing<br> Platform for<br> Patient Safety
       background: /images/gkpsbanner.png
       dropdown:
-        title: Submit best practices
+        title: Best Practices Submission
         options:
           - title: Share Best Practices WPSD 2023
             url: https://form.gov.sg/645363b36101aa00118f298c
