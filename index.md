@@ -2,7 +2,7 @@
 layout: homepage
 title: Global Knowledge Sharing Platform for Patient Safety (GKPS)
 description: Brief site description here
-image: /images/gkps logo_edited 260623.png
+image: /images/gkps logo edited_260623.png
 permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety (GKPS)
 sections:
