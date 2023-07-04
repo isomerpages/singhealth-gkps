@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to the Global Knowledge Sharing Platform for Patient Safety (GKPS)
 sections:
   - hero:
-      background: /images/gkps gif.gif
+      background: /images/gkps landing banner.png
   - resources:
       title: Patient Safety
       subtitle: Resources & Networks
