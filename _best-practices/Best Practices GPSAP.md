@@ -7,7 +7,7 @@ Policy-makers, political leaders, and healthcare authorities across the globe ha
 
 [GPSAP](https://www.who.int/publications/i/item/9789240032705) provides guidance to eliminate harm and improve patient safety in healthcare through policies on safety and quality, and recommendations at the point of care through 7 Strategic Objectives (SOs) and 35 strategies. 
 
-Click [here](https://form.gov.sg/64631e5f0fbfe400126c8e0d) to submit your best practices that are aligned to the 7 SOs of GSAP.
+Click [here](https://for.sg/gpsap-bestpractices) to submit your best practices that are aligned to the 7 SOs of GSAP.
 
 #### Please click on the links to access the best practices for each SO:
 
