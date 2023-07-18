@@ -12,9 +12,11 @@ links:
     sublinks:
       - title: Message
         url: /message
-      - title: Best Practices WPSD
+      - title: Practices on Patient Safety
+        url: /best-practices
+      - title: Practices for WPSD
         url: /best-practices-wpsd
-      - title: Best Practices GPSAP
+      - title: Practices for GPSAP
         url: /best-practices-gpsap/
       - title: Patient Safety Challenges
         url: /permalink
