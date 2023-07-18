@@ -7,7 +7,7 @@ links:
         url: /welcome
       - title: International Advisory Group
         url: /iag
-  - title: Best Practices
+  - title: Practices
     url: /message/
     sublinks:
       - title: Message
@@ -16,11 +16,24 @@ links:
         url: /best-practices-wpsd
       - title: Best Practices GPSAP
         url: /best-practices-gpsap/
-  - title: National Strategies & Actions
-    url: /nsa
+      - title: Patient Safety Challenges
+        url: /permalink
+      - title: National Strategies & Actions
+        url: /nsa
+  - title: Resources & Networks
+    url: /permalink
+    sublinks:
+      - title: Compendium
+        url: /permalink
+      - title: Global Patient Safety Network
+        url: /permalink
+      - title: Asia Pacific Patient Safety
+        url: /permalink
+      - title: PSMF
+        url: /psmf.org/event/10th-annual-world-patient-safety-science-technology-summit/
+  - title: Share Practices
+    url: /submissionforms
   - title: Events & Announcements
     url: /eventsannounce
-  - title: Submission Forms
-    url: /submissionforms
   - title: Contact Us
     url: /contactus
