@@ -19,4 +19,4 @@ Objectives of World Patient Safety Day 2023:
 * Empower patients and families to be actively involved in their own health care and in the improvement of safety of health care.
 * Advocate urgent action on patient and family engagement, aligned with the Global Patient Safety Action Plan 2021–2030, to be taken by all partners.
 
-Please click [here](https://for.sg/wpsd-bestpractices) to share best practices for 2023 World Patient Safety Day.
+Please click [here](https://for.sg/wpsd-bestpractices) to share practices for 2023 World Patient Safety Day.
