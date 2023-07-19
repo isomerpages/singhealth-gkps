@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Message.md
-      - Best Practices WPSD.md
+      - WPSD Practices.md
       - Best Practices GPSAP.md
       - National Strategies & Actions.md
