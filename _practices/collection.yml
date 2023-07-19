@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Message.md
-      - WPSD Practices.md
+      - Practices for WPSD.md
       - Patient Safety Practices.md
       - National Strategies & Actions.md
