@@ -23,12 +23,12 @@ links:
   - title: Resources & Networks
     url: /permalink
     sublinks:
-      - title: Compendium
-        url: /patient-safety-networks/our-patient-safety-networks/permalink/
+      - title: Compendium of Tools/Resources
+        url: permalink
       - title: Global Patient Safety Network
-        url: ezcollab.who.int/gpsn/
+        url: https://ezcollab.who.int/gpsn/
       - title: Asia Pacific Patient Safety
-        url: ezcollab.who.int/gpsn/apps
+        url: https://ezcollab.who.int/gpsn/apps
       - title: Other Resources
         url: resourceRoom/patient-safety-resources-and-networks
   - title: Share Practices
