@@ -1,5 +1,4 @@
 collections:
   national-strategies:
     output: true
-    order:
-      - National Strategies & Actions.md
+    order: []
