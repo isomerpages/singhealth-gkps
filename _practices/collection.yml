@@ -2,7 +2,7 @@ collections:
   practices:
     output: true
     order:
-      - National Strategies & Actions.md
       - Message.md
       - Best Practices WPSD.md
       - Best Practices GPSAP.md
+      - National Strategies & Actions.md
