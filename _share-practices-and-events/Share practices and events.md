@@ -11,8 +11,8 @@ In fostering a global community of learning, we encourage patient safety practit
 
 Start sharing by submitting the forms today:
 
-1. [Submission Form: Best Practices on GPSAP](https://for.sg/gpsap-bestpractices)
+1. [Share Patient Safety Practices](https://for.sg/gpsap-bestpractices)
 
-3. [Submission Form: Best Practices on World Patient Safety Day (WPSD) 2023](https://for.sg/wpsd-bestpractices)
+3. [Share Practices on World Patient Safety Day (WPSD)](https://for.sg/wpsd-bestpractices)
 
-5. [Submission Form: Events & Announcements ](https://for.sg/gkps-event-submission)
+5. [Share Patient Safety Events](https://for.sg/gkps-event-submission)
