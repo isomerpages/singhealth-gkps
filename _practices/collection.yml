@@ -2,8 +2,8 @@ collections:
   practices:
     output: true
     order:
-      - Patient Safety Challenges.md
       - Message.md
       - Practices for WPSD.md
       - Patient Safety Practices.md
+      - Patient Safety Challenges.md
       - National Strategies & Actions.md
