@@ -1,5 +1,5 @@
 collections:
-  best-practices:
+  practices:
     output: true
     order:
       - Message.md
