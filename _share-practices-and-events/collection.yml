@@ -1,5 +1,5 @@
 collections:
-  submission-forms:
+  share-practices-and-events:
     output: true
     order:
       - Submission Forms.md
