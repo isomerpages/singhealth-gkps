@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/navy blue animated business company presentation video (9).gif
-  - resources:
-      title: Patient Safety
-      subtitle: Resources & Networks
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
@@ -31,4 +28,16 @@ sections:
       alt: Image alt text
       url: https://www.who.int/teams/integrated-health-services/patient-safety
       image: /images/gkps imageresize11.jpg
+  - infopic:
+      title: World Patient Safety Day
+      subtitle: WHO
+      description: "World Patient Safety Day calls for global solidarity and concerted
+        action by all countries and international partners to improve patient
+        safety. "
+      button: Click Here
+      url: https://www.who.int/campaigns/world-patient-safety-day
+      alt: Image alt text
+  - resources:
+      title: Patient Safety
+      subtitle: Resources & Networks
 ---
