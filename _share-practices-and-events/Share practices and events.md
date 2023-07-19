@@ -9,7 +9,7 @@ The Global Patient Safety Action Plan (GPSAP) 2021-2030 provides a framework to 
 
 In fostering a global community of learning, we encourage patient safety practitioners, experts and leaders like yourselves to submit practices for sharing with the community and more importantly to form collaborations to advance patient safety and quality of care.
 
-Start sharing today!
+Start sharing practices today!
 
 1. [Share Patient Safety Practices](https://for.sg/gpsap-bestpractices)
 
