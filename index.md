@@ -31,9 +31,9 @@ sections:
   - infopic:
       title: World Patient Safety Day
       subtitle: WHO
-      description: "World Patient Safety Day calls for global solidarity and concerted
+      description: World Patient Safety Day calls for global solidarity and concerted
         action by all countries and international partners to improve patient
-        safety. "
+        safety.
       button: Click Here
       url: https://www.who.int/campaigns/world-patient-safety-day
       alt: Image alt text
