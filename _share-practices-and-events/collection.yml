@@ -2,4 +2,4 @@ collections:
   share-practices-and-events:
     output: true
     order:
-      - Submission Forms.md
+      - Share practices and events.md
