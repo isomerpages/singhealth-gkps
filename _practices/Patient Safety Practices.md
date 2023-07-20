@@ -9,7 +9,7 @@ Policy-makers, political leaders, and healthcare authorities across the globe ha
 
 Click [here](https://for.sg/gpsap-bestpractices) to submit your practices that are aligned to the 7 SOs of GSAP.
 
-#### Please click on the links to access the best practices for each SO:
+#### Please click on the links to access the practices for each SO:
 
 * [SO1 Policies to eliminate avoidable harm in health care](/files/gkpslinka01-20232406.pdf)
 * [SO2 Build high-reliability health systems and health organizations that protect patients daily from harm](/files/gkpslinka02-20232406.pdf)
