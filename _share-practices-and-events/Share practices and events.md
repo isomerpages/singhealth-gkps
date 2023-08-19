@@ -11,8 +11,8 @@ In fostering a global community of learning, we encourage patient safety practit
 
 Start sharing practices today!
 
-1. [Share Patient Safety Practices](https://for.sg/gpsap-bestpractices)
+1. [Share Patient Safety Practices](https://for.sg/gpsap-practices)
 
-3. [Share Practices on World Patient Safety Day (WPSD)](https://for.sg/wpsd-bestpractices)
+3. [Share Practices on World Patient Safety Day (WPSD)](https://for.sg/wpsd-practices)
 
 5. [Share Patient Safety Events](https://for.sg/gkps-event-submission)
