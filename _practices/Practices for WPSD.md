@@ -13,7 +13,7 @@ Recognizing the central role that patients, their families and caregivers play i
 
 Through the slogan “Elevate the voice of patients!”, WHO calls on all stakeholders to take necessary action to ensure that patients are involved in policy formulation, are represented in governance structures, are engaged in co-designing safety strategies, and are active partners in their own care. There is a need to provide plaforms at global, national and local levels to enable patients and their families to make their voices heard and share their experiences of safe and unsafe care; and to ensure that they are engaged and empowered, and their insights are used as a vital source of learning and improvement.
 
-Objectives of World Patient Safety Day 2023:
+**Objectives of World Patient Safety Day 2023:**
 
 * Raise global awareness of the need for active engagement of patients and their families and caregivers in all settings and at all levels of health care to improve patient safety.
 * Engage policy-makers, health care leaders, health and care workers, patients’ organizations, civil society and other stakeholders in efforts to engage patients and families in the policies and practices for safe health care.
