@@ -13,6 +13,6 @@ Start sharing practices today!
 
 1. [Share Patient Safety Practices](https://for.sg/gpsap-practices)
 
-2. [Share Practices on World Patient Safety Day ]((/practicesforwpsd/)
+2. [Share Practices for World Patient Safety Day](/practicesforwpsd/)
 
 3. [Share Patient Safety Events](https://for.sg/gkps-event-submission)
