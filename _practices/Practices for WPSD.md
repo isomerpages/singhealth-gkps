@@ -20,7 +20,7 @@ Through the slogan “Elevate the voice of patients!”, WHO calls on all stakeh
 * Empower patients and families to be actively involved in their own health care and in the improvement of safety of health care.
 * Advocate urgent action on patient and family engagement, aligned with the Global Patient Safety Action Plan 2021–2030, to be taken by all partners.
 
-
+Share your practices that that are aligned to the respective theme of each World Patient Safety Day. Submitted practices will be reviewed by the IAG and shared with the global patient safety network:
 
 ##### **1.  [Share](https://for.sg/wpsd-practices) practices for 2023 World Patient Safety Day "Engaging patients for patient safety"**
 ###### 2. [Share](https://form.gov.sg/64e0161bc98c410011aaf0e7) practices for 2022 World Patient Safety Day "Medication Safety"
