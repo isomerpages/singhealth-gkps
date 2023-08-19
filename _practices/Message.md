@@ -9,6 +9,6 @@ The Global Knowledge Sharing Platform for Patient Safety (GKPS) is a repository 
 
 Please access the relevant resources by clicking on the resource category. You may also do so by clicking on the navigation bar on the left of this page:
 
-[1. Best Practices World Patient Safety Day (WPSD)](/best-practices-wpsd)
+[1. Best Practices World Patient Safety Day (WPSD)](/practicesforwpsd/)
 
 [2. Best Practices Global Patient Safety Action Plan (GPSAP) ](/best-practices-gpsap/)
