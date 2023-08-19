@@ -15,3 +15,5 @@ The International Advisory Group is managed by the SingHealth Duke-NUS Institute
 
 1. Dr Neelam Dhingra, Unit Head, Patient Safety Flagship, World Health Organization-HQ, Geneva, Switzerland.
 2. Prof Tan Kok Hian, Group Director and Senior Associate Dean, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore
+
+###Note: Please keep a lookout for this space as we establish the IAG within the next few months to come. 
