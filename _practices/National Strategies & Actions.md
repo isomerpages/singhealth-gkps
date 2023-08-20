@@ -16,4 +16,4 @@ Click on the link below for the inventory list of national policies and strategi
 
 
 
-***Disclaimer: the inventory list is accurate as of <br> 28 August 2023.
+***Disclaimer: the inventory list is accurate as of <br> 20 August 2023.
