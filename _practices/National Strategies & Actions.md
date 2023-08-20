@@ -11,7 +11,7 @@ Please click here to share your national patient safety policies, strategies &am
 
 Click on the link below for the inventory list of national policies and strategies for patient safety:
 
-* [Inventory List of National Policies and Strategies for Patient safety](/files/gkpslinka08-20232406.pdf)
+* [Inventory List of National Policies and Strategies for Patient safety](https://for.sg/gkpslinka08)
 
 
 
