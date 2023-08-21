@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Compendium of Tools & Resources on Patient Safety curated by World Health Organization (WHO) Patient Safety Flagship Unit, brings a comprehensive list of resources  that are mapped to the Global Patient Safety Action Plan (GPSAP) Strategic Objectives and its strategies. The types of resources range from action plans to education materials, with the aim to provide patient safety practitioners and health care professionals with relevant resources and references that could be adopted or adapted to their context to drive patient safety. 
+The Compendium of Tools and Resources on Patient Safety curated by World Health Organization (WHO) Patient Safety Flagship Unit, brings a comprehensive list of resources  that are mapped to the Global Patient Safety Action Plan (GPSAP) 2021-2030 Strategic Objectives and its strategies. The types of resources range from action plans to education materials, with the aim to provide patient safety practitioners and health care professionals with relevant resources and references that could be adopted or adapted to their context to drive patient safety. 
 
 #### Please click on the links to access the best practices for each SO:
 * [SO1 Policies to eliminate avoidable harm in health care](/files/gkpslinka01-20232406.pdf)
