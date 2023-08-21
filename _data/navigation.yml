@@ -33,3 +33,10 @@ links:
     url: /eventsannounce
   - title: Contact Us
     url: /contactus
+  - title: Networks
+    url: /permalink
+    sublinks:
+      - title: Global Patient Safety Network
+        url: https://ezcollab.who.int/gpsn/
+      - title: Asia Pacific Patient Safety
+        url: https://ezcollab.who.int/gpsn/apps
