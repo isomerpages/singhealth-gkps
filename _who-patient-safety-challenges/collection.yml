@@ -2,4 +2,5 @@ collections:
   who-patient-safety-challenges:
     output: true
     order:
+      - Clean Care is Safer Care.md
       - Medication Without Harm.md
