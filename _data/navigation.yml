@@ -7,7 +7,7 @@ links:
         url: /welcome
       - title: International Advisory Group
         url: /iag
-  - title: Practices
+  - title: Best Practices
     url: /message/
     sublinks:
       - title: Message
@@ -16,8 +16,8 @@ links:
         url: /practicesforwpsd
       - title: Patient Safety Challenges
         url: /challenge
-  - title: Resources
-    url: patient-safety-resources-and-networks/
+  - title: Tools and Resources
+    url: patient-safety-tools-resources
     sublinks:
       - title: Compendium of Tools/Resources
         url: patient-safety-networks/our-patient-safety-networks/permalink/
