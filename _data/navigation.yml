@@ -25,11 +25,7 @@ links:
         url: /cleancareissafercare
   - title: Tools and Resources
     url: /patient-safety-tools-resources
-    sublinks:
-      - title: Tools and Resources
-        url: /patient-safety-tools-resources
-      - title: Other Resources
-        url: patient-safety-resources-and-networks/
+    sublinks: []
   - title: Networks
     url: /
     sublinks:
