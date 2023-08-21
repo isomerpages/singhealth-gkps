@@ -1,5 +1,4 @@
 collections:
   share-practices-and-events:
     output: true
-    order:
-      - Share practices and events.md
+    order: []
