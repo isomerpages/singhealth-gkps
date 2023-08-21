@@ -21,18 +21,8 @@ links:
     sublinks:
       - title: Compendium of Tools/Resources
         url: patient-safety-networks/our-patient-safety-networks/permalink/
-      - title: Global Patient Safety Network
-        url: https://ezcollab.who.int/gpsn/
-      - title: Asia Pacific Patient Safety
-        url: https://ezcollab.who.int/gpsn/apps
       - title: Other Resources
         url: patient-safety-resources-and-networks/
-  - title: Share Practices
-    url: /sharepracticesevents/
-  - title: Events & Announcements
-    url: /eventsannounce
-  - title: Contact Us
-    url: /contactus
   - title: Networks
     url: /permalink
     sublinks:
@@ -40,3 +30,9 @@ links:
         url: https://ezcollab.who.int/gpsn/
       - title: Asia Pacific Patient Safety
         url: https://ezcollab.who.int/gpsn/apps
+  - title: Share Practices
+    url: /sharepracticesevents/
+  - title: Events & Announcements
+    url: /eventsannounce
+  - title: Contact Us
+    url: /contactus
