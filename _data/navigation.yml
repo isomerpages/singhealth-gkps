@@ -16,8 +16,6 @@ links:
         url: /practicesforwpsd
       - title: WHO Patient Safety Challenges
         url: /challenge
-      - title: Medication Without Harm
-        url: /medicationwithoutharm
   - title: Tools and Resources
     url: patient-safety-tools-resources
     sublinks:
@@ -32,7 +30,7 @@ links:
         url: https://ezcollab.who.int/gpsn/
       - title: Asia Pacific Patient Safety
         url: https://ezcollab.who.int/gpsn/apps
-  - title: Share Practices
+  - title: Share Best Practices
     url: /sharepracticesevents/
   - title: Events & Announcements
     url: /eventsannounce
