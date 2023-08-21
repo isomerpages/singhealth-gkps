@@ -14,6 +14,3 @@ www.who.int/safesurgery) is to reinforce accepted safety practices and foster be
 tool for use by clinicians interested in improving the safety
 of their operations and reducing unnecessary surgical
 deaths and complications.
-
-
-Click [here](https://cdn.who.int/media/docs/default-source/patient-safety/safe-surgery/safe_surgery_banner.pdf?sfvrsn=1983b0e5_7) to dow.nload the Safe Surgery Saves Lives poster
