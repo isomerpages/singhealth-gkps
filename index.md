@@ -39,5 +39,5 @@ sections:
       alt: Image alt text
   - resources:
       title: Patient Safety
-      subtitle: Resources & Networks
+      subtitle: Resources
 ---
