@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Message.md
-      - Practices for WPSD.md
+      - Best Practices on Themes of World Patient Safety Day.md
       - Patient Safety Practices.md
       - Patient Safety Challenges.md
       - National Strategies & Actions.md
