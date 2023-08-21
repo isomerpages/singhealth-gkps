@@ -5,7 +5,7 @@ description: ""
 ---
 ### Medication Without Harm
 
-[Medication Without Harm](https://www.who.int/initiatives/medication-without-harm), the third WHO Global Patient Safety Challenge, proposes solutions to address many obstacles the world faces today to ensure the safety of medication practices. WHO’s goal is to achieve widespread engagement and commitment of WHO Member States and professional bodies around the world to reducing the harm associated with medication.
+Launched in 2017, [Medication Without Harm](https://www.who.int/initiatives/medication-without-harm), is the third WHO Global Patient Safety Challenge. It aims to bring solutions to address the many obstacles the world faces today to ensure the safety of medication practices. WHO’s goal is to achieve widespread engagement and commitment of WHO Member States and professional bodies around the world to reducing the harm associated with medication.
 
 Medication Without Harm aims to reduce severe avoidable medication-related harm by 50%, globally in the next 5 years. It was formally launched at the Second Global Ministerial Patient Safety Summit in Bonn, Germany on 29 March 2017.
 
