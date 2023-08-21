@@ -14,6 +14,15 @@ links:
         url: /message
       - title: Best Practices on WPSD
         url: /practicesforwpsd
+  - title: WHO Patient Safety Challenges
+    url: /patientsafetychallenges
+    sublinks:
+      - title: Medication Without Harm
+        url: /medicationwithoutharm
+      - title: Safe Surgery Saves Lives
+        url: /safesurgerysaveslives
+      - title: Clean Care is Safer Care
+        url: /cleancareissafercare
   - title: Tools and Resources
     url: patient-safety-tools-resources
     sublinks:
