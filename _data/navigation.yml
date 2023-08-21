@@ -12,15 +12,11 @@ links:
     sublinks:
       - title: Message
         url: /message
-      - title: Practices for WPSD
+      - title: Best Practices for WPSD
         url: /practicesforwpsd
-      - title: Patient Safety Practices
-        url: /patientsafetypractices/
       - title: Patient Safety Challenges
         url: /challenge
-      - title: National Strategies & Actions
-        url: /nsa/
-  - title: Resources & Networks
+  - title: Resources
     url: patient-safety-resources-and-networks/
     sublinks:
       - title: Compendium of Tools/Resources
