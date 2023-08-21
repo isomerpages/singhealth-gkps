@@ -2,6 +2,6 @@ collections:
   who-patient-safety-challenges:
     output: true
     order:
-      - Safe Surgery Saves Lives.md
       - Medication Without Harm.md
+      - Safe Surgery Saves Lives.md
       - Clean Care is Safer Care.md
