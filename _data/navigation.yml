@@ -24,10 +24,10 @@ links:
       - title: Clean Care is Safer Care
         url: /cleancareissafercare
   - title: Tools and Resources
-    url: /patient-safety-tools-resources/
+    url: /patient-safety-tools-resources
     sublinks:
-      - title: Compendium of Tools/Resources
-        url: patient-safety-networks/our-patient-safety-networks/permalink/
+      - title: Tools and Resources
+        url: /patient-safety-tools-resources
       - title: Other Resources
         url: patient-safety-resources-and-networks/
   - title: Networks
