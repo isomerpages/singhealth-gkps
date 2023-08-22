@@ -18,5 +18,4 @@ image: ""
 * Strategy 6.4: Develop active and funded patient safety research programmes, especially translational research.
 * Strategy 6.5: Develop and implement digital solutions to improve the safety of health care.
 
-
-
+Refer to [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan) for the detailed framework for action through the 7 Strategic Objectives and 35 strategies. Each strategy is further operationalized into suggested actions for four key groups or categories of partners: governments, health care facilities and services, stakeholders and the WHO Secretariat.
