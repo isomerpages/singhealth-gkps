@@ -7,8 +7,6 @@ description: ""
 ------------------------------
 On World Patient Safety Day, all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety. 
 
-This page aims to share best practices for implementing and learnings on the theme of each World Patient Safety Day. 
-
 Recognizing the central role that patients, their families and caregivers play in advancing safe care, “Engaging patients for patient safety” is the theme for [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023). 
 
 Share your best practices that that are aligned to the respective theme of each World Patient Safety Day. Submitted practices will be reviewed by the IAG for sharing on this platform:
