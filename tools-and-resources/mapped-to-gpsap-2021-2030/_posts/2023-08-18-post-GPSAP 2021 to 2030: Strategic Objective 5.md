@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources| Shared by | Country |
+| Links to Tools and Resources mapped to SO5 | Shared by | Country |
 | -------- | -------- | -------- |
-| Links mapped to SO5 [Download](/files/gkpslinka05-20232406.pdf)  | WHO | Global |
+|[Download gkpslinka05-20232406](/files/gkpslinka05-20232406.pdf)  | WHO | Global |
 
 **Strategic Objective 5, Health worker education, skills and safety**, aims to inspire, educate, skill and protect health workers to contribute to the design and delivery of safe care systems. The 5 key strategies are:
 
