@@ -19,5 +19,3 @@ harm in health care**  focuses on making zero avoidable harm to patients a state
 3. Strategy 1.3: Use selective legislation to facilitate the delivery of safe patient care and the protection of patients and health workers from avoidable harm.
 4. Strategy 1.4: Align health care regulatory, inspectorial and accreditation activities with the goal of improving performance on patient safety.
 5. Strategy 1.5: Create maximum awareness of World Patient Safety Day and Global Patient Safety Challenges as a way of maintaining a high public and political profile for patient safety.
-
-
