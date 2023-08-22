@@ -11,4 +11,4 @@ Please access the relevant resources by clicking on the resource category. You m
 
 [1. Practices for World Patient Safety Day (WPSD)](/practicesforwpsd/)
 
-[2. Patient Safety Practices](/patientsafetypractices/)
+[2. Patient Safety Experiences](/patientsafetypractices/)
