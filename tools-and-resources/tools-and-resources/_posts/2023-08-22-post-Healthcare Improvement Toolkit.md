@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 | Education Resource| Published by | Country |
 | -------- | -------- | -------- |
 | The Healthcare Improvement Tookit     | [SingHealth Duke-NUS Institute for Patient Safety & Quality ](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore |
@@ -21,4 +19,4 @@ This Compendium serves as an enabler and also as a reminder on the importance of
 
 nts. Start your journey with openness and make improvement, including creating joy at work a part of your work. 
 
-Remember to engage patients and families in your healthcare improvement projects. You can refer to Strategic Objective 4 in the 
+Remember to engage patients and families in your healthcare improvement projects. You can refer to the strategies under Strategic Objective 4 published in the [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan) to guide actions in engage patients and families. 
