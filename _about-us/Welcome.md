@@ -11,5 +11,4 @@ It promotes the sharing of best practices for implementing and learning on the t
 
 The goal is to connect key stakeholders involved in the development and implementation of patient safety and improvement practices, reporting, and learning systems by sharing methods, tools and resources, and experiences of safety champions and local health care professionals, to accelerate current dissemination of patient safety and improvement strategies and learnings.
 
-As a global community of learning, GKPS aims to support and enhance knowledge sharing and to strengthen the networks all around the globe to improve safety and quality of care and in driving the [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan). 
-
+As a global community of learning, GKPS aims to support and enhance knowledge sharing and to strengthen the networks all around the globe to improve safety and quality of care and in driving the [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan).
