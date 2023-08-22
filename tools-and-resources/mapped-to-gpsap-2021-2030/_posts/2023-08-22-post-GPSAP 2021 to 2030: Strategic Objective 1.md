@@ -19,3 +19,5 @@ harm in health care**  focuses on making zero avoidable harm to patients a state
 3. Strategy 1.3: Use selective legislation to facilitate the delivery of safe patient care and the protection of patients and health workers from avoidable harm.
 4. Strategy 1.4: Align health care regulatory, inspectorial and accreditation activities with the goal of improving performance on patient safety.
 5. Strategy 1.5: Create maximum awareness of World Patient Safety Day and Global Patient Safety Challenges as a way of maintaining a high public and political profile for patient safety.
+
+Refer to [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan) for the detailed framework for action through the 7 Strategic Objectives and 35 strategies. Each strategy is further operationalized into suggested actions for four key groups or categories of partners: governments, health care facilities and services, stakeholders and the WHO Secretariat.
