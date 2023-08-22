@@ -18,4 +18,4 @@ The Global Patient Safety Challenges introduced to-date are:
 
 1. [Medication Without Harm in 2017](/medicationwithoutharm/)
 2. [Safe Surgery Saves Lives in 2015](/safesurgerysaveslives)
-3. [Clean Care is Safer Care in 2005](/cleancareissafecare)
+3. [Clean Care is Safer Care in 2005](/cleancareissafercare)
