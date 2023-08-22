@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Healthcare Improvement Toolkit| Published by | Country |
+| Improvement Toolkit| Shared by | Country |
 | -------- | -------- | -------- |
-| [Download gkpsfilea09-20232208](/files/gkpsfilea09-20232208_ipsq%20healthcare%20improvement%20toolkit.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality ](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore |
+| [Download gkpsfilea09-20232208](/files/gkpsfilea09-20232208_ipsq%20healthcare%20improvement%20toolkit.pdf/) | [SingHealth Duke-NUS Institute for Patient Safety & Quality ](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore |
 
 
 This Improvement Compendium of Toolkits is published by the SingHealth Duke-NUS Institute for Patient Safety. 
