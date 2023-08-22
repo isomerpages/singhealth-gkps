@@ -7,13 +7,9 @@ links:
         url: /welcome
       - title: International Advisory Group
         url: /iag
-  - title: Best Practices
+  - title: Best Practices WPSD Themes
     url: /bestpracticesthemeswpsd/
-    sublinks:
-      - title: Message
-        url: /message
-      - title: Best Practices on WPSD
-        url: /practicesforwpsd
+    sublinks: []
   - title: WHO Patient Safety Challenges
     url: /patientsafetychallenges
     sublinks:
