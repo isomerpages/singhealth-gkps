@@ -12,7 +12,7 @@ image: ""
 
 **Strategic Objective 1, Policies to
 eliminate avoidable
-harm in health care**  focuses on making zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere. The 5 key strategies are:
+harm in health care**, focuses on making zero avoidable harm to patients a state of mind and a rule of engagement in the planning and delivery of health care everywhere. The 5 key strategies are:
 
 * Strategy 1.1: Develop a comprehensive patient safety policy, strategy, institutional framework and action plan for the country’s health system and all its components as a key priority in working towards universal health coverage.
 * Strategy 1.2: Mobilize and allocate adequate resources for patient safety implementation throughout every level of the health care system.
