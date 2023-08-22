@@ -8,7 +8,7 @@ image: ""
 ---
 | National Policies and Strategies for Patient Safety | Shared by | Country |
 | -------- | -------- | -------- |
-| Links     | WHO    | Global     |
+| [Download File](/files/gkpslinka08-20232008_inventory%20list%20national%20policies%20and%20strategies%20for%20patient%20safety.pdf)  | WHO    | Global     |
 
 National patient safety policies, strategies and actions encompass a range of measures undertaken by a country to eliminate avoidable harm and build a high reliability health care.
 
@@ -17,4 +17,3 @@ These efforts include establishing regulations, forming patient safety committee
 Essentially, these national efforts aim to prevent errors, reduce harm and enhance the overall national health care experience, safety and quality.  
 
 We encourage countries to share your national patient safety policies, strategies & actions with the global network of health facilities, and patient safety and quality practitioners.
-
