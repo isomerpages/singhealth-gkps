@@ -2,5 +2,4 @@ collections:
   best-practices:
     output: true
     order:
-      - Message.md
       - Best Practices on Themes of World Patient Safety Day.md
