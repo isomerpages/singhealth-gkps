@@ -12,6 +12,8 @@ image: ""
 
 **Strategic Objective 2, High-reliability systems** focuses on building high-reliability health systems and health organizations that protect patients daily from harm. The 5 key strategies are:
 
-1. Strategy 2.1: Develop and sustain a culture of respect, openness and transparency that promotes learning, not blame and retribution, within each organization providing patient care
-2. Strategy 2.2: Develop and operate effectively a good governance framework within each component of the health care system.
-3. 
+1. Strategy 2.1: 
+2. Strategy 2.2:
+3. Strategy 2.3: 
+4. Strategy 2.4
+5. Strategy 2.5
