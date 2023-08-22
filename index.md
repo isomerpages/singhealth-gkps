@@ -36,7 +36,7 @@ sections:
         safety.
       button: Click Here
       url: https://www.who.int/campaigns/world-patient-safety-day
-      alt: Image alt text
+      image: /images/2023 wpsd poster.jpg
   - resources:
       title: Patient Safety
       subtitle: Tools and Resources
