@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources | Shared by| Country|
+| Links to Tools and Resources mapped to SO6 | Shared by| Country|
 | -------- | -------- | -------- |
-| Links mapped to SO6 [Download](/files/gkpslinka06-20232406.pdf)  | WHO | Global |
+| [Download gkpslinka06-20232406](/files/gkpslinka06-20232406.pdf)  | WHO | Global |
 
 **Strategic Objective 6, Information, research and risk management**, aims to ensure a constant flow of information and knowledge to drive the mitigation of risk, a reduction in levels of avoidable harm, and improvements in the safety of care. The 5 key strategies are:
 
