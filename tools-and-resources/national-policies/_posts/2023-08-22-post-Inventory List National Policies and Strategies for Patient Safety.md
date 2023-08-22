@@ -16,4 +16,7 @@ These efforts include establishing regulations, forming patient safety committee
 
 Essentially, these national efforts aim to prevent errors, reduce harm and enhance the overall national health care experience, safety and quality.  
 
-We encourage countries to share your national patient safety policies, strategies & actions with the global network of health facilities, and patient safety and quality practitioners.
+We encourage countries to share your national patient safety policies, strategies & actions with the global network of health facilities, and patient safety and quality practitioners:
+
+1. [Global Patient Safety (GPS) Network](https://ezcollab.who.int/gpsn)
+2. [Asia-Pacific Patient Safety (APPS) Network](https://ezcollab.who.int/gpsn/apps)
