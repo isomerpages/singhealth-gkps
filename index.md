@@ -39,6 +39,6 @@ sections:
       image: /images/2023 wpsd poster.jpg
   - resources:
       title: Tools and Resources
-      subtitle: "Patient Safety "
+      subtitle: Patient Safety
       button: More
 ---
