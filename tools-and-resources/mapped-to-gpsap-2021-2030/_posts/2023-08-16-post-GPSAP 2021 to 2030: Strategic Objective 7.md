@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources | Shared by | Country |
+| Links to Tools and Resources mapped to SO7 | Shared by | Country |
 | -------- | -------- | -------- |
-| Links mapped to SO7 [Download](/files/gkpslinka07-20232406.pdf)    | WHO | Global |
+| [Download gkpslinka07-20232406](/files/gkpslinka07-20232406.pdf)    | WHO | Global |
 
 **Strategic Objective 7, Synergy, partnership
 and solidarity**, aims to develop and sustain multisectoral and multinational synergy, partnership and solidarity to improve patient safety and quality of care. The 5 key strategies are:
