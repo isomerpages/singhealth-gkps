@@ -23,7 +23,7 @@ links:
     url: tools-and-resources/
     sublinks: []
   - title: Networks
-    url: /
+    url: /overviewnetworks
     sublinks:
       - title: Global Patient Safety Network
         url: https://ezcollab.who.int/gpsn/
