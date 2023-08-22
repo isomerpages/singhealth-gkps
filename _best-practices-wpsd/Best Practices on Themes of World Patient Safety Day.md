@@ -5,7 +5,7 @@ description: ""
 ---
 17 September is World Patient Safety Day
 ------------------------------
-On World Patient Safety Day [(WPSD](https://www.who.int/campaigns/world-patient-safety-day)), all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety. 
+On World Patient Safety Day, all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety. 
 
 This page aims to share best practices for implementing and learnings on the theme of each World Patient Safety Day. 
 
