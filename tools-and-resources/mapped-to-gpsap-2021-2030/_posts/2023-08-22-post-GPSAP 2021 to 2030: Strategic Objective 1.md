@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources | Shared by | Country |
+| Links to Tools and Resources mapped to SO1 | Shared by | Country |
 | -------- | -------- | -------- |
-|Links mapped to SO1 [Download gkpslinka01-20232406](/files/gkpslinka01-20232406.pdf) | WHO     | Global     |
+|[Download gkpslinka01-20232406](/files/gkpslinka01-20232406.pdf) | WHO     | Global     |
 
 **Strategic Objective 1, Policies to
 eliminate avoidable
