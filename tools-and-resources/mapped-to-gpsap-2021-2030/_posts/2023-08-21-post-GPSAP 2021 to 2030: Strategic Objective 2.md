@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources | Shared by | Country |
+| Links to Tools and Resources mapped to SO2 | Shared by | Country |
 | -------- | -------- | -------- |
-| Links mapped to SO2 [Download](/files/gkpslinka02-20232406.pdf) | WHO  | Global |
+| [Download gkpslinka02-20232406](/files/gkpslinka02-20232406.pdf) | WHO  | Global |
 
 **Strategic Objective 2, High-reliability systems** focuses on building high-reliability health systems and health organizations that protect patients daily from harm. The 5 key strategies are:
 
