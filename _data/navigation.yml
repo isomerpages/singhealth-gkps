@@ -7,8 +7,8 @@ links:
         url: /welcome
       - title: International Advisory Group
         url: /iag
-  - title: Best Practices
-    url: /message/
+  - title: Best Practices on WPSD
+    url: /bestpracticesforwpsd/
     sublinks:
       - title: Message
         url: /message
