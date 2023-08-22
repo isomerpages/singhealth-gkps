@@ -2,11 +2,11 @@ title: Global Knowledge Sharing Platform for Patient Safety (GKPS)
 url: https://www.gkps.net
 favicon: /images/gkps favcon.png
 colors:
-  primary-color: "#1018ac"
-  secondary-color: "#1018ac"
+  primary-color: "#0665d4"
+  secondary-color: "#0665d4"
   media-colors:
     - title: media-color-one
-      color: "#1018ac"
+      color: "#0665d4"
     - title: media-color-two
       color: "#f5a623"
     - title: media-color-three
