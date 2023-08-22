@@ -10,7 +10,7 @@ image: ""
 | -------- | -------- | -------- |
 | [Download gkpslinka03-20232406](/files/gkpslinka03-20232406.pdf)| WHO| Global |
 
-**Strategic Objective 3, Safety of Clinical Processes**, focuses on assuring the safety of every clinical process. The 5 key strategies are:
+**Strategic Objective 3, Safety of Clinical Processes**, aims to assure the safety of every clinical process. The 5 key strategies are:
 
 * Strategy 3.1: Identify all riskprone clinical procedures and mitigate their risks, taking account of national and local priorities.
 * Strategy 3.2: Implement a programme to transform the safety of medication management and use based on the third WHO Global Patient Safety Challenge: Medication Without Harm.
