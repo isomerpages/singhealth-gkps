@@ -6,3 +6,17 @@ layout: post
 description: ""
 image: ""
 ---
+| Tools and Resources | Shared by| Country|
+| -------- | -------- | -------- |
+| Links mapped to SO6 [Download](/files/gkpslinka06-20232406.pdf)  | WHO | Global |
+
+**Strategic Objective 6, Information, research and risk management**, aims to ensure a constant flow of information and knowledge to drive the mitigation of risk, a reduction in levels of avoidable harm, and improvements in the safety of care. The 5 key strategies are:
+
+* Strategy 6.1: Establish or strengthen patient safety incident reporting and learning systems.
+* Strategy 6.2: Create a patient safety information system based on all sources of data related to risks and harm inherent in the delivery of health care and integrated with existing health management information systems.
+* Strategy 6.3: Establish, synergize and scale up patient safety surveillance systems to ascertain the magnitude and causes of harm in health care.
+* Strategy 6.4: Develop active and funded patient safety research programmes, especially translational research.
+* Strategy 6.5: Develop and implement digital solutions to improve the safety of health care.
+
+
+
