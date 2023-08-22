@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Glossary | Published by | Country |
+| Glossary | Shared by | Country |
 | -------- | -------- | -------- |
-| [Download Glossary](/files/gkpsfilea11-20232208_span%20plain%20eng%20glossary.pdf)    | [SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)  | Singapore |
+| [Download gkpsfilea11-20232208](/files/gkpsfilea11-20232208_span%20plain%20eng%20glossary.pdf)  | [SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)  | Singapore |
 
 
 SingHealth Patient Advocacy Network (SPAN) is a self-driven network of patients and caregivers that represents the collective voice of patients. As Patient Advocates, they are committed to making a positive impact on health care and work in close partnership with the health care team to provide important patient and family perspectives to enhance the patient experience and quality of care.
