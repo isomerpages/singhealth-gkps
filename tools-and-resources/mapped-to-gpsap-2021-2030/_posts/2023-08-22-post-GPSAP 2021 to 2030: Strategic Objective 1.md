@@ -8,7 +8,7 @@ image: ""
 ---
 | Tools and Resources | Shared by | Country |
 | -------- | -------- | -------- |
-|Links mapped to SO1 [Download](/files/gkpslinka01-20232406.pdf) | WHO     | Global     |
+|Links mapped to SO1 [Download gkpslinka01-20232406](/files/gkpslinka01-20232406.pdf) | WHO     | Global     |
 
 **Strategic Objective 1, Policies to
 eliminate avoidable
