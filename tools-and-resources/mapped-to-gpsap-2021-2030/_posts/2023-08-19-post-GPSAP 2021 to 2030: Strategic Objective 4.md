@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resources | Shared by | Country |
+| Links to Tools and Resources mapped to SO4 | Shared by | Country |
 | -------- | -------- | -------- |
-| Links mapped to SO4 [Download](/files/gkpslinka04-20232406.pdf)| WHO| Global |
+| [Download gkpslinka04-20232406](/files/gkpslinka04-20232406.pdf)| WHO| Global |
 
 **Strategic Objective 4, Patient and Family Engagement**, focuses on engaging and empowering patients and families to help and support the journey to safer health care. The 5 key strategies are:
 
