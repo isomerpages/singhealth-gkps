@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-| Tools and Resoures | Shared by| Country |
+| Links to Tools and Resources mapped to SO3 | Shared by| Country |
 | -------- | -------- | -------- |
-| Links mapped to SO3 [Download](/files/gkpslinka03-20232406.pdf)| WHO| Global |
+| [Download gkpslinka03-20232406](/files/gkpslinka03-20232406.pdf)| WHO| Global |
 
 **Strategic Objective 3, Safety of Clinical Processes**, focuses on assuring the safety of every clinical process. The 5 key strategies are:
 
