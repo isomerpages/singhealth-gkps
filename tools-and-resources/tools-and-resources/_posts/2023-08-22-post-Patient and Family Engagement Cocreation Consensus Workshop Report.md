@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 | Report | Shared by | Country |
 | -------- | -------- | -------- |
 | [Download report](/files/gkpsfilea10-20232208_asia-pacific%20patient%20and%20family%20engagement%20consensus%20report.pdf)    | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq/)    | Asia-Pacific  |
@@ -29,3 +27,5 @@ Voices from patients offers a different perspective in the care process and it i
 * Build the capacity of patient advocates and champions in patient safety (Strategy 4.3)
 * Establish the principle and practice of openness and transparency throughout health care, including through patient safety disclosure to patients and families (Strategy 4.4)
 * Provide information and education to patients and families for their involvement in self-care and empower them for shared decision-making (Strategy 4.5)
+
+In promoting Patient and Family Engagement, we encourage you to [share](https://for.sg/engagingpatientsforpatientsafetywpsd2023) best practices on "Engaging Patients for Patient Safety", which is aligned to the theme of World Patient Safety Day 2023. 
