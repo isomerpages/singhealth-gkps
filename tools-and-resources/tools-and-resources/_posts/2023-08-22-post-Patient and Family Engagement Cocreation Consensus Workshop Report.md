@@ -11,7 +11,6 @@ image: ""
 | [Download report](/files/gkpsfilea10-20232208_asia-pacific%20patient%20and%20family%20engagement%20consensus%20report.pdf)    | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq/)    | Asia-Pacific  |
 
 
-
 The Global Patient Safety Action Plan (GPSAP) 2021-2030 on Patient and Family Engagement Co-Creation Consensus Workshop held at the 3rd Asia-Pacific Congress (APPC).
 
 The workshop was crafted to support GPSAP 2021-2030, Strategic Objective 4, which advocates for engaging and empowering patients and families to help and support the journey to safer health care. It brought together various stakeholders, particularly patients and patient advocates to discuss how they can share views and suggest action plans to contribute in accelerating GPSAP 2021-2030 Strategic Objective 4. 
