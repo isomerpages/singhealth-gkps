@@ -16,6 +16,6 @@ Key elements of the challenges include focus on:
 
 The Global Patient Safety Challenges introduced to-date are:
 
-1. [Medication Without Harm, 2017](/medicationwithoutharm/)
+1. [Medication Without Harm in 2017](/medicationwithoutharm/)
 2. Safe Surgery Saves Lives, 2015
 3. Clean Care is Safer Care, 2005
