@@ -8,7 +8,7 @@ image: ""
 ---
 | Inventory List of National Policies and Strategies for Patient Safety | Shared by | Country |
 | -------- | -------- | -------- |
-| [Download gkpslinka08-20232008](/files/gkpslinka08-20232008_inventory%20list%20national%20policies%20and%20strategies%20for%20patient%20safety.pdf)  | WHO    | Global     |
+|[Download gkpslinka08-20231508](/files/gkpslinka08-20231508_inventory%20list%20national%20policies%20and%20strategies%20for%20patient%20safety.pdf))  | WHO    | Global     |
 
 National patient safety policies, strategies and actions encompass a range of measures undertaken by a country to eliminate avoidable harm and build a high reliability health care.
 
