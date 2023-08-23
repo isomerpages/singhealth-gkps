@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Welcome.md
+      - About Global Knowledge Sharing Platform for Patient Safety (GKPS).md
       - International Advisory Group (IAG).md
