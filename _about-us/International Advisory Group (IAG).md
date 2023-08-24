@@ -3,11 +3,11 @@ title: International Advisory Group (IAG)
 permalink: /iag/
 description: ""
 ---
-The International Advisory Group (IAG) of the Global Knowledge Sharing Platform for Patient Safety (GKPS) comprises of international health care and patient safety experts.  The key roles of the IAG are to:
+The International Advisory Group (IAG) of the Global Knowledge Sharing Platform for Patient Safety (GKPS) comprises international health care and patient safety experts.  The key roles of the IAG are to:
 
 * review best practices, tools and resources, patient safety experiences, events and programmes submitted to GKPS
 * provide endorsement for best practices, tools and resources to be shared on GKPS
-* supports the editorial board
+* support the editorial board
 
 The International Advisory Group (IAG) is managed by the SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ). 
 
@@ -16,4 +16,4 @@ The International Advisory Group (IAG) is managed by the SingHealth Duke-NUS Ins
 1. Dr Neelam Dhingra, Unit Head, Patient Safety Flagship, World Health Organization-HQ, Geneva, Switzerland.
 2. Prof Tan Kok Hian, Group Director and Senior Associate Dean, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore
 
-*Note: Please keep a lookout for this space as we establish the IAG in the few months to come.
+*Note: Please keep a lookout for this space as we establish the IAG in the coming months.
