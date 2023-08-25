@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 | Fall Risks Assessment Tools in Ophthalmic Ambulatory Setting | Shared by | Country |
 | -------- | -------- | -------- |
 | [Download GKPSFILEA12-20230824](/files/gkpsfilea12-20230824_snec%20patient%20fall%20risk%20assessment%20record%20(pfrar)%20in%20outpatient%20department.pdf)    |[Singapore National Eye Centre (SNEC)](https://www.snec.com.sg/)  | Singapore   |
