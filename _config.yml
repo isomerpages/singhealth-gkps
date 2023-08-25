@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2qijbsoh0q7ha.amplifyapp.com
 prod: https://master.d2qijbsoh0q7ha.amplifyapp.com
-resources_name: tools-and-resources
+resources_name: resources-and-tools
 shareicon: /images/gkps logo_edited 210823.png
 is_government: false
 facebook-pixel: ""
