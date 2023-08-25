@@ -9,7 +9,7 @@ The International Advisory Group (IAG) of the Global Knowledge Sharing Platform 
 * provide endorsement for best practices, tools and resources to be shared on GKPS
 * support the editorial board
 
-The secretariate for the International Advisory Group (IAG) is SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ). 
+SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ) serves as the secretariat of the International Advisory Group (IAG).
 
 ### Members of <br> GKPS International Advisory Group (IAG)
 
