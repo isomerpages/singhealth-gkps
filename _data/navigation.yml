@@ -24,6 +24,8 @@ links:
     sublinks:
       - title: Submitted Resources and Tools
         url: /submittedresourcesandtools
+      - title: Links to Resources and Tools
+        url: /linkstoresouresandtools
   - title: Networks
     url: /overviewnetworks
     sublinks:
