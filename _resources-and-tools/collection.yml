@@ -1,4 +1,5 @@
 collections:
   resources-and-tools:
     output: true
-    order: []
+    order:
+      - Resources and Tools.md
