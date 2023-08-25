@@ -16,4 +16,4 @@ SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ) serves as 
 1. Dr Neelam Dhingra, Unit Head, Patient Safety Flagship, World Health Organization-HQ, Geneva, Switzerland.
 2. Prof Tan Kok Hian, Group Director and Senior Associate Dean, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore
 
-*Note: Please keep a lookout for this space as we establish the IAG in the coming months.
+*Note: More members will be added to the IAG in the coming months.
