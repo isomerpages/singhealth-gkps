@@ -13,3 +13,7 @@ We welcome you to join the networks to share and learn with patient safety exper
 
 1. [Global Patient Safety (GPS) Network](https://ezcollab.who.int/gpsn)
 2. [Asia-Pacific Patient Safety (APPS) Network](https://ezcollab.who.int/gpsn/apps)
+
+Click to view list* of other patient safety networks around the world.
+
+*a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network, please email to:  (gallops@singhealth.com.sg)
