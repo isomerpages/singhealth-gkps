@@ -21,7 +21,9 @@ links:
         url: /cleancareissafercare
   - title: Tools and Resources
     url: tools-and-resources/
-    sublinks: []
+    sublinks:
+      - title: Submitted Resources and Tools
+        url: /submittedresourcesandtools
   - title: Networks
     url: /overviewnetworks
     sublinks:
