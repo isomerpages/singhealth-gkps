@@ -13,4 +13,4 @@ The goal is to connect key stakeholders involved in the development and implemen
 
 As a global community of learning, GKPS aims to support and enhance knowledge sharing and strengthen the global network to improve safety and quality of care and in driving the [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan).
 
-[Click to Share Your Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
+[Click to Share Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
