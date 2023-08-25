@@ -2,4 +2,5 @@ collections:
   resources-and-tools:
     output: true
     order:
+      - Submitted Resources and Tools.md
       - Resources and Tools.md
