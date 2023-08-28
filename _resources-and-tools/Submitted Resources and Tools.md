@@ -9,3 +9,4 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 [submit Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
 
 **Submitted Resources and Tools**:
+1. Healthcare Improvement Toolki (mapped to GPSAP SO5) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
