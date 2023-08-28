@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-| Improvement Toolkit| Shared by | Country |
+| Healthcare Improvement Toolkit| Shared by | Country |
 | -------- | -------- | -------- |
 |Mapped to GPSAP SO5 [Download GKPSFILEA01](/files/gkpsfilea01-20232208_ipsq%20healthcare%20improvement%20toolkit.pdf) | [SingHealth Duke-NUS Institute for Patient Safety & Quality ](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore |
 
