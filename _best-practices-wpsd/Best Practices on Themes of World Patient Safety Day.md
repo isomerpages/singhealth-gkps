@@ -9,7 +9,12 @@ On World Patient Safety Day, all nations and international allies are encouraged
 
 Recognizing the central role that patients, their families and caregivers play in advancing safe care, “Engaging patients for patient safety” is the theme for [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023). 
 
-Share your best practices that are aligned to the theme of each World Patient Safety Day. 
+Share your best practices that are aligned to 
+the theme of each World Patient Safety Day. 
+
+Here are some examples of submitted resources and tools aligned to GPSAP 2021 - 2030, Strategic Objective 4 of Patient and Family Engagement.
+
+Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report 
 
 Submitted practices will be reviewed by the IAG for sharing on this platform. Start sharing by clicking the links below: 
 
