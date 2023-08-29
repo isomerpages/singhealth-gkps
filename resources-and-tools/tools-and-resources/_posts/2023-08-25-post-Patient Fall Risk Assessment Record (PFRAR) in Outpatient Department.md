@@ -8,7 +8,7 @@ image: ""
 ---
 | Fall Risks Assessment Tools in Ophthalmic Ambulatory Setting | Shared by | Country |
 | -------- | -------- | -------- |
-| [Download GKPSFILEA12-20230824](/files/gkpsfilea12-20230824_snec%20patient%20fall%20risk%20assessment%20record%20(pfrar)%20in%20outpatient%20department.pdf)    |[Singapore National Eye Centre (SNEC)](https://www.snec.com.sg/)  | Singapore   |
+| Mapped to GPSAP 2021 - 2030, Strategic Objective 3- Strategies 3.1 [Download GKPSFILEA12-20230824](/files/gkpsfilea12-20230824_snec%20patient%20fall%20risk%20assessment%20record%20(pfrar)%20in%20outpatient%20department.pdf)    |[Singapore National Eye Centre (SNEC)](https://www.snec.com.sg/)  | Singapore   |
 
 
 
