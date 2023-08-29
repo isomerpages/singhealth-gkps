@@ -10,3 +10,4 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 
 **Submitted Resources and Tools**:
 1. Healthcare Improvement Toolkit (mapped to GPSAP SO5) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
+2. Asia-Pacific Patient and Family Engagement Consensus Report (mapped to GPSAP SO4) [more](/files/gkpsfilea2-20232208_asia-pacific%20patient%20and%20family%20engagement%20consensus%20report.pdf)
