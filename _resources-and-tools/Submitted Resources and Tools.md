@@ -13,3 +13,4 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 2. Asia-Pacific Patient and Family Engagement Consensus Report (mapped to GPSAP SO4) [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 3. SingHealth Patient Advocacy Plain English Glossary (mapped to GPSAP SO4) [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 4. Patient Fall Risk Assessment Record in Outpatient Department (mapped to SO3) [more ](/tools-and-resources/tools-and-resources/pfrar/)
+5. Singapore General Hospital (SGH) Best Practices Mapped to GPSAP 2021 - 2030 [more](/resources-and-tools/tools-and-resources/sghbestpracticesso235/)
