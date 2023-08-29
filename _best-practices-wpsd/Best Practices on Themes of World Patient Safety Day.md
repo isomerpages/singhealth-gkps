@@ -14,7 +14,8 @@ the theme of each World Patient Safety Day.
 
 Here are some examples of submitted resources and tools aligned to GPSAP 2021 - 2030, Strategic Objective 4 of Patient and Family Engagement.
 
-Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report 
+1. Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
+2. Plain English Glossary 
 
 Submitted practices will be reviewed by the IAG for sharing on this platform. Start sharing by clicking the links below: 
 
