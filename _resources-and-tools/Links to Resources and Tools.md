@@ -9,4 +9,7 @@ Our commitment is to continually update and expand this collection to ensure tha
 
 Join us on this journey as we navigate to strengthen patient safety, where every link is a step toward safer, more reliable health care practices. Together, we can contribute to eliminating avoidable harm.
 
-In accessing the collections of links, we encourage you to contribute to update the collections by sharing links to resources and tools. If you are keen to submit resources and tools instead of sharing links, please submit via this online form. 
+In accessing the collections of links, we encourage you to contribute to update the collections by sharing links to resources and tools. If you are keen to submit resources and tools instead of sharing links, please submit via this online form:
+[Submit Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
+
+**Collection of Links to Resources and Tools:**
