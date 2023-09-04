@@ -14,7 +14,7 @@ We welcome you to join the networks to share and learn with patient safety exper
 1. [Global Patient Safety (GPS) Network](https://ezcollab.who.int/gpsn)
 2. [Asia-Pacific Patient Safety (APPS) Network](https://ezcollab.who.int/gpsn/apps)
 
-Other patient safety and quality networks and institutes, and patient organisations dedicated to improving patient safety in health care are:
+Other patient safety and quality networks, institutes, and patient organisations, dedicated to improving patient safety in health care are:
 *   [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare](https://www.safetyandquality.gov.au/)
 * [Canadian Patient Safety Institute](https://www.patientsafetyinstitute.ca/en/Pages/default.aspx)
