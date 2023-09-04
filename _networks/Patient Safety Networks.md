@@ -16,11 +16,11 @@ We welcome you to join both networks to connect with patient safety experts and 
 
 Other networks, institutes, and patient organisations, dedicated to improving patient safety and quality in health care are:
 
-*   [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
-* [Australian Commission on Safety and Quality in Healthcare](https://www.safetyandquality.gov.au/)
+* [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
+* [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
 * [Canadian Patient Safety Institute](https://www.patientsafetyinstitute.ca/en/Pages/default.aspx)
-* [ECRI Institute](https://www.ecri.org/)
-* [International Alliance of Patients' Organizations](https://www.iapo.org.uk/)
+*[ECRI Institute](https://www.ecri.org/)
+* [International Alliance of Patients' Organizations ](https://www.iapo.org.uk/)
 * [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
 * [National Quality Forum](https://www.qualityforum.org/Home.aspx)
 * [Patient For Patient Safety Network - Asia-Pacific](https://calltoaction.pairacademy.org/index.php)
