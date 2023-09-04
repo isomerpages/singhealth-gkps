@@ -15,4 +15,3 @@ In developing global  patient safety and healthcare quality leaders and expertis
 Click [Here](https://form.gov.sg/64536d86f7b4ae0012e5ee1f) to submit patient safety events and programmes for sharing with the patient safety community.
 
 Note: selected patient safety events will be shared on WHO Global Patient Safety Network and Asia-Pacific Patient Safety Network.
-
