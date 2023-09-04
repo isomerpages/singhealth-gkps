@@ -19,7 +19,7 @@ Other networks, institutes, and patient organisations, dedicated to improving pa
 * [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
 * [Canadian Patient Safety Institute](https://www.patientsafetyinstitute.ca/en/Pages/default.aspx)
-*[ECRI Institute](https://www.ecri.org/)
+* [ECRI Institute](https://www.ecri.org/)
 * [International Alliance of Patients' Organizations ](https://www.iapo.org.uk/)
 * [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
 * [National Quality Forum](https://www.qualityforum.org/Home.aspx)
