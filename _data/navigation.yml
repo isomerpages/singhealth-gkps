@@ -33,7 +33,7 @@ links:
         url: https://ezcollab.who.int/gpsn/
       - title: Asia Pacific Patient Safety
         url: https://ezcollab.who.int/gpsn/apps
-  - title: Events and Announcements
-    url: /eventsannouncements
+  - title: Submit Events
+    url: /submitevents
   - title: Contact Us
     url: /contactus
