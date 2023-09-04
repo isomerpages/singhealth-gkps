@@ -13,3 +13,11 @@ In accessing the collections of links, we encourage you to contribute to update 
 [Submit Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
 
 **Collection of Links to Resources and Tools:**
+1. [ Inventory List of National Policies and Strategies for Patient Safety](/tools-and-resources/national-policies/listing/)
+2. [Links to Resources and Tools mapped to Strategic Objective 1](/tools-and-resources/mapped-to-gpsap-2021-2030/so1/)
+3. [Links to Resources and Tools mapped to Strategic Objective 2](/tools-and-resources/mapped-to-gpsap-2021-2030/so2/)
+4. [Links to Resources and Tools mapped to Strategic Objective 3](/tools-and-resources/mapped-to-gpsap-2021-2030/so3/)
+5. [Links to Resources and Tools mapped to Strategic Objective 4](/tools-and-resources/mapped-to-gpsap-2021-2030/so4/)
+6. [Links to Resources and Tools mapped to Strategic Objective 5](/tools-and-resources/mapped-to-gpsap-2021-2030/so5/)
+7. [Links to Resources and Tools mapped to Strategic Objective 6](/tools-and-resources/mapped-to-gpsap-2021-2030/so6/)
+8. [Links to Resources and Tools mapped to Strategic Objective 7](/tools-and-resources/mapped-to-gpsap-2021-2030/so7/)
