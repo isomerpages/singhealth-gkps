@@ -13,5 +13,4 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 2. SingHealth Patient Advocacy Plain English Glossary (mapped to GPSAP SO4) [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 3. Asia-Pacific Patient and Family Engagement Consensus Report (mapped to GPSAP SO4) [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 4. Healthcare Improvement Toolkit (mapped to GPSAP SO5) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
-5. Healthcare Improvement Toolkit (mapped to GPSAP SO5) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
-6. Singapore General Hospital (SGH) Best Practices Mapped to SOs 2,3 and 5 [more](/resources-and-tools/tools-and-resources/sghbestpracticesso235/)
+5. Singapore General Hospital (SGH) Best Practices Mapped to SOs 2,3 and 5 [more](/resources-and-tools/tools-and-resources/sghbestpracticesso235/)
