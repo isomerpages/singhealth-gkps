@@ -25,6 +25,6 @@ Submitted practices will be reviewed by the IAG for sharing on this platform. St
 
 *  [Share](https://form.gov.sg/64e449ba3f58260013c32bb7) best practices on "Safe Maternal and Newborn Care", theme of World Patient Safety Day 2021. 
 
-*  [Share](https://form.gov.sg/64e44ab4c98c410011f5de95) best practices on "Health Worker Safety: A Priority for Patient Safety", theme of World Patient Safety Day 2020. 
+*  [Share](https://form.gov.sg/64e44ab4c98c410011f5de95) best practices on "Health Worker Safety: A Priority for Patient Safety", theme of [World Patient Safety Day 2020](https://www.who.int/campaigns/world-patient-safety-day/2020)
 
-*  [Share](https://form.gov.sg/64e44b7c3f58260013c371bf) best practices on "Speak up for patient safety!", theme of World Patient Safety Day 2019.
+*  [Share](https://form.gov.sg/64e44b7c3f58260013c371bf) best practices on "Speak up for patient safety!", theme of  [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019)
