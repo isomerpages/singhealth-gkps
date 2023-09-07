@@ -26,13 +26,13 @@ links:
         url: /submittedresourcesandtools/
       - title: Links to Resources and Tools
         url: linkstoresourcesandtools/
-  - title: Networks
+  - title: Networks and Organizations
     url: /overviewnetworks
     sublinks:
-      - title: Global Patient Safety Network
-        url: https://ezcollab.who.int/gpsn/
-      - title: Asia Pacific Patient Safety
-        url: https://ezcollab.who.int/gpsn/apps
+      - title: Patient Safety Networks
+        url: /overviewnetworks
+      - title: Patient Safety Organizations
+        url: /networks/organizations/
   - title: Submit Events
     url: /submitevents
   - title: Contact Us
