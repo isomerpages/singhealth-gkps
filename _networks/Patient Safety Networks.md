@@ -14,22 +14,3 @@ We welcome you to join both networks to connect with patient safety experts and 
 1. [Global Patient Safety (GPS) Network](https://ezcollab.who.int/gpsn)
 2. [Asia-Pacific Patient Safety (APPS) Network](https://ezcollab.who.int/gpsn/apps)
 
-Other networks, institutes, and patient organisations, dedicated to improving patient safety and quality in health care are:
-
-* [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
-* [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
-* [Canadian Patient Safety Institute](https://www.patientsafetyinstitute.ca/en/Pages/default.aspx)
-* [ECRI Institute](https://www.ecri.org/)
-* [International Alliance of Patients' Organizations ](https://www.iapo.org.uk/)
-* [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
-* [National Quality Forum](https://www.qualityforum.org/Home.aspx)
-* [Patient For Patient Safety Network - Asia-Pacific](https://calltoaction.pairacademy.org/index.php)
-* [Patient for Patient Safety, Ireland](https://patientsforpatientsafety.ie/)
-* [Patient for Patient Safety, US](https://www.pfps.us/)
-* [Patient Safety Movement Foundation (PSMF)](https://psmf.org/)
-* [The Beryl Institute](https://theberylinstitute.org/)
-* [The Institute for Healthcare Improvement](https://www.ihi.org/)
-* [The Joint Commission](https://www.jointcommission.org/)
-* [World Patients Alliance](https://www.worldpatientsalliance.org/)
-
-*a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network/institute or patient organizations, please email to:  (gallops@singhealth.com.sg)
