@@ -36,4 +36,3 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [The Institute for Healthcare Improvement](https://www.ihi.org/)
 * [The Joint Commission](https://www.jointcommission.org/)
 * [World Patients Alliance](https://www.worldpatientsalliance.org/)
-
