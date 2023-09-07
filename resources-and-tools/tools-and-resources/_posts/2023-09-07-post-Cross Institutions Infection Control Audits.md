@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-     
-
-
 | Cross-Institutions Infection Control Audit Tools | Shared by | Country |
 | -------- | -------- | -------- |
 | Mapped to Strategic Objective 3-Strategy 3.3 Download GKPSFILEA7    | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)    | Singapore   |
