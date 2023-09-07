@@ -14,7 +14,7 @@ Here are some examples of submitted resources and tools aligned to [Global Patie
 1. Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 2. Plain English Glossary [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 
-In commerating the World Patient Safety Day, we invite you to share best practices that are related to the theme of each World Patient Safety Day. Submitted practices will be reviewed by the IAG for sharing on this platform. Start sharing by clicking the links below: 
+In commemorating the World Patient Safety Day, we invite you to share best practices that are related to the theme of each World Patient Safety Day. Submitted practices will be reviewed by the IAG for sharing on this platform. Start sharing by clicking the links below: 
 
 *   [Share](https://for.sg/engagingpatientsforpatientsafetywpsd2023) best practices on "Engaging Patients for Patient Safety", theme of [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023)
 
