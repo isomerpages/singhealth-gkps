@@ -8,7 +8,7 @@ image: ""
 ---
 | TeamSPEAK™ | Shared by | Country |
 | -------- | -------- | -------- |
-| Mapped to Strategic Objectives 2 and 5- Strategies 2.1 and 5.1  and related to the theme of [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019). [Download GKPSFILEA9](/files/gkpsfilea9_promoting%20speaking%20up%20for%20patient%20safety%20in%20your%20organization.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https:www.singhealthdukenus.com.sg/IPSQ)    | For International Audience  |
+| Mapped to Strategic Objectives 2 and 5- Strategies 2.1 and 5.1. Related to the theme of [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019). [Download GKPSFILEA9](/files/gkpsfilea9_promoting%20speaking%20up%20for%20patient%20safety%20in%20your%20organization.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https:www.singhealthdukenus.com.sg/IPSQ)    | For International Audience  |
 
 
 
@@ -22,4 +22,3 @@ The resourse shared here is taken from the 90-minute interactive workshop conduc
 4. Identify the rationale of building the Psychological Safety & Speak Up Culture in their healthcare setup.
 5. Design & run program to promote psychological safety & encourage open communication in speaking up.
 6. Understand the principles to spread & sustain speaking up program & access relevant materials.
-
