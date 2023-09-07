@@ -2,4 +2,4 @@ collections:
   events:
     output: true
     order:
-      - Submit Events.md
+      - Events.md
