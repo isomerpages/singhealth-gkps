@@ -19,11 +19,11 @@ Here are some examples of submitted resources and tools aligned to [Global Patie
 
 Submitted practices will be reviewed by the IAG for sharing on this platform. Start sharing by clicking the links below: 
 
-*   [Share](https://for.sg/engagingpatientsforpatientsafetywpsd2023) best practices on "Engaging Patients for Patient Safety", theme of World Patient Safety Day 2023. 
+*   [Share](https://for.sg/engagingpatientsforpatientsafetywpsd2023) best practices on "Engaging Patients for Patient Safety", theme of [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023)
 
-*  [Share](https://form.gov.sg/64e447f20e024d001139dcc5) best practices on "Medication Safety", theme of World Patient Safety Day 2022.
+*  [Share](https://form.gov.sg/64e447f20e024d001139dcc5) best practices on "Medication Safety", theme of [World Patient Safety Day 2022](https://www.who.int/campaigns/world-patient-safety-day/2022)
 
-*  [Share](https://form.gov.sg/64e449ba3f58260013c32bb7) best practices on "Safe Maternal and Newborn Care", theme of World Patient Safety Day 2021. 
+*  [Share](https://form.gov.sg/64e449ba3f58260013c32bb7) best practices on "Safe Maternal and Newborn Care", theme of [World Patient Safety Day 2021](https://www.who.int/campaigns/world-patient-safety-day/2021)
 
 *  [Share](https://form.gov.sg/64e44ab4c98c410011f5de95) best practices on "Health Worker Safety: A Priority for Patient Safety", theme of [World Patient Safety Day 2020](https://www.who.int/campaigns/world-patient-safety-day/2020)
 
