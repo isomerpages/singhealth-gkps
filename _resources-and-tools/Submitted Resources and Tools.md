@@ -17,3 +17,6 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 6. Healthcare Improvement Toolkit (mapped to Strategic Objective 5 of GPSAP 2021-2030) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
 7. Prevalence of burnout among healthcare professionals in Singapore (mapped to Strategic Objective 5 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/burnout)
 8. Patient Safety Engagement Report (mapped to Strategic Objectives 1 and 6 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/paser)
+
+
+*Note: updated as of 7 September 2023.*
