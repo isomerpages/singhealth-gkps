@@ -17,7 +17,7 @@ We welcome you to submit patient safety improvement, experiences and practices, 
 6. Asia-Pacific Patient and Family Engagement Consensus Report (mapped to Strategic Objective 4 of GPSAP 2021-2030) [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 7. Healthcare Improvement Toolkit (mapped to Strategic Objective 5 of GPSAP 2021-2030) [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
 8. Prevalence of burnout among healthcare professionals in Singapore (mapped to Strategic Objective 5 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/burnout)
-9. Patient Safety Engagement Report (mapped to Strategic Objectives 1 and 6 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/paser)
+9. Patient Safety Engagement Report (mapped to Strategic Objectives 1 and 7 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/paser)
 
 
 *Note: updated as of 7 September 2023.*
