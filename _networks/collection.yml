@@ -2,5 +2,5 @@ collections:
   networks:
     output: true
     order:
-      - Patient Safety Organizations.md
       - Patient Safety Networks.md
+      - Patient Safety Organizations.md
