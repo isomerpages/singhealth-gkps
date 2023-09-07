@@ -11,3 +11,6 @@ Patient Safety is a collaborative effort and you play a crucial role in promotin
 
 * [View Submitted Resources and Tools ](/submittedresourcesandtools)
 * [View Links to Resources and Tools ](/linkstoresourcesandtools)
+
+
+*Note: links updated as of 7 September 2023.*
