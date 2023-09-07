@@ -3,7 +3,7 @@ title: Patient Safety Organizations
 permalink: /networks/organizations/
 description: ""
 ---
-Patient safety organizations, encompassing both health care focused entities and patient advocacy groups, play pivotal roles in safeguarding the well-being of individuals within the complex landscape of health care. These organizations collectively serve as guardians of patient safety by addressing a spectrum of crucial responsibilities such as 
+Patient safety organizations, encompassing both health care focused entities and patient advocacy groups, play pivotal roles in safeguarding the well-being of patients within the complex landscape of health care. These organizations collectively serve as guardians of patient safety by addressing a spectrum of crucial responsibilities such as 
 * promoting patient safety
 * analyzing and identifying systemic issues
 * develop strategies to mitigate risks to eliminate avoidable harm
