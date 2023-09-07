@@ -8,7 +8,7 @@ image: ""
 ---
 | Cross-Institutions Infection Control Audit Tools | Shared by | Country |
 | -------- | -------- | -------- |
-| Mapped to Strategic Objective 3-Strategy 3.3  [Download GKPSFILEA7 ](/files/gkpsfilea7_singhealth%20ciic%20audit%20tools.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)    | Singapore   |
+| Mapped to Strategic Objective 3-Strategy 3.3  [Download GKPSFILEA7](/files/gkpsfilea7_singhealth%20ciic%20audit%20tools.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)    | Singapore   |
 
 
 The harmonized Cross-Institutions Infection Control (CIIC) Audit Tools are adapted from validated national and international guidelines designed for each audit and refined for practical applications. The audit tools are part of the CIIC collaborative model developed by the SingHealth Duke-NUS Institute for Patient Safety and Quality (IPSQ), to monitor health care hygiene compliance for infection control and to build a safer system for our patients, staff, and visitors. 
