@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gkps connection  banner.svg
+      background: /images/gkps website banner_070923.png
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP)
       subtitle: 2021-2030
