@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-| Patient Safety Engagemen Report (PASER) | Shared by | Country |
+| Patient Safety Engagement Report (PASER) | Shared by | Country |
 | -------- | -------- | -------- |
 | Mapped to Strategic Objectives 1 and 7- Stratetgies 1.1 and 7.1 [Download GKPSFILEA6](/files/gkpsfilea6-20230907.pdf)| [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore  |
 
