@@ -20,4 +20,4 @@ These patient safety resources and tools are submitted by health care ministries
 9. Patient Safety Engagement Report (mapped to Strategic Objectives 1 and 7 of GPSAP 2021-2030) [more]( /resources-and-tools/tools-and-resources/paser)
 
 
-*Note: updated as of 7 September 2023.*
+*Note: updated as of 11 September 2023.*
