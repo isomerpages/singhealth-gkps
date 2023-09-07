@@ -6,6 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+
+
+| Patient Safety Engagemen Report (PASER) | Shared by | Country |
+| -------- | -------- | -------- |
+| Mapped to    | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore  |
+
+
 Introduced in 2019, the Patient Safety Engagement Report (PASER) provides a regular overview of patient safety indicators and engagement efforts across the health care facilities within a health care cluster in Singapore (SingHealth). It aims to strengthen commitment and accountability for patient safety, improvement efforts, and identify opportunities for cluster-wide sharing and learning as part of the learning framework within the cluster Academic Medical Centre (AMC) learning organisation. 
               
 There are five categories with 13 main indicators. The five categories are Leadership Patient Safety Walk Round, Serious Reportable Events & Reportable Near-Misses, Audits, Training Programs and Other Engagements 
