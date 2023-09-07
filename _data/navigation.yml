@@ -33,7 +33,7 @@ links:
         url: /overviewnetworks
       - title: Patient Safety Organizations
         url: /networks/organizations/
-  - title: Submit Events
-    url: /submitevents
+  - title: Events
+    url: /events
   - title: Contact Us
     url: /contactus
