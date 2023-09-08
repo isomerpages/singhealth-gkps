@@ -28,6 +28,7 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
 * [National Quality Forum](https://www.qualityforum.org/Home.aspx)
 * [Patient For Patient Safety Network - Asia-Pacific](https://calltoaction.pairacademy.org/index.php)
+* [Patient for Patient Safety Canada](https://www.healthcareexcellence.ca/en/what-we-do/all-programs/patients-for-patient-safety-canada/)
 * [Patient for Patient Safety, Ireland](https://patientsforpatientsafety.ie/)
 * [Patient for Patient Safety, US](https://www.pfps.us/)
 * [Patient Safety Movement Foundation (PSMF)](https://psmf.org/)
