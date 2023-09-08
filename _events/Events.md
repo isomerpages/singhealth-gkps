@@ -5,7 +5,7 @@ description: ""
 ---
 ### Empowering Patient Safety & Quality Leadership
       
-In developing global  patient safety and health care quality leaders and expertise in implementing and advancing the [Global Patient Safety Action Plan (GPSAP) 2021-2030]((https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan)), we welcome you to share events/programmes/courses that are aligned to  driving GPSAP 2021-2030, and that its learning objectives meet the following:
+In developing global patient safety and health care quality leaders and expertise in implementing and advancing the [Global Patient Safety Action Plan (GPSAP) 2021-2030]((https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan)), we welcome you to share events/programmes/courses that are aligned to  the following learning objectives:
 
 * Enhance awareness and promote understanding of GPSAP 2021-2030 for leaders and health care professionals at every level up to the point of care.
 *   Assess current health care practices, identify areas for improvement and priorities for actions among the various strategies in GPSAP 2021-2030.
