@@ -1,32 +1,41 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Global Knowledge Sharing Platform for Patient Safety (GKPS)
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/gkps logo_edited 210823.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/gkps website banner 070923_v3.svg
+  - infopic:
+      title: Global Patient Safety Action Plan (GPSAP)
+      subtitle: 2021-2030
+      description: Provide guidance to eliminate harm and improve patient safety in
+        healthcare through policies on safety and quality, and recommendations
+        at the point of care.
+      button: DOWNLOAD HERE
+      url: https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan
+      alt: Image alt text
+      image: /images/gkps imageresize22.png
+  - infopic:
+      title: Patient Safety
+      subtitle: WHO
+      description: focusing on patient safety & healthcare systems linkages to
+        eliminate preventable harm to improve patient safety and health outcomes
+        at the point of care.
+      button: CLICK HERE
+      alt: Image alt text
+      url: https://www.who.int/teams/integrated-health-services/patient-safety
+      image: /images/gkps imageresize11.jpg
+  - infopic:
+      title: World Patient Safety Day
+      subtitle: WHO
+      description: World Patient Safety Day calls for global solidarity and concerted
+        action by all countries and international partners to improve patient
+        safety.
+      button: Click Here
+      url: https://www.who.int/campaigns/world-patient-safety-day
+      image: /images/2023 wpsd poster.jpg
+      alt: Image alt text
 ---
-

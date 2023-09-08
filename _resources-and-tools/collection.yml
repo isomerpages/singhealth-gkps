@@ -1,0 +1,7 @@
+collections:
+  resources-and-tools:
+    output: true
+    order:
+      - Resources and Tools.md
+      - Submitted Resources and Tools.md
+      - Links to Resources and Tools.md
