@@ -50,7 +50,7 @@ Here is a collection of links to patient stories categorized by the organization
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
-#### 5. [Safe Surgery Campaign](https://www.safecarecampaign.org/) 
+#### **5. [Safe Surgery Campaign](https://www.safecarecampaign.org/)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
