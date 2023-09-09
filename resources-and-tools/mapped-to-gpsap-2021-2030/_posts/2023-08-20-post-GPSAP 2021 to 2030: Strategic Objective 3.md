@@ -12,7 +12,7 @@ image: ""
 
 **Strategic Objective 3, Safety of Clinical Processes**, aims to assure the safety of every clinical process. The 5 key strategies are:
 
-* Strategy 3.1: Identify all riskprone clinical procedures and mitigate their risks, taking account of national and local priorities.
+* Strategy 3.1: Identify all risk prone clinical procedures and mitigate their risks, taking account of national and local priorities.
 * Strategy 3.2: Implement a programme to transform the safety of medication management and use based on the third WHO Global Patient Safety Challenge: Medication Without Harm.
 * Strategy 3.3: Put in place rigorous and evidence-based measures for infection prevention and control to minimize the occurrence of health care-associated infections and antimicrobial  resistance.
 * Strategy 3.4: Assure the safety of medical devices, medicine, blood and blood products, vaccines and other medical products. 

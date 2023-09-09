@@ -1,13 +1,11 @@
 ---
-title: Prevalence of burnout among healthcare professionals in Singapore
+title: Prevalence of Burnout among Healthcare Professionals in Singapore
 permalink: /resources-and-tools/tools-and-resources/burnout/
 date: 2023-09-07
 layout: post
 description: ""
 image: ""
 ---
-
-
 | Prevalence of Burnout among Healthcare Professionals in Singapore | Shared by | Country |
 | -------- | -------- | -------- |
 | Mapped to Strategic Objective 5-Strategy 5.5 [Download GKPSFILEA8](/files/gkpsfilea8_prevalence%20of%20burnout%20among%20healthcare%20professionals%20in%20singapore.pdf)     | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore  |

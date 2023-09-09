@@ -13,7 +13,7 @@ Key elements of the challenges include focus on:
 2. Guidelines and recommendations as well as best practices to assist health care facilities, professionals and stakeholders in implementing effective strategies to enhance patient safety
 3. Data collection and sharing to provide essential understanding of the scope of focus and improvement change made
 4. Capacity building as each challenge often involve capacity building efforts such as training to equip health care professionals with the necessary knowledge and skills
-5. Global collaboration between countries, health care facilities, and stakeholders to share experiences, successes and challenges in improving patient safety.
+5. Global collaboration between countries, health care facilities, and stakeholders to share experiences, successes and challenges in improving patient safety
 
 The Global Patient Safety Challenges introduced to-date are:
 

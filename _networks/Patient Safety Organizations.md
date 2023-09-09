@@ -12,13 +12,13 @@ Patient safety organizations, encompassing both health care focused entities and
 * help to standardize safety protocols
 * guide and set requirements for health care organizations to comply
 * emphasize the importance of health care, patient safety and quality ecosystem
-* foster a culture of continuous improvement in health care, driving organizations to prioritize patient safety. 
+* foster a culture of continuous improvement in health care, driving organizations to prioritize patient safety
 
 Overall, patient safety organizations are essential for reducing errors, improving health care quality and ensuring the well-being of patients and health care professionals. 
 
 Here are some patient safety organizations dedicated to improving patient safety and quality in health care. We encourage you to visit their websites to be aware of their initiatives. This will empower you in your ongoing pursuit safer health care practices:
 
-*Note: this is anon-exhaustive list that will be periodically updated. If you wish to include your patient safety network/institute or patient organizations, please email to:  (gkps@singhealth.com.sg)
+*Note: this is a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network/institute or patient organizations, please email to:  gkps@singhealth.com.sg
 
 * [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
