@@ -65,3 +65,12 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | Missed Diagnosis of Sepsis by Sara Kiehl|[View](https://youtu.be/62q70SU_P3s) |
 |Undiagnosed Infection by Desiree Collins Bradley|[View](https://youtu.be/sVNbAQBeClg)
 | Wrong Diagnosis of Heart Condition by Lyn Behnke|[View](https://youtu.be/m7u08X5SoG0) |
+
+#### **7. Other Patient Safety Stories**
+
+| Title and Speaker | Link to Story | 
+| -------- | -------- | 
+|Films by Patientstories.org.uk|[View](https://www.patientstories.org.uk/films/)|
+|Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
+|Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories/)|
+|Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
