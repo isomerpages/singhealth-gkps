@@ -35,3 +35,11 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | Medication Safety in Transition of Care- Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
 | Pediatric Death from Unsafe Care and Full Disclosure - Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
 | Medication Safety and Adverse Event - Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
+
+**4. Patient for Patient Safety at World Alliance for Patient Safety**
+
+| Title/ Region | Link to Story | 
+| -------- | -------- | 
+| Chicago in PAHO/ American Region| [View](https://youtu.be/KD8A9bq2Yxc)|
+| Global Patient Champions | [View](https://youtu.be/TxTdA1htQ1s)|
+|  | [View](https://youtu.be/TxTdA1htQ1s)|
