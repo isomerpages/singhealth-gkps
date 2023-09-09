@@ -31,4 +31,7 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 
 | Title | Link to Story | 
 | -------- | -------- | 
-| Maternal Newborn Safety - Beth Daley Ullem | [View](https://youtu.be/8plufSBnjKE)
+| Maternal Newborn Safety - Beth Daley Ullem | [View](https://youtu.be/8plufSBnjKE)|
+| Medication Safety in Transition of Care- Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
+| Pediatric Death from Unsafe Care and Full Disclosure - Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
+| Medication Safety and Adverse Event - Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
