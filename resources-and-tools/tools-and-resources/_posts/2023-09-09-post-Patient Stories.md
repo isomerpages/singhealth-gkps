@@ -73,7 +73,7 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 |Alison Philips at HSJ Patient Safety Congress 2018 |[View](https://youtu.be/RPlBwk_V99o)|
 |Films by Patientstories.org.uk|[View](https://www.patientstories.org.uk/films/)|
 |Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
-|Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories|
+|Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories/)|
 |PrêmioJulia Lima (Portuguese) |[View](https://www.youtube.com/watch?v=ctjXlc3fT6I)|
 |The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)
 |Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
