@@ -9,14 +9,15 @@ Our commitment is to continually update and expand this collection to ensure tha
 [Click here to submit your Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
 
 **Collection of Links to Resources and Tools:**
-1. [ Inventory List of National Policies and Strategies for Patient Safety](/tools-and-resources/national-policies/listing/)
-2. [Links to Resources and Tools mapped to Strategic Objective 1 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so1/)
-3. [Links to Resources and Tools mapped to Strategic Objective 2 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so2/)
-4. [Links to Resources and Tools mapped to Strategic Objective 3 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so3/)
-5. [Links to Resources and Tools mapped to Strategic Objective 4 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so4/)
-6. [Links to Resources and Tools mapped to Strategic Objective 5 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so5/)
-7. [Links to Resources and Tools mapped to Strategic Objective 6 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so6/)
-8. [Links to Resources and Tools mapped to Strategic Objective 7 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so7/)
+1. [Links to Patient Stories](/resources-and-tools/tools-and-resources/patientstories/)
+2. [ Inventory List of National Policies and Strategies for Patient Safety](/tools-and-resources/national-policies/listing/)
+3. [Links to Resources and Tools mapped to Strategic Objective 1 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so1/)
+4. [Links to Resources and Tools mapped to Strategic Objective 2 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so2/)
+5. [Links to Resources and Tools mapped to Strategic Objective 3 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so3/)
+6. [Links to Resources and Tools mapped to Strategic Objective 4 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so4/)
+7. [Links to Resources and Tools mapped to Strategic Objective 5 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so5/)
+8. [Links to Resources and Tools mapped to Strategic Objective 6 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so6/)
+9. [Links to Resources and Tools mapped to Strategic Objective 7 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so7/)
 
 
 *Note: links updated as of 11 September 2023.*
