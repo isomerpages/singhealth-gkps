@@ -14,7 +14,7 @@ By sharing their experiences, patients put a relatable face to health care issue
 
 [Click here to share patient stories and Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
 
-Here is a collection of links to patient stories. The stories are categorized by the organizations/ event organizers that produce/record/share the stories:
+Here is a collection of links to patient stories categorized by the organizations/ event organizers that produce/record/share the stories:
 
 #### **1. WHO What if Stories” Webinar Series**
 
