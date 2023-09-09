@@ -16,7 +16,7 @@ By sharing their experiences, patients put a relatable face to health care issue
 
 Here is a collection of links to patient stories categorized by the organizations/ event organizers that produce/record/share the stories:
 
-#### **1. WHO What if Stories” Webinar Series**
+#### **1. WHO "What if Stories” Webinar Series**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
