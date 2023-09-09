@@ -42,4 +42,7 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | -------- | -------- | 
 | Chicago in PAHO/ American Region| [View](https://youtu.be/KD8A9bq2Yxc)|
 | Global Patient Champions | [View](https://youtu.be/TxTdA1htQ1s)|
-|  | [View](https://youtu.be/TxTdA1htQ1s)|
+| Latin America in PAHO/ American Region (Spanish with English subtitle) | [View](https://youtu.be/EHiATbdZFP4)|
+| South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
+| When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
+
