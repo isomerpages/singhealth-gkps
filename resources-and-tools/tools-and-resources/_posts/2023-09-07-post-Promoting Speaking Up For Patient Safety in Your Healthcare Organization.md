@@ -19,6 +19,6 @@ The resource shared here is taken from the 90-minute interactive workshop conduc
 1. Understand Safe Choices, Human Errors & Unsafe Choices
 2. Human Choice & Fallibility
 3. Our Roles in Promoting Safe Choice
-4. Identify the rationale of building the Psychological Safety & Speak Up Culture in their healthcare setup.
-5. Design & run program to promote psychological safety & encourage open communication in speaking up.
-6. Understand the principles to spread & sustain speaking up program & access relevant materials.
+4. Identify the rationale of building the Psychological Safety & Speak Up Culture in their health  care setup
+5. Design & run program to promote psychological safety & encourage open communication in speaking up
+6. Understand the principles to spread & sustain speaking up program & access relevant materials
