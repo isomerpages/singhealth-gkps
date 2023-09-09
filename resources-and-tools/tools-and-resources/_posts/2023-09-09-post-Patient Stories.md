@@ -12,31 +12,31 @@ By sharing their experiences, patients put a relatable face to health care issue
 
 We encourage you to leverage on patient stories to drive improvement. Here is a collection of links to patient stories. The stories are categorized by the organizations/ event organizers that produce/record/share the stories:
 
-**1. WHO What if Stories” Webinar Series**
+#### **1. WHO What if Stories” Webinar Series**
 
-| Title | Link to Story | 
+| Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Maternal Safety - Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
-|Maternal Newborn Safety - Isabela Castro    | [View](https://youtu.be/lhUUDLM_iJk)
-| Medication Safety in Transition of Care - Soojin Jun   |[View](https://www.youtube.com/embed/xST1MZgHQGg)|
+| Maternal Safety by Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
+|Maternal Newborn Safety by Isabela Castro    | [View](https://youtu.be/lhUUDLM_iJk)
+| Medication Safety in Transition of Care by Soojin Jun   |[View](https://www.youtube.com/embed/xST1MZgHQGg)|
 | Medication without Harm in Polypharmacy - Sue Sheridan   | [View](https://www.youtube.com/embed/zzJPQrhKfGk)
       
-**2. Agency for Healthcare Research and Quality (AHRQ) TeamSTEPPS**
+#### **2. Agency for Healthcare Research and Quality (AHRQ) TeamSTEPPS**
 
-| Title | Link to Story | 
+| Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Newborn Baby and Communicating Critical Test Results - Sue Sheridan | [View](https://youtu.be/Dn5zk49RLC8)
+| Newborn Baby and Communicating Critical Test Results by Sue Sheridan | [View](https://youtu.be/Dn5zk49RLC8)
 
-**3. Institute for Healthcare Improvement (IHI)**
+#### **3. Institute for Healthcare Improvement (IHI)**
 
-| Title | Link to Story | 
+| Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Maternal Newborn Safety - Beth Daley Ullem | [View](https://youtu.be/8plufSBnjKE)|
-| Medication Safety in Transition of Care- Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
-| Pediatric Death from Unsafe Care and Full Disclosure - Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
-| Medication Safety and Adverse Event - Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
+| Maternal Newborn Safety by Beth Daley Ullem | [View](https://youtu.be/8plufSBnjKE)|
+| Medication Safety in Transition of Care by Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
+| Pediatric Death from Unsafe Care and Full Disclosure by Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
+| Medication Safety and Adverse Event by Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
 
-**4. Patient for Patient Safety at World Alliance for Patient Safety**
+#### **4. Patient for Patient Safety at World Alliance for Patient Safety**
 
 | Title/ Region | Link to Story | 
 | -------- | -------- | 
@@ -46,8 +46,22 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
-**5. Safe Care Campaign**
+#### **5. [Safe Surgery Campaign](https://www.safecarecampaign.org/) **
 
-| Title/ Region | Link to Story | 
+| Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Chicago in PAHO/ American Region| [View](https://youtu.be/KD8A9bq2Yxc)|
+| Sepsis by Armando Nahum| [View ](https://youtu.be/8RoORfb3P2Y)|
+
+#### **6. The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018**
+
+| Title and Speaker | Link to Story | 
+| -------- | -------- | 
+|Colon Cancer Tested Too Late by Susie Becken |[View](https://youtu.be/pd-1I2T6eh8)|
+| Delayed Diagnosis of Stage 2 Colorectal Cancer by Jeanette Averette |[View](https://youtu.be/Hut7VUXiUiA)|
+| Failure to Detect Rapidly Deteriorating Kidneys - Roberta Reed |[View](https://youtu.be/ZnNqjT2o-o8)|
+| Failure to Communicate Test Results by Col. Steven Coffee|[View](https://youtu.be/lvJjNZsVGwo) |
+| Near Miss with Delayed Diabetes Test by Barry McKeown|[View](https://youtu.be/xkVhxR8d9qQ) |
+| Missed Diagnosis of Onset Stroke by Kimberly Rodgers|[View](https://youtu.be/Jvu2lrkcfKY)|
+| Missed Diagnosis of Sepsis by Sara Kiehl|[View](https://youtu.be/62q70SU_P3s) |
+|Undiagnosed Infection by Desiree Collins Bradley|[View](https://youtu.be/sVNbAQBeClg)
+| Wrong Diagnosis of Heart Condition by Lyn Behnke|[View](https://youtu.be/m7u08X5SoG0) |
