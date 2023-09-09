@@ -12,4 +12,13 @@ By sharing their experiences, patients put a relatable face to health care issue
 
 We encourage you to leverage on patient stories to drive improvement. Here is a collection of links to patient stories. The stories are categorized by the organizations/ event organizers that produce/record/share the stories:
 
+**1. WHO What if Stories” Webinar Series**
+
+
+| Title | Link to Story | 
+| -------- | -------- | 
+| Maternal Safety - Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
+|Maternal Newborn Safety - Isabela Castro    | [View](https://youtu.be/lhUUDLM_iJk)
+| Maternal Safety - Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
+
 
