@@ -46,3 +46,8 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
+**5. Safe Care Campaign**
+
+| Title/ Region | Link to Story | 
+| -------- | -------- | 
+| Chicago in PAHO/ American Region| [View](https://youtu.be/KD8A9bq2Yxc)|
