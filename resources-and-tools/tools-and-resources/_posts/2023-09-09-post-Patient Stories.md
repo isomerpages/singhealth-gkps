@@ -19,6 +19,6 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 | -------- | -------- | 
 | Maternal Safety - Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
 |Maternal Newborn Safety - Isabela Castro    | [View](https://youtu.be/lhUUDLM_iJk)
-| Maternal Safety - Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
-
-
+| Medication Safety in Transition of Care - Soojin Jun   |[View](https://www.youtube.com/embed/xST1MZgHQGg)|
+| Medication without Harm in Polypharmacy - Sue Sheridan   | [View](https://www.youtube.com/embed/zzJPQrhKfGk)
+         
