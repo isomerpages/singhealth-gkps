@@ -69,8 +69,8 @@ We encourage you to leverage on patient stories to drive improvement. Here is a 
 #### **7. Other Patient Safety Stories**
 
 | Title and Speaker | Link to Story | 
-| -------- | -------- | 
-|Alison Philips at HSJ Patient Safety Congress 2018|[View](https://youtu.be/RPlBwk_V99o)|
+| ---------------- | ------------- | 
+|Alison Philips at HSJ Patient Safety Congress 2018 |[View](https://youtu.be/RPlBwk_V99o)|
 |Films by Patientstories.org.uk|[View](https://www.patientstories.org.uk/films/)|
 |Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
 |Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories|
