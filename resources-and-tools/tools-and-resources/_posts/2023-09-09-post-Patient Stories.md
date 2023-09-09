@@ -25,13 +25,13 @@ Here is a collection of links to patient stories categorized by the organization
 | Medication Safety in Transition of Care by Soojin Jun   |[View](https://www.youtube.com/embed/xST1MZgHQGg)|
 | Medication without Harm in Polypharmacy - Sue Sheridan   | [View](https://www.youtube.com/embed/zzJPQrhKfGk)
       
-#### **2. Agency for Healthcare Research and Quality (AHRQ) TeamSTEPPS**
+#### **2. [Agency for Healthcare Research Agency (AHRQ) - TeamSTEPPS](https://www.ahrq.gov/teamstepps-program/index.html)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
 | Newborn Baby and Communicating Critical Test Results by Sue Sheridan | [View](https://youtu.be/Dn5zk49RLC8)
 
-#### **3. Institute for Healthcare Improvement (IHI)**
+#### **3. [Institute for Healthcare Improvement (IHI)](https://www.ihi.org/)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
@@ -40,7 +40,7 @@ Here is a collection of links to patient stories categorized by the organization
 | Pediatric Death from Unsafe Care and Full Disclosure by Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
 | Medication Safety and Adverse Event by Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
 
-#### **4. Patient for Patient Safety at World Alliance for Patient Safety**
+#### **4. [Patient for Patient Safety at](https://www.who.int/initiatives/patients-for-patient-safety) [World Alliance for Patient safety](https://www.who.int/teams/integrated-health-services/patient-safety/about/world-alliance-for-patient-safety)**
 
 | Title/ Region | Link to Story | 
 | -------- | -------- | 
@@ -50,13 +50,13 @@ Here is a collection of links to patient stories categorized by the organization
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
-#### **5. [Safe Surgery Campaign](https://www.safecarecampaign.org/) **
+#### 5. [Safe Surgery Campaign](https://www.safecarecampaign.org/) 
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
 | Sepsis by Armando Nahum| [View ](https://youtu.be/8RoORfb3P2Y)|
 
-#### **6. The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018**
+#### **6. [The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018](https://www.improvediagnosis.org/dem2018/)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
