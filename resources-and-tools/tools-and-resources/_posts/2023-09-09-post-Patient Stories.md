@@ -50,13 +50,25 @@ Here is a collection of links to patient stories categorized by the organization
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
-#### **[5. Safe Surgery Campaign](https://www.safecarecampaign.org/)**
+#### **[5. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Sepsis by Armando Nahum| [View ](https://youtu.be/8RoORfb3P2Y)|
+| Patients and Caregivers as Partners-in-Care| [View](https://youtu.be/k_leu2Udvic)|
+| A Simple Gesture Goes a Along Way Featuring Dr Khoo Sork Hoon|[View](https://fb.watch/mYeEEGkY-d/)|
+| A Simple Gesture Goes A Long Way Featuring Assoc Prof Anantham Devanand |[View](https://fb.watch/mYeMgO6Lsb/)|
+| A Simple Gesture Goes A Long Way Featuring Dr Nicolea Tan (Part 1) |[View](https://fb.watch/mYeQysXLI7/)|
+| A Simple Gesture Goes A Long Way Featuring Dr Nicolea Tan (Part 2) |[View](https://fb.watch/mYeSv41xWi/)|
+| Nurturing Yourself While Navigating the Nuances of Caregiving|[View](https://www.theadvocacyexchange.com/program/september-1st-2022/nurturing-yourself-while-navigating-the-nuances-of-caregiving/)|
+| Thank You! A Shoutout to all Healthcare Professionals|[View](https://www.facebook.com/watch/?v=2727004260748774)|
 
-#### **[6. The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018](https://www.improvediagnosis.org/dem2018/)**
+#### **[6. Safe Surgery Campaign](https://www.safecarecampaign.org/)**
+
+| Title and Speaker | Link to Story | 
+| -------- | -------- | 
+| Sepsis byArmando Nahum | [View](https://youtu.be/8RoORfb3P2Y)
+
+#### **[7. The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018](https://www.improvediagnosis.org/dem2018/)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
@@ -70,7 +82,7 @@ Here is a collection of links to patient stories categorized by the organization
 |Undiagnosed Infection by Desiree Collins Bradley|[View](https://youtu.be/sVNbAQBeClg)
 | Wrong Diagnosis of Heart Condition by Lyn Behnke|[View](https://youtu.be/m7u08X5SoG0) |
 
-#### **7. Other Patient Safety Stories**
+#### **8. Other Patient Safety Stories**
 
 | Title and Speaker | Link to Story | 
 | ---------------- | ------------- | 
