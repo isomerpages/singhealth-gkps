@@ -66,7 +66,7 @@ Here is a collection of links to patient stories categorized by the organization
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Sepsis byArmando Nahum | [View](https://youtu.be/8RoORfb3P2Y)
+| Sepsis by Armando Nahum | [View](https://youtu.be/8RoORfb3P2Y)
 
 #### **[7. The Society to Improve Diagnosis in Medicine (SIDM) DEM Conference 2018](https://www.improvediagnosis.org/dem2018/)**
 
