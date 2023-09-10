@@ -18,7 +18,7 @@ Overall, patient safety organizations are essential for reducing errors, improvi
 
 Here are some patient safety organizations dedicated to improving patient safety and quality in health care. We encourage you to visit their websites to be aware of their initiatives. This will empower you in your ongoing pursuit safer health care practices:
 
-*Note: this is a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network/institute or patient organizations, please email to:  gkps@singhealth.com.sg
+*Note: this is a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network or patient's organization, please email to:  gkps@singhealth.com.sg
 
 * [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
