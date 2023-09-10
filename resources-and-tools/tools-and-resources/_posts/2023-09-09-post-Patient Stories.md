@@ -12,7 +12,7 @@ By sharing their experiences, patients put a relatable face to health care issue
 
 ### Leverage on patient stories to drive improvement 
 
-[Click here to share patient stories and Patient Safety Improvements, Experiences and Practices with the Global Community today](https://form.gov.sg/64631e5f0fbfe400126c8e0d).
+[Click here to share patient stories with Global Community today](https://form.gov.sg/64fd3b2886905700123b55d2).
 
 Here is a collection of links to patient stories categorized by the organizations/ event organizers that produce/record/share the stories:
 
