@@ -54,14 +54,14 @@ The following collection of links to patient stories is categorized by the organ
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Patients and Caregivers as Partners-in-Care| [View](https://youtu.be/k_leu2Udvic)|
+| Patients and Caregivers as Partners-in-Care by Health Facility Leaders & Patient Advocates| [View](https://youtu.be/k_leu2Udvic)|
 | A Simple Gesture Goes a Along Way Featuring Dr Khoo Sork Hoon|[View](https://fb.watch/mYeEEGkY-d/)|
 | A Simple Gesture Goes A Long Way Featuring Assoc Prof Anantham Devanand |[View](https://fb.watch/mYeMgO6Lsb/)|
 | A Simple Gesture Goes A Long Way Featuring Dr Nicolea Tan (Part 1) |[View](https://fb.watch/mYeQysXLI7/)|
 | A Simple Gesture Goes A Long Way Featuring Dr Nicolea Tan (Part 2) |[View](https://fb.watch/mYeSv41xWi/)|
 |Focus on What Matters: Patient Centred Care through Digital Transformation by Ailing Sim Devadas | [View](https://healthcareredefinedapac.com/focus-on-what-matters-patient-centred-care-through-digital-transformation.html)|
-| Nurturing Yourself While Navigating the Nuances of Caregiving|[View](https://www.theadvocacyexchange.com/program/september-1st-2022/nurturing-yourself-while-navigating-the-nuances-of-caregiving/)|
-| Thank You! A Shoutout to all Healthcare Professionals|[View](https://www.facebook.com/watch/?v=2727004260748774)|
+| Nurturing Yourself While Navigating the Nuances of Caregiving Featuring Josie Liow|[View](https://www.theadvocacyexchange.com/program/september-1st-2022/nurturing-yourself-while-navigating-the-nuances-of-caregiving/)|
+| Thank You! A Shoutout to all Healthcare Professionals by SPAN Advocates |[View](https://www.facebook.com/watch/?v=2727004260748774)|
 
 #### **[6. Safe Surgery Campaign](https://www.safecarecampaign.org/)**
 
