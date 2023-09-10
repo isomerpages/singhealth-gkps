@@ -18,7 +18,7 @@ Overall, patient safety organizations are essential for reducing errors, improvi
 
 Here are some patient safety organizations dedicated to improving patient safety and quality in health care. We encourage you to visit their websites to be aware of their initiatives. This will empower you in your ongoing pursuit safer health care practices:
 
-*Note: this is a non-exhaustive list that will be periodically updated. If you wish to include your patient safety network/institute or patient organizations, please email to:  gkps@singhealth.com.sg
+*Note: this is a non-exhaustive list that will be periodically updated. If you wish to include your patient safety and health care quality organization, please email to:  gkps@singhealth.com.sg
 
 * [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
@@ -30,13 +30,14 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [National Health Service - Patient Safety ](https://www.england.nhs.uk/patient-safety/)
 * [National Quality Forum](https://www.qualityforum.org/Home.aspx)
 * [Patient Academy for Innovation and Research](https://www.pairacademy.org/)
-* [Patient For Patient Safety Network - Asia-Pacific](https://calltoaction.pairacademy.org/index.php)
+* [Patient For Patient Safety Network Asia-Pacific](https://calltoaction.pairacademy.org/index.php)
 * [Patient for Patient Safety Canada](https://www.healthcareexcellence.ca/en/what-we-do/all-programs/patients-for-patient-safety-canada/)
-* [Patient for Patient Safety, Ireland](https://patientsforpatientsafety.ie/)
-* [Patient for Patient Safety, US](https://www.pfps.us/)
+* [Patient for Patient Safety Ireland](https://patientsforpatientsafety.ie/)
+* [Patient for Patient Safety US](https://www.pfps.us/)
 * [Patient Safety Movement Foundation (PSMF)](https://psmf.org/)
 * [Saudi Patient Safety Center](https://www.spsc.gov.sa/English/Public/Pages/default.aspx)
 * [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)
+* [SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)
 * [The Beryl Institute](https://theberylinstitute.org/)
 * [The Institute for Healthcare Improvement](https://www.ihi.org/)
 * [The Joint Commission](https://www.jointcommission.org/)
