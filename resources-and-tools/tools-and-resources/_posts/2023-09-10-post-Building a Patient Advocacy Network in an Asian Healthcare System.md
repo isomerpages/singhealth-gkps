@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 | Building a Patient Advocacy Network -  Case Study | Shared by | Country |
 | -------- | -------- | -------- |
-| Mapped to Strategic Objective 4-Strategies 4.1, 4.2 and 4.3    | [SingHealth Patient Advocacy Network](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)  | Singapore     |
+| Mapped to Strategic Objective 4-Strategies 4.1, 4.2 and 4.3 [Download GKPSFILEA10](/files/gkpsfilea10_building%20a%20patient%20advocacy%20network.pdf)   | [SingHealth Patient Advocacy Network](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)  | Singapore     |
 
 
 Patient engagement & partnership to improve health care and elevate the patient experience, can work well in a community in Asia, where patient partnership is a new concept. Using the development of SingHealth Patient Advocacy Network (SPAN) as the case study, the key factors for enabling the successful development of patient partnership and patient advocacy, are distilled. SPAN secretariat, together with the SPAN leaders, continues to seek further directions and to expand its work to elevate the patient experience, improve patient safety, amplify patient voices and to grow the body of knowledge on patient engagement and patient advocacy for the Asian community.
