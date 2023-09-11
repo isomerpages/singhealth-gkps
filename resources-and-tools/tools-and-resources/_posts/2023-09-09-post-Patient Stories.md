@@ -20,12 +20,12 @@ The following collection of links to patient stories is categorized by the organ
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Maternal Safety by Regina Kamoga    | [View](https://www.youtube.com/embed/irCPCktoMXg)|
+| Maternal Safety by Regina Kamoga | [View](https://www.youtube.com/embed/irCPCktoMXg)|
 |Maternal Newborn Safety by Isabela Castro    | [View](https://youtu.be/lhUUDLM_iJk)
 | Medication Safety in Transition of Care by Soojin Jun   |[View](https://www.youtube.com/embed/xST1MZgHQGg)|
 | Medication without Harm in Polypharmacy by Sue Sheridan   | [View](https://www.youtube.com/embed/zzJPQrhKfGk)
       
-#### **[2. Agency for Healthcare Research Agency (AHRQ) - TeamSTEPPS](https://www.ahrq.gov/teamstepps-program/index.html)**
+#### **[2. Agency for Healthcare Research (AHRQ) - TeamSTEPPS](https://www.ahrq.gov/teamstepps-program/index.html)**
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 

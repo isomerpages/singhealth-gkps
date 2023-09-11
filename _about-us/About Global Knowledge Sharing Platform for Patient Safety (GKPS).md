@@ -7,7 +7,7 @@ description: ""
 
 GKPS is an online and public platform to facilitate systematic collection and sharing of patient safety knowledge by stakeholders in different geographic regions, economic and cultural settings.
 
-It promotes the sharing of best practices related to the theme of each [World Patient Safety Day (WPSD)](https://www.who.int/ampaigns/world-patient-safety-day) for implementing and learning, as well as sharing of experiences in enhancing patient safety. 
+It promotes the sharing of best practices related to the theme of each [World Patient Safety Day (WPSD)](https://www.who.int/campaigns/world-patient-safety-day) for implementing and learning, as well as sharing of experiences in enhancing patient safety. 
 
 The goal is to connect key stakeholders involved in the development and implementation of patient safety and improvement practices, reporting, and learning systems by sharing methods, tools and resources, and the experiences of safety champions and local health care professionals to accelerate the current dissemination of patient safety and improvement strategies and learnings.
 

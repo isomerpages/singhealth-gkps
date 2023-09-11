@@ -3,7 +3,7 @@ title: Best Practices Related to Themes of World Patient Safety Day
 permalink: /bestpracticesthemeswpsd/
 description: ""
 ---
-17 September is World Patient Safety Day
+Annually, World Patient Safety Day falls on 17 September
 ------------------------------
 Annually on World Patient Safety Day, all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety. 
 
@@ -18,12 +18,12 @@ Here are some submitted resources and tools aligned to Strategic Objective 4 - P
 
 In commemorating the World Patient Safety Day, we invite you to share best practices that are related to the theme of each World Patient Safety Day:
 
-*   [Share](https://for.sg/engagingpatientsforpatientsafetywpsd2023) best practices on "Engaging Patients for Patient Safety", theme of [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023)
 
-*  [Share](https://form.gov.sg/64e447f20e024d001139dcc5) best practices on "Medication Safety", theme of [World Patient Safety Day 2022](https://www.who.int/campaigns/world-patient-safety-day/2022)
+| World Patient Safety Day | Theme | Share Best Practices |
+| -------- | -------- | -------- |
+| [World Patient Safety Day 2023](https://www.who.int/campaigns/world-patient-safety-day/2023)  | Engaging Patients for Patient Safety  |  [Click to share](https://for.sg/engagingpatientsforpatientsafetywpsd2023)  |
+| [World Patient Safety Day 2022](https://www.who.int/campaigns/world-patient-safety-day/2022)  |Medication Safety  |  [Click to share](https://form.gov.sg/64e447f20e024d001139dcc5)
+| [World Patient Safety Day 2021](https://www.who.int/campaigns/world-patient-safety-day/2021)  |Safe Maternal and Newborn Care  |  [Click to share](https://form.gov.sg/64e449ba3f58260013c32bb7)
+| [World Patient Safety Day 2020](https://www.who.int/campaigns/world-patient-safety-day/2020)  |Health Worker Safety: A Priority for Patient Safety  |  [Click to share](https://form.gov.sg/64e44ab4c98c410011f5de95)
+| [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019)  | Speak up for Patient Safety!  | [Click to share](https://form.gov.sg/64e44b7c3f58260013c371bf) 
 
-*  [Share](https://form.gov.sg/64e449ba3f58260013c32bb7) best practices on "Safe Maternal and Newborn Care", theme of [World Patient Safety Day 2021](https://www.who.int/campaigns/world-patient-safety-day/2021)
-
-*  [Share](https://form.gov.sg/64e44ab4c98c410011f5de95) best practices on "Health Worker Safety: A Priority for Patient Safety", theme of [World Patient Safety Day 2020](https://www.who.int/campaigns/world-patient-safety-day/2020)
-
-*  [Share](https://form.gov.sg/64e44b7c3f58260013c371bf) best practices on "Speak up for patient safety!", theme of  [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019)
