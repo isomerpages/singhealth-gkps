@@ -13,11 +13,10 @@ Here are some submitted resources and tools aligned to Strategic Objective 4 - P
    
 1. Collection of Patient Stories [more](/resources-and-tools/tools-and-resources/patientstories/)
 2. Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
-3. Building a Patient Advocacy Network [more]( /resources-and-tools/tools-and-resources/SPAN)
+3. Building a Patient Advocacy Network [more](/resources-and-tools/tools-and-resources/span/)
 4. Plain English Glossary [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 
 In commemorating the World Patient Safety Day, we invite you to share best practices that are related to the theme of each World Patient Safety Day:
-
 
 | World Patient Safety Day | Theme | Share Best Practices |
 | -------- | -------- | -------- |
@@ -25,5 +24,4 @@ In commemorating the World Patient Safety Day, we invite you to share best pract
 | [World Patient Safety Day 2022](https://www.who.int/campaigns/world-patient-safety-day/2022)  |Medication Safety  |  [Click to share](https://form.gov.sg/64e447f20e024d001139dcc5)
 | [World Patient Safety Day 2021](https://www.who.int/campaigns/world-patient-safety-day/2021)  |Safe Maternal and Newborn Care  |  [Click to share](https://form.gov.sg/64e449ba3f58260013c32bb7)
 | [World Patient Safety Day 2020](https://www.who.int/campaigns/world-patient-safety-day/2020)  |Health Worker Safety: A Priority for Patient Safety  |  [Click to share](https://form.gov.sg/64e44ab4c98c410011f5de95)
-| [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019)  | Speak up for Patient Safety!  | [Click to share](https://form.gov.sg/64e44b7c3f58260013c371bf) 
-
+| [World Patient Safety Day 2019](https://www.who.int/campaigns/world-patient-safety-day/2019)  | Speak up for Patient Safety!  | [Click to share](https://form.gov.sg/64e44b7c3f58260013c371bf)
