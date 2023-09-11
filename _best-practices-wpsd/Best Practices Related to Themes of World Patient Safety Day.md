@@ -3,7 +3,7 @@ title: Best Practices Related to Themes of World Patient Safety Day
 permalink: /bestpracticesthemeswpsd/
 description: ""
 ---
-Annually, World Patient Safety Day is on 17 September
+Annually, World Patient Safety Day falls on 17 September
 ------------------------------
 Annually on World Patient Safety Day, all nations and international allies are encouraged to collaborate and take action to enhance patient safety globally. The event unites patients, families, caregivers, communities, health care professionals, leaders, and policymakers in demonstrating their dedication to patient safety. 
 
