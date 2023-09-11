@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Global Knowledge Sharing Platform for Patient Safety (GKPS)
-description: "An online and public platform to facilitate systematic collection
+description: An online and public platform to facilitate systematic collection
   and sharing of patient safety knowledge by stakeholders in different
   geographic regions, economic and cultural settings. Administered by SingHealth
-  Duke-NUS Institute for Patient Safety & Quality (IPSQ) "
+  Duke-NUS Institute for Patient Safety & Quality (IPSQ)
 image: /images/gkps logo_edited 210823.png
 permalink: /
 notification: ""
@@ -23,8 +23,8 @@ sections:
       image: /images/gkps imageresize22.png
   - infopic:
       title: Patient Safety
-      subtitle: WHO
-      description: focusing on patient safety & healthcare systems linkages to
+      subtitle: World Health Organization
+      description: Focusing on patient safety and healthcare systems linkages to
         eliminate preventable harm to improve patient safety and health outcomes
         at the point of care.
       button: CLICK HERE
