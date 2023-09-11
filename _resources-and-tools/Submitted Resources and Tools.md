@@ -23,6 +23,7 @@ These patient safety resources and tools are submitted by health care ministries
 | Building a Patient Advocacy Network   | Strategic Objective 4  [more]( /resources-and-tools/tools-and-resources/SPAN)
 | SingHealth Patient Advocacy Plain English Glossary  | Strategic Objective 4  [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 | Healthcare Improvement Toolkit | Strategic Objective 5 [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
+| The Psychological Experience of Frontline Nurses Amid The COVID-19 Pandemic | Strategic Objective 5 [more](/resources-and-tools/tools-and-resources/gkpsfilea14/)
 | Prevalence of burnout among healthcare professionals in Singapore | Strategic Objective 5 [more]( /resources-and-tools/tools-and-resources/burnout)
 | Patient Safety Engagement Report  | Strategic Objectives 1 and 7 [more]( /resources-and-tools/tools-and-resources/paser)
 
