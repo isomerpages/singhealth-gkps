@@ -9,7 +9,7 @@ These patient safety resources and tools are submitted by health care ministries
 [Click here to submit](https://form.gov.sg/64631e5f0fbfe400126c8e0d).**
 
 ##### Submitted Resources and Tools that are mapped to [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan):
-1. Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions (mapped to Strategic Objectives 1, 2, 3, 5 and 6) [more]( /resources-and-tools/tools-and-resources/gkpsfilea11/)
+1. Impact of Hospital Readiness on Patient Safety Incidents during the COVID-19 Pandemic in Indonesia: Health Worker Perceptions (mapped to Strategic Objectives 1, 2, 3, 5 and 6) [more]( /resources-and-tools/tools-and-resources/gkpsfilea11/)
 2. Singapore General Hospital (SGH) Best Practices  (mapped to Strategic Objectives 2,3 and 5 of GPSAP 2021-2030) [more](/resources-and-tools/tools-and-resources/sghbestpracticesso235/)
 3. Promoting Speaking Up For Patient Safety In Your Organization (mapped to Strategic Objectives 2 and 5 of GPSAP 2021-2030) [more](/resources-and-tools/tools-and-resources/teamspeak)
 4. Patient Fall Risk Assessment Record in Outpatient Department (mapped to Strategic Objective 3 of GPSAP 2021-2030) [more ](/tools-and-resources/tools-and-resources/pfrar/)
