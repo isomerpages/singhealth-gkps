@@ -23,6 +23,7 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)
 * [Australian Commission on Safety and Quality in Healthcare ](https://www.safetyandquality.gov.au/)
 * [Canadian Patient Safety Institute](https://www.patientsafetyinstitute.ca/en/Pages/default.aspx)
+* [ Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research) 
 * [ECRI Institute](https://www.ecri.org/)
 * [International Alliance of Patients' Organizations ](https://www.iapo.org.uk/)
 * [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
