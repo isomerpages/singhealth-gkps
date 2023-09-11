@@ -7,10 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 | Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions | Shared by | Country |
 | -------- | -------- | -------- |
-Mapped to Strategic Objectives 1,3,5 and 6- Strategies 1.4, 2.2, 2.3, 3.1, 3.3-3.5, 5.3-5.4 and 6.1-6.3 [Download GKPSFILEA11](/files/gkpsfilea11_manuscript%20jmdh-412327-health-workers-rsquo--perspective-on-patient-safety-incident.pdf)| [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research) | Indonesia
+Mapped to Strategic Objectives 1,3,5 and 6- Strategies 1.4, 2.2, 2.3, 3.1, 3.3-3.5, 5.3-5.4 and 6.1-6.3 [Download GKPSFILEA11](/files/gkpsfilea11%20impact%20of%20hospital%20readiness%20on%20patient%20safety%20incidents%20during%20the%20covid-19%20.pdf)| [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research) | Indonesia
 
 Dhamanti, I., Indriani, D., Miftahussurur, M., Kurniawati, E., & Engineer, C. Y. (2022). Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions. _BMJ open_, _12_(7), e061702.
 
