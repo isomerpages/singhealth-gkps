@@ -12,6 +12,7 @@ These patient safety resources and tools are submitted by health care ministries
 
 |Submitted Resources and Tools | Mapped to Relevant Strategic Objective (SO) of GPSAP 2021-2030| 
 | -------- | -------- | 
+| Maldives Patient Safety Journey | SOs 1 to 6 [more](/resources-and-tools/tools-and-resources/gkpsfilea15/)
 | Impact of Hospital Readiness on Patient Safety Incidents during COVID-19 in Indonesia: Health Worker Perceptions    | SOs 1, 2 and 3 [more]( /resources-and-tools/tools-and-resources/gkpsfilea11/)   
 | Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture   | SOs 1 and 2 [more](/resources-and-tools/tools-and-resources/gkpsfilea12) | 
 | Singapore General Hospital Best Practices  | SOs 2, 3 and 5 [more](/resources-and-tools/tools-and-resources/sghbestpracticesso235/) 
