@@ -24,7 +24,7 @@ These patient safety resources and tools are submitted by health care ministries
 | Health Workers' perspective on patient safety incident disclosure | SO 4 [more](/resources-and-tools/tools-and-resources/gkpsfilea13/)
 | Asia-Pacific Patient and Family Engagement Consensus Report  | SO 4 [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 | Building a Patient Advocacy Network   | SO 4  [more]( /resources-and-tools/tools-and-resources/span)
-| SingHealth Patient Advocacy Plain English Glossary  | SO 4  [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
+| SingHealth Patient Advocacy Network Plain English Glossary  | SOs 4 and 5 [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
 | Healthcare Improvement Toolkit | SO 5 [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
 | The Psychological Experience of Frontline Nurses Amid The COVID-19 Pandemic | SO 5 [more](/resources-and-tools/tools-and-resources/gkpsfilea14/)
 | Prevalence of burnout among healthcare professionals in Singapore | SO 5 [more]( /resources-and-tools/tools-and-resources/burnout)
