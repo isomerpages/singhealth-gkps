@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 | Health Workers' Perspective on Patient Safety Incident Disclosure| Shared by | Country |
 | -------- | -------- | -------- |
 | Mapped to Strategic Objective 4 - Strategy 4.4 [Download GKPSFILEA13](/files/gkpsfilea13_health%20workers%20perspective%20on%20patient%20safety%20incident.pdf)    | [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research)     | Indonesia     |
@@ -19,4 +18,3 @@ Open disclosure is an open discussion with patients about incidents that harm th
 This study examined how health staff in Indonesian hospitals perceived open disclosure of patient safety incidents (PSIs). To the best of our knowledge, this was the first mixed method study in Indonesia to investigate health workers’ perspectives on incident disclosure. 
 
 Open disclosure is novel for Indonesian health professionals. A good open disclosure system in hospitals could address several issues such as lack of knowledge, lack of policy support, lack of training, and lack of policy. To limit the negative implications of disclosing situations, the government should develop supportive policies at the national level and organize many initiatives at the hospital level.
-
