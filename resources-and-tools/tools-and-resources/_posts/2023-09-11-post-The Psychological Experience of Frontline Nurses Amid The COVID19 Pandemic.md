@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-| The Psychological Experience of Frontline Nurses Amid the Covid-19 Pandamic | Shared by | Country |
+| The Psychological Experience of Frontline Nurses Amid the Covid-19 Pandemic | Shared by | Country |
 | -------- | -------- | -------- |
 | Mapped to Strategic Objective 5 - Strategy 5.5 [Download GKPSFILEA13](/files/gkpsfilea13_health%20workers%20perspective%20on%20patient%20safety%20incident.pdf)    | [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research)     | Indonesia |
 
