@@ -20,6 +20,7 @@ These patient safety resources and tools are submitted by health care ministries
 | Patient Fall Risk Assessment Record in Outpatient Department  | SO 3 [more ](/tools-and-resources/tools-and-resources/pfrar/)
 | Nursing Fall Prevalence Audit Checklist  | SO 3 [more](/resources-and-tools/tools-and-resources/gkpsfilea16/)
 | Cross-Institutions Infection Control Audit Tools  | SO 3 [more](/resources-and-tools/tools-and-resources/ciic/)
+| Electronic Inpatient Medication Record (eIMR) Audit Checklist | SO 3 [more](/resources-and-tools/tools-and-resources/gkpsfilea17/)
 | Health Workers' perspective on patient safety incident disclosure | SO 4 [more](/resources-and-tools/tools-and-resources/gkpsfilea13/)
 | Asia-Pacific Patient and Family Engagement Consensus Report  | SO 4 [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 | Building a Patient Advocacy Network   | SO 4  [more]( /resources-and-tools/tools-and-resources/span)
