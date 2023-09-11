@@ -10,9 +10,7 @@ These patient safety resources and tools are submitted by health care ministries
 
 ##### Submitted Resources and Tools that are mapped to [Global Patient Safety Action Plan (GPSAP) 2021-2030](https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan):
 
-
-
-| Resources and Tools | Mapped to Strategic Objective of GPSAP 2021-2030| 
+|Submitted Resources and Tools | Mapped to Strategic Objective of GPSAP 2021-2030| 
 | -------- | -------- | 
 | Impact of Hospital Readiness on Patient Safety Incidents during COVID-19 in Indonesia: Health Worker Perceptions    | Strategic Objectives 1, 2 and 3 [more]( /resources-and-tools/tools-and-resources/gkpsfilea11/)   
 | Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture   | Strategic Objectives 1 and 2 [more](/resources-and-tools/tools-and-resources/gkpsfilea12) | 
