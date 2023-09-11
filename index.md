@@ -12,10 +12,10 @@ sections:
   - hero:
       background: /images/gkps website banner 070923_v3.svg
   - infopic:
-      title: Global Patient Safety Action Plan (GPSAP)
-      subtitle: 2021-2030
+      title: Global Patient Safety Action Plan (GPSAP) 2021-2030
+      subtitle: "World Health Organization "
       description: Provide guidance to eliminate harm and improve patient safety in
-        healthcare through policies on safety and quality, and recommendations
+        health care through policies on safety and quality, and recommendations
         at the point of care.
       button: DOWNLOAD HERE
       url: https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan
