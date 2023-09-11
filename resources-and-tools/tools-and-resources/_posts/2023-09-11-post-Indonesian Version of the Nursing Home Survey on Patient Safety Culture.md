@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture | Shared by | Country |
+| Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture  | Shared by | Country |
 | -------- | -------- | -------- |
-| Mapped to Strategic Objectives 1 and 2 - Strategies 1.1 and 2.1 [Download GKPSFILEA12](/files/gkpsfile12%20psychometric%20properties%20of%20the%20indonesian%20version%20of%20the%20nursing%20home.pdf)   | [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research)| Indonesia     |
-
+| Mapped to Strategic Objectives 1 and 2 - Strategies 1.1 and 2.1 [Download GKPSFILEA12](/files/gkpsfile12%20psychometric%20properties%20of%20the%20indonesian%20version%20of%20the%20nursing%20home.pdf)     | [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research)     | Indonesia    |
 
 Fauziningtyas, R., Chan, C. M., Pin, T. M., Dhamanti, I., & Smith, G. D. (Accepted/In press). Psychometric properties of the Indonesian version of the nursing home survey on patient safety culture. International journal of older people nursing. [https://doi.org/10.1111/opn.12553](https://doi.org/10.1111/opn.12553)
    
