@@ -33,7 +33,7 @@ sections:
       image: /images/gkps imageresize11.jpg
   - infopic:
       title: World Patient Safety Day
-      subtitle: WHO
+      subtitle: World Health Organization
       description: World Patient Safety Day calls for global solidarity and concerted
         action by all countries and international partners to improve patient
         safety.
