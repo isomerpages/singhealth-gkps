@@ -44,7 +44,7 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [The Beryl Institute](https://theberylinstitute.org/)
 * [The Institute for Healthcare Improvement](https://www.ihi.org/)
 * [The Joint Commission](https://www.jointcommission.org/)
-* [The Organisation for Economic Co-operation and Development (OECD) ](https://www.oecd.org/)
+* [The Organisation for Economic Co-operation and Development (OECD) ](https://www.oecd.org/health/patient-safety.htm)
 * [World Health Organization Patient Safety Flagship Unit](https://www.who.int/teams/integrated-health-services/patient-safety)
 * [World Organization of Family Doctors- Working Party: Quality & Safety](https://www.globalfamilydoctor.com/groups/WorkingParties/QualitySafety.aspx)
 * [World Patients Alliance](https://www.worldpatientsalliance.org/)
