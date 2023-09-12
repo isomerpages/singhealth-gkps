@@ -26,6 +26,7 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [ Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research) 
 * [ECRI Institute](https://www.ecri.org/)
 * [Institute for Safe Medication Practices (ISMP)](https://www.ismp.org/)
+* [ISMP Canada](https://ismpcanada.ca/)
 * [International Alliance of Patients' Organizations ](https://www.iapo.org.uk/)
 * [International Society for Quality in Healthcare (ISQua)](https://isqua.org/)
 * [John Hopkins Medicine Armstrong Institute for Patient Safety and Quality ](https://www.hopkinsmedicine.org/armstrong-institute/about)
