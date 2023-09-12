@@ -39,6 +39,7 @@ The following collection of links to patient stories is categorized by the organ
 | Medication Safety in Transition of Care by Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
 | Pediatric Death from Unsafe Care and Full Disclosure by Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
 | Medication Safety and Adverse Event by Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
+| What Happened to Josie? | [View](https://www.ihi.org/education/IHIOpenSchool/resources/Pages/Activities/WhatHappenedtoJosieKing.aspx)
 
 #### **[4. Patient for Patient Safety at](https://www.who.int/initiatives/patients-for-patient-safety) [World Alliance for Patient safety](https://www.who.int/teams/integrated-health-services/patient-safety/about/world-alliance-for-patient-safety)**
 
@@ -49,6 +50,7 @@ The following collection of links to patient stories is categorized by the organ
 | Latin America in PAHO/ American Region (Spanish with English subtitle) | [View](https://youtu.be/EHiATbdZFP4)|
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
+
 
 #### **[5. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
 
@@ -93,5 +95,6 @@ The following collection of links to patient stories is categorized by the organ
 |Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories/)|
 |PrêmioJulia Lima (Portuguese) |[View](https://www.youtube.com/watch?v=ctjXlc3fT6I)|
 |The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)
+|The Lewis Blackman Story|[View](https://youtu.be/WEIE_hRucpo)
 |Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
 |We ADVANCE|[View](https://vimeo.com/121500247)|
