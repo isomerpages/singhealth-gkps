@@ -95,7 +95,8 @@ The following collection of links to patient stories is categorized by the organ
 |Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
 |Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories/)|
 |PrêmioJulia Lima (Portuguese) |[View](https://www.youtube.com/watch?v=ctjXlc3fT6I)|
-|The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)
-|The Lewis Blackman Story|[View](https://youtu.be/WEIE_hRucpo)
+|Sue Sheridan: My Story|[View](https://youtu.be/Di9epzNFC3s?si=jKeZNIIb6fUJrBgG)|
+|The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)|
+|The Lewis Blackman Story|[View](https://youtu.be/WEIE_hRucpo)|
 |Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
 |We ADVANCE|[View](https://vimeo.com/121500247)|
