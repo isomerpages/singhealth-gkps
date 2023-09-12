@@ -10,7 +10,7 @@ Patient stories wield significant influence in driving patient safety and foster
 
 By sharing their experiences, patients put a relatable face to health care issues, evoking empathy and a sense of urgency and purpose among health care facilities and professionals. The insights fuel engagement and advocacy, empowering patients to become champions for their own safety and the broader health care community. Patient stories also serve as valuable educational tools, promoting transparency by encouraging open discussions and inspiring change at both individual and institutional levels.
 
-### Leverage on patient stories to drive improvement 
+### Patient Stories are the drivers of Patient Engagement and Patient Safety.
 
 [Click here to share patient stories with Global Community today](https://form.gov.sg/64fd3b2886905700123b55d2).
 
@@ -39,6 +39,7 @@ The following collection of links to patient stories is categorized by the organ
 | Medication Safety in Transition of Care by Soojin Jun | [View](https://youtu.be/lXnK04uTdaU)|
 | Pediatric Death from Unsafe Care and Full Disclosure by Carole Hemmelgarn | [View](https://youtu.be/nm4Rjll2d10)|
 | Medication Safety and Adverse Event by Desiree Collins Bradley | [View](https://youtu.be/lmvxL42WKdI)|
+| What Happened to Josie? | [View](https://www.ihi.org/education/IHIOpenSchool/resources/Pages/Activities/WhatHappenedtoJosieKing.aspx)
 
 #### **[4. Patient for Patient Safety at](https://www.who.int/initiatives/patients-for-patient-safety) [World Alliance for Patient safety](https://www.who.int/teams/integrated-health-services/patient-safety/about/world-alliance-for-patient-safety)**
 
@@ -49,6 +50,7 @@ The following collection of links to patient stories is categorized by the organ
 | Latin America in PAHO/ American Region (Spanish with English subtitle) | [View](https://youtu.be/EHiATbdZFP4)|
 | South East Asia Region |[View](https://youtu.be/X8hZkKKiyY0) |
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
+
 
 #### **[5. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
 
@@ -89,9 +91,12 @@ The following collection of links to patient stories is categorized by the organ
 | ---------------- | ------------- | 
 |Alison Philips at HSJ Patient Safety Congress 2018 |[View](https://youtu.be/RPlBwk_V99o)|
 |Films by Patientstories.org.uk|[View](https://www.patientstories.org.uk/films/)|
+|Melissa Sheldrick Story|[View](https://melissasheldrick.ca/our-story/)|
 |Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
 |Patient Stories by Patient Safety Movement Foundation|[View](https://psmf.org/patient-stories/)|
 |PrêmioJulia Lima (Portuguese) |[View](https://www.youtube.com/watch?v=ctjXlc3fT6I)|
-|The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)
+|Sue Sheridan: My Story|[View](https://youtu.be/Di9epzNFC3s?si=jKeZNIIb6fUJrBgG)|
+|The Human Factor: Learning from Gina's Story|[View](https://youtu.be/IJfoLvLLoFo)|
+|The Lewis Blackman Story|[View](https://youtu.be/WEIE_hRucpo)|
 |Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
 |We ADVANCE|[View](https://vimeo.com/121500247)|

@@ -9,7 +9,6 @@ links:
         url: /iag
   - title: World Patient Safety Day
     url: /bestpracticesthemeswpsd/
-    sublinks: []
   - title: Patient Safety Challenges
     url: /overviewglobalpatientsafetychallenges
     sublinks:
@@ -25,7 +24,7 @@ links:
       - title: Submitted Resources and Tools
         url: /submittedresourcesandtools/
       - title: Links to Resources and Tools
-        url: linkstoresourcesandtools/
+        url: /linkstoresourcesandtools/
   - title: Networks
     url: /overviewnetworks
     sublinks:
