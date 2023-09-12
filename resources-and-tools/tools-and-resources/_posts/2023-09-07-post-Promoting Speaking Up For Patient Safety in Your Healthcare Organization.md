@@ -14,11 +14,11 @@ image: ""
 
 TeamSPEAK™ is a structured and scenario-contextualised patient safety programme co-developed by the SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ) with Inter-Professional Faculty from Singapore Health Services (SingHealth). 
 
-The resource shared here is taken from the 90-minute interactive workshop conducted at ISQua 2023. The session covered the sharing of concepts, tools and experiences from IPSQ, Role-play activities to provide the participants with the opportunity to apply the speaking up tools shared in the workshop. Objectives of the workshop:
+The resource shared here is taken from the 90-minute interactive workshop conducted at ISQua 2023. The session covered the sharing of concepts, tools and experiences from IPSQ, role-play activities to provide the participants with the opportunity to apply the speaking up tools shared in the workshop. Objectives of the workshop:
 
 1. Understand Safe Choices, Human Errors & Unsafe Choices
 2. Human Choice & Fallibility
 3. Our Roles in Promoting Safe Choice
-4. Identify the rationale of building the Psychological Safety & Speak Up Culture in their health  care setup
-5. Design & run program to promote psychological safety & encourage open communication in speaking up
-6. Understand the principles to spread & sustain speaking up program & access relevant materials
+4. Identify the Rationale of building the Psychological Safety & Speak Up Culture in their health Care Setup
+5. Design and Run Program to Promote Psychological Safety and Encourage Open Communication in Speaking Up
+6. Understand the Principles to Spread and Sustain Speaking Up Program and Access Relevant Materials
