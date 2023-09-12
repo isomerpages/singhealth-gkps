@@ -9,4 +9,4 @@ Launched in 2017, [Medication Without Harm](https://www.who.int/initiatives/medi
 
 **GOAL**: to reduce severe avoidable medication-related harm by 50%, globally in the next 5 years.
 
-Click [here ](https://docisolation.prod.fire.glass/?guid=29b56937-5cef-4d43-3231-7a5f1052ac4c) to download the Strategic Framework and visit the [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
+Click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2) to download the Strategic Framework and visit the [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
