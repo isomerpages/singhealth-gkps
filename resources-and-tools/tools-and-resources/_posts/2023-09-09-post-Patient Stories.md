@@ -10,7 +10,7 @@ Patient stories wield significant influence in driving patient safety and foster
 
 By sharing their experiences, patients put a relatable face to health care issues, evoking empathy and a sense of urgency and purpose among health care facilities and professionals. The insights fuel engagement and advocacy, empowering patients to become champions for their own safety and the broader health care community. Patient stories also serve as valuable educational tools, promoting transparency by encouraging open discussions and inspiring change at both individual and institutional levels.
 
-### Leverage on patient stories to drive improvement 
+### Patient Stories are the drivers of Patient Engagement and Patient Safety.
 
 [Click here to share patient stories with Global Community today](https://form.gov.sg/64fd3b2886905700123b55d2).
 
