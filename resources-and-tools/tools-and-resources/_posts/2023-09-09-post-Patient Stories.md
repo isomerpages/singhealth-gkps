@@ -67,7 +67,7 @@ View over 100 PSMF Patient Stories [here](https://psmf.org/patient-stories/)
 
 | Title and Speaker | Link to Story | 
 | -------- | -------- | 
-| Patients and Caregivers as Partners-in-Care by Health Facility Leaders & Patient Advocates| [View](https://youtu.be/k_leu2Udvic)|
+| Patients and Caregivers as Partners-in-Care by Health Facility Leaders &amp; Patient Advocates| [View](https://youtu.be/k_leu2Udvic)|
 | A Simple Gesture Goes a Along Way Featuring Dr Khoo Sork Hoon|[View](https://fb.watch/mYeEEGkY-d/)|
 | A Simple Gesture Goes A Long Way Featuring Assoc Prof Anantham Devanand |[View](https://fb.watch/mYeMgO6Lsb/)|
 | A Simple Gesture Goes A Long Way Featuring Dr Nicolea Tan (Part 1) |[View](https://fb.watch/mYeQysXLI7/)|
@@ -112,3 +112,6 @@ View over 100 PSMF Patient Stories [here](https://psmf.org/patient-stories/)
 |The Lewis Blackman Story|[View](https://youtu.be/WEIE_hRucpo)|
 |Voices of Safety Campaign by International Alliance of Patients' Organizations and Patients for Patient Safety Observatory|[View](https://www.youtube.com/@iapop4pso279/videos)|
 |We ADVANCE|[View](https://vimeo.com/121500247)|
+
+
+<small> ****Note: updated as of 11 September 2023.*</small>
