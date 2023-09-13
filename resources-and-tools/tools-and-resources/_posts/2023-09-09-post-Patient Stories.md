@@ -54,7 +54,6 @@ The following collection of links to patient stories is categorized by the organ
 
 #### **[5. Patient Safety Movement Foundation](https://www.psmf.org)**
 
-
 | Patient Story | Link to Story | 
 | -------- | -------- | 
 | Anna Farley Edwards    | [View](https://psmf.org/story/anna-farley-edwards/)| 
