@@ -20,4 +20,4 @@ Our commitment is to continually update and expand this collection to ensure tha
 9. [Links to Resources and Tools mapped to Strategic Objective 7 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so7/)
 
 
-*Note: links updated as of 11 September 2023.*
+<small> ****Note: updated as of 11 September 2023.*</small>

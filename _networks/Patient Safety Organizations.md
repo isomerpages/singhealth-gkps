@@ -41,12 +41,16 @@ Here are some patient safety organizations dedicated to improving patient safety
 * [Patient for Patient Safety US](https://www.pfps.us/)
 * [Patient Safety Movement Foundation (PSMF)](https://psmf.org/)
 * [Saudi Patient Safety Center](https://www.spsc.gov.sa/English/Public/Pages/default.aspx)
-* [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)
+* [SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq)
 * [SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)
 * [The Beryl Institute](https://theberylinstitute.org/)
 * [The Institute for Healthcare Improvement](https://www.ihi.org/)
 * [The Joint Commission](https://www.jointcommission.org/)
 * [The Organisation for Economic Co-operation and Development (OECD) ](https://www.oecd.org/health/patient-safety.htm)
 * [World Health Organization Patient Safety Flagship Unit](https://www.who.int/teams/integrated-health-services/patient-safety)
-* [World Organization of Family Doctors- Working Party: Quality & Safety](https://www.globalfamilydoctor.com/groups/WorkingParties/QualitySafety.aspx)
+* [World Organization of Family Doctors- Working Party: Quality &amp; Safety](https://www.globalfamilydoctor.com/groups/WorkingParties/QualitySafety.aspx)
 * [World Patients Alliance](https://www.worldpatientsalliance.org/)
+
+
+
+<small> ****Note: updated as of 11 September 2023.*</small>
