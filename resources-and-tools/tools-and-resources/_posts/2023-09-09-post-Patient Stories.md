@@ -60,7 +60,7 @@ The following collection of links to patient stories is categorized by the organ
 | Anders Pederson| [View](https://psmf.org/story/anders-pederson/)
 | Martha Mills|[View](https://psmf.org/story/martha-mills/)
 | Rihan Neupane|[View](https://psmf.org/story/rihan-neupane/)
-
+[Click for more PSMF Patient Stories](https://psmf.org/patient-stories/)
 
 
 #### **[6. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
