@@ -52,7 +52,7 @@ The following collection of links to patient stories is categorized by the organ
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
 
-#### **[5. Patient Safety Movement Foundation]( Psmf.org](https://psmf.org/)**
+#### **[5. Patient Safety Movement Foundation](https://psmf.org/)**
 
 | Patient Story | Link to Story | 
 | -------- | -------- |  
