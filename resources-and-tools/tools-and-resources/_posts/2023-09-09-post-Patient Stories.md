@@ -101,6 +101,7 @@ The following collection of links to patient stories is categorized by the organ
 | Title and Speaker | Link to Story | 
 | ---------------- | ------------- | 
 |Alison Philips at HSJ Patient Safety Congress 2018 |[View](https://youtu.be/RPlBwk_V99o)|
+|The Beryl Institute-The Power of Patient's Story| [View](https://theberylinstitute.org/product/the-power-of-the-patients-story/)|
 |Films by Patientstories.org.uk|[View](https://www.patientstories.org.uk/films/)|
 |Melissa Sheldrick Story|[View](https://melissasheldrick.ca/our-story/)|
 |Patient and Family Stories by Healthcare Excellence Canada|[View](https://www.patientsafetyinstitute.ca/en/toolsResources/Member-Videos-and-Stories/pages/default.aspx)|
