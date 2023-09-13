@@ -57,7 +57,9 @@ The following collection of links to patient stories is categorized by the organ
 | Patient Story | Link to Story | 
 | -------- | -------- |  
 | Anna Farley Edwards| [View](https://psmf.org/story/anna-farley-edwards/)|
-| Sha-Asia Semple| [View](https://psmf.org/story/sha-asia-semple/)|
+| Anders Pederson| [View](https://psmf.org/story/anders-pederson/)
+
+
 
 
 
