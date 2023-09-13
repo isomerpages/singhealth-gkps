@@ -54,9 +54,11 @@ The following collection of links to patient stories is categorized by the organ
 
 #### **[5. Patient Safety Movement Foundation]( Psmf.org](https://psmf.org/)**
 
-| Title/ Region | Link to Story | 
+| Patient Story | Link to Story | 
 | -------- | -------- |  
 | Anna Farley Edwards| [View](https://psmf.org/story/anna-farley-edwards/)|
+| Sha-Asia Semple| [View](https://psmf.org/story/sha-asia-semple/)|
+
 
 
 #### **[6. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
