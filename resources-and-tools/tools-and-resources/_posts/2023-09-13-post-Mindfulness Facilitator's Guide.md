@@ -16,5 +16,3 @@ The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS Institute
 2. Mindfulness of Body and Movement (Body Scan)
 3. Empathy and Compassion
 4. Bringing Mindfulness into Everyday
-
-
