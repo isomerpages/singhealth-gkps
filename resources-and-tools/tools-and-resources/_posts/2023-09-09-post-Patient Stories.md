@@ -59,7 +59,7 @@ The following collection of links to patient stories is categorized by the organ
 | Anna Farley Edwards| [View](https://psmf.org/story/anna-farley-edwards/)|
 | Anders Pederson| [View](https://psmf.org/story/anders-pederson/)
 | Martha Mills|[View](https://psmf.org/story/martha-mills/)
-
+| Rihan Neupane|[View](https://psmf.org/story/rihan-neupane/)
 
 
 
