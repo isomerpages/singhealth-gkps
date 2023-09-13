@@ -28,6 +28,7 @@ These patient safety resources and tools are submitted by health care ministries
 | Healthcare Improvement Toolkit | SO 5 [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
 | The Psychological Experience of Frontline Nurses Amid The COVID-19 Pandemic | SO 5 [more](/resources-and-tools/tools-and-resources/gkpsfilea14/)
 | Prevalence of burnout among healthcare professionals in Singapore | SO 5 [more]( /resources-and-tools/tools-and-resources/burnout)
+| Mindfulness Facilitator's Guide | SO 5
 | Patient Safety Engagement Report  | SOs 1 and 7 [more]( /resources-and-tools/tools-and-resources/paser)
 
 
