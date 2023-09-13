@@ -11,4 +11,10 @@ image: ""
 | Mapped to Strategic Objective 5 - Strategies 5.1 and 5.5    | [SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ)](https://www.singhealthdukenus.com.sg/ipsq) | Singapore  |
 
 
-The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ) to offer health care workers a structured guide to facilitate mindfulness session at their own departments and units. 
+The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS Institute for Patient Safety & Quality (IPSQ) and designed to serve as a handy guide for health care workers to facilitate the practice of mindfulness techniques. The guide also provide tips on how to engage and facilitate the discussion and Q&A segment during the mindfulness session.In this guide, there are four mindfulness exercises, and hope you will find at least one or two of amenable to practice on your own.
+1. Breath Practice
+2. Mindfulness of Body and Movement (Body Scan)
+3. Empathy and Compassion
+4. Bringing Mindfulness into Everyday
+
+
