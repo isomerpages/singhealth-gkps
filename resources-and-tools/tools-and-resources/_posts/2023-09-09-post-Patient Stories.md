@@ -52,16 +52,16 @@ The following collection of links to patient stories is categorized by the organ
 | When Things Go Wrong |[View](https://youtu.be/vME9ewsz3wU)|
 
 
-#### **[5. Patient Safety Movement Foundation](https://psmf.org/)**
+#### **[5. Patient Safety Movement Foundation](https://www.psmf.org)**
 
 | Patient Story | Link to Story | 
-| -------- | -------- |  
-| Anna Farley Edwards| [View](https://psmf.org/story/anna-farley-edwards/)|
-| Anders Pederson| [View](https://psmf.org/story/anders-pederson/)
-| Martha Mills|[View](https://psmf.org/story/martha-mills/)
-| Rihan Neupane|[View](https://psmf.org/story/rihan-neupane/)
-[View over 100 PSMF Patient Stories here](https://psmf.org/patient-stories/)
+| -------- | -------- | 
+| Anna Farley Edwards    | [View](https://psmf.org/story/anna-farley-edwards/)| 
+| Anders Pederson    | [View](https://psmf.org/story/anders-pederson)| 
+| Martha Mills    | [View](https://psmf.org/story/martha-mills)| 
+| Rihan Neupane   | [View](https://psmf.org/story/rihan-neupane/)| 
 
+View over 100 PSMF Patient Stories [here](https://psmf.org/patient-stories/)
 
 #### **[6. SingHealth Patient Advocacy Network (SPAN)](https://www.singhealthdukenus.com.sg/ipsq/singhealth-patient-advocacy-network)**
 
