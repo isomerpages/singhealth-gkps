@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 | Electronic Inpatient Medication Record (eIMR) Audit Checklist | Shared by| Country|
 | -------- | -------- | -------- |
 | Mapped to Strategic Objective 3- Strategy 3.2 [Download GKPSFILEA17](/files/gkpsfile17%20sch%20eimr%20audit%20checklist.pdf)    | [SingHealth Community Hospital (SCH)](https://www.singhealth.com.sg/SCH)  | Singapore   |
 
-This checklist aims to strengthen the safety of medication management and use based on the third WHO Global Patient Safety Challenge: Medication Without Harm. The 12 audit focus areas are:
+This checklist aims to strengthen the safety of medication management. The 12 audit focus areas on prescription and pharmacy verification are:
 1. All orders must have a correct start date (e.g. EOD orders, colecalciferol after loading dose, step down dosing regimen)
 2. All orders must include the frequency of administration (e.g. Q8h, Q6h, BD, TDS, etc)
 3. The route of orders must be clearly indicated (e.g. PO, IV, PR, SC, etc)
@@ -25,5 +24,4 @@ This checklist aims to strengthen the safety of medication management and use ba
 11. Suspended orders : ensure reasons for suspension are stated
 12. Future unsuspended orders : ensure correct date of unsuspension with reasons are stated
 
-Actions to be taken or follow up will be monitored. 
-
+Actions to be taken or follow up will be monitored.
