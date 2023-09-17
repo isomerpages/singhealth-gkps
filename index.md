@@ -13,7 +13,7 @@ sections:
       background: /images/gkps website banner 070923_v3.svg
   - infobar:
       title: start sharing
-      subtitle: "Let us "
+      subtitle: Let us
       description: Patient Safety Improvements, Experiences, Best Practices and
         Patient Stories with the Global Patient Safety Community today
       button: click to share
