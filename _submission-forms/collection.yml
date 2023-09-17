@@ -1,4 +1,5 @@
 collections:
   submission-forms:
     output: true
-    order: []
+    order:
+      - Submission Forms.md
