@@ -11,6 +11,13 @@ notification: ""
 sections:
   - hero:
       background: /images/gkps website banner 070923_v3.svg
+  - infobar:
+      title: start sharing
+      subtitle: "Let us "
+      description: Patient Safety Improvements, Experiences, Best Practices and
+        Patient Stories with the Global Patient Safety Community today
+      button: click to share
+      url: /submission-forms/submissionforms
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
       subtitle: World Health Organization
