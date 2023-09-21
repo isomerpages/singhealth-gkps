@@ -18,4 +18,4 @@ This is a non-exhaustive compilation of patient education videos and materials i
 
 
 
-<small> ****Note: updated as of 11 September 2023.*</small>
+<small> ****Note: updated as of 21 September 2023.*</small>
