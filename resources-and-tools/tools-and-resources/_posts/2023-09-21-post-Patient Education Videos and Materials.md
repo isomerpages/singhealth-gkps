@@ -13,3 +13,7 @@ This is a non-exhaustive compilation of patient education videos and materials i
 | Title | Shared by | Link | 
 | -------- | -------- | -------- | 
 | How many medication are too many?  | [World Patients Alliance](https://www.worldpatientsalliance.org/)     | [View](https://www.youtube.com/watch?v=Vh_oW05piYo )
+
+
+
+<small> ****Note: updated as of 11 September 2023.*</small>
