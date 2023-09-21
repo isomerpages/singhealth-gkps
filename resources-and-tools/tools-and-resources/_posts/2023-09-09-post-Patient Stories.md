@@ -114,4 +114,4 @@ View over 100 PSMF Patient Stories [here](https://psmf.org/patient-stories/)
 |We ADVANCE|[View](https://vimeo.com/121500247)|
 
 
-<small> ****Note: updated as of 11 September 2023.*</small>
+<small> ****Note: updated as of 21 September 2023.*</small>
