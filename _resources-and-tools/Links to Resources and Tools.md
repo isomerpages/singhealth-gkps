@@ -10,7 +10,7 @@ Our commitment is to continually update and expand this collection to ensure tha
 
 **Collection of Links to Resources and Tools:**
 1. [Links to Patient Stories](/resources-and-tools/tools-and-resources/patientstories/)
-2. [ Inventory List of National Policies and Strategies for Patient Safety](/tools-and-resources/national-policies/listing/)
+2. [Inventory List of National Policies and Strategies for Patient Safety](/tools-and-resources/national-policies/listing/)
 3. [Links to Resources and Tools mapped to Strategic Objective 1 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so1/)
 4. [Links to Resources and Tools mapped to Strategic Objective 2 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so2/)
 5. [Links to Resources and Tools mapped to Strategic Objective 3 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so3/)
@@ -20,4 +20,4 @@ Our commitment is to continually update and expand this collection to ensure tha
 9. [Links to Resources and Tools mapped to Strategic Objective 7 of GPSAP 2021-2030](/tools-and-resources/mapped-to-gpsap-2021-2030/so7/)
 
 
-<small> ****Note: updated as of 11 September 2023.*</small>
+<small> ****Note: updated as of 21 September 2023.*</small>
