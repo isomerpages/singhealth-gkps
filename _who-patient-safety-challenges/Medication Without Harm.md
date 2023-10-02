@@ -15,6 +15,6 @@ In achieving the goal, are we also empowering our patients in medication safety?
 * [Polypharmacy: How many medications is too many? ](https://www.youtube.com/watch?v=Vh_oW05piYo)
 * [How do you talk to your healthcare provider?](https://youtu.be/K3_CdWnaZwc )
 
-Note: the above videos are shared by [World Patients Alliance (WPA)](https://www.worldpatientsalliance.org/)
-
-To download the WHO Strategic Framework, please click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2). Visit this [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
+*<small>Note: the above videos are shared by [World Patients Alliance (WPA)](https://www.worldpatientsalliance.org/)</small>*
+	
+To download the WHO Strategic Framework, please click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2) and visit this [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
