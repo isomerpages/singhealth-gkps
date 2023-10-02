@@ -17,4 +17,4 @@ In achieving the goal, are we also empowering our patients in medication safety?
 
 *<small>Note: the above videos are shared by [World Patients Alliance (WPA)](https://www.worldpatientsalliance.org/)</small>*
 	
-To download the WHO Strategic Framework, please click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2) and visit this [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
+To download the WHO Strategic Framework for Medication without Harm, please click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2) and visit this [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
