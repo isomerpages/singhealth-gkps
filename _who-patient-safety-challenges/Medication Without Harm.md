@@ -10,7 +10,11 @@ Launched in 2017, [Medication Without Harm](https://www.who.int/initiatives/medi
 **GOAL**: to reduce severe avoidable medication-related harm by 50%, globally in the next 5 years.
 
 In achieving the goal, are we also empowering our patients in medication safety? 
-["How many medications is too many?" produced by World Patients Alliance ](https://www.youtube.com/watch?v=Vh_oW05piYo)
 
-Click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2) to download the Strategic Framework and visit the [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
+* [An introduction to medication Safety ](https://youtu.be/jKtiWoWkSCE )
+* [Polypharmacy: How many medications is too many? ](https://www.youtube.com/watch?v=Vh_oW05piYo)
+* [How do you talk to your healthcare provider?](https://youtu.be/K3_CdWnaZwc )
 
+Note: the above videos are shared by [World Patients Alliance (WPA)](https://www.worldpatientsalliance.org/)
+
+To download the WHO Strategic Framework, please click [here ](https://cdn.who.int/media/docs/default-source/patient-safety/strategic-framework-medication-without-harm86c06fafdf0b4294bd23ec9667dfb95d.pdf?sfvrsn=b5cb2d66_2). Visit this [page](https://www.who.int/initiatives/medication-without-harm) for publications and webinars on Medication Safety.
