@@ -35,4 +35,4 @@ These patient safety resources and tools are submitted by health care ministries
 
 
 
-<small> ****Note: updated as of 21 September 2023.*</small>
+<small> ****Note: updated as of 9 November 2023.*</small>
