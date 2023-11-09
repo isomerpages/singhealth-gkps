@@ -2,6 +2,7 @@
 title: Submitted Resources and Tools
 permalink: /submittedresourcesandtools/
 description: ""
+variant: markdown
 ---
 These patient safety resources and tools are submitted by health care ministries, facilities, stakeholders and [World Health Organization (WHO)](https://www.who.int/).
 
@@ -25,12 +26,12 @@ These patient safety resources and tools are submitted by health care ministries
 | Asia-Pacific Patient and Family Engagement Consensus Report  | SO 4 [more](/tools-and-resources/tools-and-resources/patientfamilyconsensus/)
 | Building a Patient Advocacy Network   | SO 4  [more]( /resources-and-tools/tools-and-resources/span)
 | SingHealth Patient Advocacy Network Plain English Glossary  | SOs 4 and 5 [more](/tools-and-resources/tools-and-resources/plainenglishglossary/)
+| Patient and Healthcare Team Care Pledge | SO 4 and 5 [more]
 | Healthcare Improvement Toolkit | SO 5 [more](/tools-and-resources/tools-and-resources/improvementtoolkit/)
 | The Psychological Experience of Frontline Nurses Amid The COVID-19 Pandemic | SO 5 [more](/resources-and-tools/tools-and-resources/gkpsfilea14/)
 | Prevalence of burnout among healthcare professionals in Singapore | SO 5 [more]( /resources-and-tools/tools-and-resources/burnout/)
 | Mindfulness Facilitator's Guide | SO 5 [more](/resources-and-tools/tools-and-resources/gkpsfilea18/)
 | Patient Safety Engagement Report  | SOs 1 and 7 [more]( /resources-and-tools/tools-and-resources/paser)
-
 
 
 
