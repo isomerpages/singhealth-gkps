@@ -5,11 +5,11 @@ date: 2023-08-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 | Healthcare Improvement Toolkit| Shared by | Country 
 | -------- | -------- | -------- |
 |Mapped to GPSAP 2021 - 2030, Strategic Objective 5 - Strategies 5.1 and 5.2 [Download GKPSFILEA01](/files/gkpsfilea01-20232208_ipsq%20healthcare%20improvement%20toolkit.pdf) | [SingHealth Duke-NUS Institute for Patient Safety & Quality ](https://www.singhealthdukenus.com.sg/ipsq)     | Singapore |
-
 
 This Improvement Compendium of Toolkits is published by the SingHealth Duke-NUS Institute for Patient Safety. 
 
