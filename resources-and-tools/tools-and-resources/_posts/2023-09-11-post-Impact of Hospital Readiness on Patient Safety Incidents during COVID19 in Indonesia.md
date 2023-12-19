@@ -1,22 +1,11 @@
 ---
 title: Impact of Hospital Readiness on Patient Safety Incidents during COVID19
   in Indonesia
-permalink: /resources-and-tools/tools-and-resources/gkpsfilea11/
+permalink: /resources-and-tools/tools-and-resources/idhamantigkps2023a011/
 date: 2023-09-11
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-| Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions | Shared by | Country |
-| -------- | -------- | -------- |
-Mapped to Strategic Objectives 1, 2 and 3 - Strategies 1.2, 2.1, 3.1 and 3.3 [Download GKPSFILEA11](/files/gkpsfilea11%20impact%20of%20hospital%20readiness%20on%20patient%20safety%20incidents%20during%20the%20covid-19%20.pdf)| [Center of Excellence for Patient Safety and Quality, Airlangga University](https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research) | Indonesia
-
-Dhamanti, I., Indriani, D., Miftahussurur, M., Kurniawati, E., & Engineer, C. Y. (2022). Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions. _BMJ open_, _12_(7), e061702.
-
-Information on the impact of hospital readiness for patient safety during the pandemic in Indonesia is still limited, emphasizing the need to investigate these factors. Health care facilities across Indonesia should prepare to implement measures for an efficient hospital-wide approach to managing the impending surge in COVID-19 hospitalized patients. This study examined the impact of hospital readiness on patient safety from the health care workers’ perspective involving online survey of 235 health care workers at COVID-19 referral hospitals, followed by an interview with 11 participants from various hospital types.
-
-*  **Setting** COVID-19 referral hospitals in Indonesia.
-
-*  **Participants** Health workers working at COVID-19 referral hospitals.
-
-*  **Measures** Hospital ownership; hospital accreditation status; hospital readiness including incident management system, surge capacity, infection control and prevention, and human resource management; patient safety incident.
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions</p></th><th rowspan="1" colspan="1"><p>Shared by</p></th><th rowspan="1" colspan="1"><p>Country</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1, 2 and 3 - Strategies 1.2, 2.1, 3.1 and 3.3<br><a href="/files/i dhamanti_gkps_2023-a011.pdf" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A011</a></p></td><td rowspan="1" colspan="1"><p><a href="https://scholar.unair.ac.id/en/organisations/center-for-patient-safety-research" rel="noopener noreferrer nofollow" target="_blank">Center of Excellence for Patient Safety and Quality, Airlangga University</a></p></td><td rowspan="1" colspan="1"><p>Indonesia</p></td></tr></tbody></table><p>Dhamanti, I., Indriani, D., Miftahussurur, M., Kurniawati, E., &amp; Engineer, C. Y. (2022). Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions.&nbsp;<em>BMJ open</em>,&nbsp;<em>12</em>(7), e061702.</p><p>Information on the impact of hospital readiness for patient safety during the pandemic in Indonesia is still limited, emphasizing the need to investigate these factors. Health care facilities across Indonesia should prepare to implement measures for an efficient hospital-wide approach to managing the impending surge in COVID-19 hospitalized patients. This study examined the impact of hospital readiness on patient safety from the health care workers’ perspective involving online survey of 235 health care workers at COVID-19 referral hospitals, followed by an interview with 11 participants from various hospital types.</p><ul><li><p><strong>Setting</strong>&nbsp;COVID-19 referral hospitals in Indonesia.</p></li><li><p><strong>Participants</strong>&nbsp;Health workers working at COVID-19 referral hospitals.</p></li><li><p><strong>Measures</strong>&nbsp;Hospital ownership; hospital accreditation status; hospital readiness including incident management system, surge capacity, infection control and prevention, and human resource management; patient safety incident.</p></li></ul><p></p>
