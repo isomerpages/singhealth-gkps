@@ -7,19 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-| Maldives Patient Safety Journey | Shared by | Country |
-| -------- | -------- | -------- |
-| Mapped to Strategic Objectives 1 to 6 - Strategies 1.1 to 6.5 [Download GKPSFILEA15](/files/gkpsfilea15_maldives%20country%20status%20report%20on%20patient%20safety%20journey.pdf)  | [Ministry of Health, Maldives](https://health.gov.mv/en) | Maldives |
-
-Developed in 2019, in collaboration with WHO, Maldives National Patient Safety framework is developed to create an institutional framework for delivery of health care which is safe and responsive.
-
-The guiding principles are:
-* Focus on system approach
-* Monitoring reporting and learning
-* Ensuring sustainability
-* Prompting Collaborations
-* Instigating patient centered approach
-* Engaging of all level of health care
-* Using evidence- based intervention
-
-The National Patient Safety Framework is aligned to WHO Global Patient Safety Action Plan 2021- 2030:
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Maldives Patient Safety Journey</p></th><th rowspan="1" colspan="1"><p>Shared by</p></th><th rowspan="1" colspan="1"><p>Country</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 to 6 - Strategies 1.1 to 6.5<br><a href="/files/fathimath limya_gkps_2023-a015.pdf" rel="noopener noreferrer nofollow" target="_blank">FATHIMATH LIMYA_GKPS_2023-A015</a></p></td><td rowspan="1" colspan="1"><p><a href="https://health.gov.mv/en" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health, Maldives</a></p></td><td rowspan="1" colspan="1"><p>Maldives</p></td></tr></tbody></table><p>Developed in 2019, in collaboration with WHO, Maldives National Patient Safety framework is developed to create an institutional framework for delivery of health care which is safe and responsive.</p><p>The guiding principles are:</p><ul data-tight="true" class="tight"><li><p>Focus on system approach</p></li><li><p>Monitoring reporting and learning</p></li><li><p>Ensuring sustainability</p></li><li><p>Prompting Collaborations</p></li><li><p>Instigating patient centered approach</p></li><li><p>Engaging of all level of health care</p></li><li><p>Using evidence- based intervention</p></li></ul><p>The National Patient Safety Framework is aligned to WHO Global Patient Safety Action Plan 2021- 2030:</p>
