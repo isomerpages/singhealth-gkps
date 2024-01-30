@@ -196,5 +196,5 @@ please email to: gkps@singhealth.com.sg</p>
 </p>
 </li>
 </ul>
-<p>***<em>Note: updated as of 11 September 2023.</em>
+<p>***<em>Note: updated as of 30 January 2024.</em>
 </p>
