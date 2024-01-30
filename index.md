@@ -12,8 +12,14 @@ sections:
   - hero:
       background: /images/gkps website banner 070923_v3.svg
   - infobar:
+      title: Content Page
+      subtitle: "www.gkps.net "
+      id: infobar
+      button: Click for listing
+      url: https://www.gkps.net/contentpage
+  - infobar:
       title: start sharing
-      subtitle: "we invite you to "
+      subtitle: we invite you to
       description: Patient Safety Improvements, Experiences, Best Practices and
         Patient Stories with the Global Patient Safety Community today
       button: click to share
