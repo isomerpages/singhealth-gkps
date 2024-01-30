@@ -76,7 +76,7 @@ please email to: gkps@singhealth.com.sg</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.imperial.ac.uk/global-health-innovation/" rel="noopener noreferrer nofollow" target="_blank">Imperial College London, Institute of Global Health Innovation </a>
+<p><a href="https://www.imperial.ac.uk/Stories/global-state-of-patient-safety/" rel="noopener noreferrer nofollow" target="_blank">Imperial College London - Institute of Global Health Innovation</a>
 </p>
 </li>
 <li>
