@@ -8,4 +8,47 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC)</p></th><th rowspan="1" colspan="1"><p>Shared by</p></th><th rowspan="1" colspan="1"><p>Country</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mapped to GPSAP 2021-2030, Strategic Objectives 2, 4 and 5 - Strategies 2.3, 4.3, 5.2 and 5.5<br><a href="/files/fozia asif_gkps_2023-a021.pdf" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a></p></td><td rowspan="1" colspan="1"><p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals</a></p></td><td rowspan="1" colspan="1"><p>Pakistan</p></td></tr></tbody></table><p>Safety culture measurement is feasible and informative in developing countries and could be broadly implemented to inform patient safety efforts.</p><p>Current data suggest that it compares favorably with benchmarks from hospitals in the USA. Like the USA, high staff workload is a significant safety concern among staff.</p><p>This study lays the foundation for further context-specific research on patient safety culture in developing countries.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Measuring the patient safety culture at a tertiary care hospital in Pakistan
+using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Shared by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Country</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mapped to GPSAP 2021-2030, Strategic Objectives 2, 4 and 5 - Strategies
+2.3, 4.3, 5.2 and 5.5
+<br><a href="/files/fozia asif_gkps_2023-a021.pdf" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pakistan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Cite: Fozia Asif. Measuring the patient safety culture at a tertiary care
+hospital in Pakistan using the Hospital Survey on Patient Safety Culture
+(HSOPSC). Global Knowledge Sharing Platform for Patient Safety (GKPS).
+2023. A021.</p>
+</blockquote>
+<p>Safety culture measurement is feasible and informative in developing countries
+and could be broadly implemented to inform patient safety efforts.</p>
+<p>Current data suggest that it compares favorably with benchmarks from hospitals
+in the USA. Like the USA, high staff workload is a significant safety concern
+among staff.</p>
+<p>This study lays the foundation for further context-specific research on
+patient safety culture in developing countries.</p>
