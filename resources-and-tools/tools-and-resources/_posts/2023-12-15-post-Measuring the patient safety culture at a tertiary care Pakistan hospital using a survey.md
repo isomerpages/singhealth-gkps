@@ -39,12 +39,11 @@ using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
 </tr>
 </tbody>
 </table>
-<blockquote>
-<p>Cite: Fozia Asif. Measuring the patient safety culture at a tertiary care
-hospital in Pakistan using the Hospital Survey on Patient Safety Culture
-(HSOPSC). Global Knowledge Sharing Platform for Patient Safety (GKPS).
-2023. A021.</p>
-</blockquote>
+<hr>
+<p><strong><em>cite: </em></strong><em>Fozia Asif. Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC). Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A021.</em>
+</p>
+<hr>
+<p></p>
 <p>Safety culture measurement is feasible and informative in developing countries
 and could be broadly implemented to inform patient safety efforts.</p>
 <p>Current data suggest that it compares favorably with benchmarks from hospitals
