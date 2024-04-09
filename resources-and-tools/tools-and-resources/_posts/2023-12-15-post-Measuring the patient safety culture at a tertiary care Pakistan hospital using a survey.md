@@ -26,11 +26,11 @@ using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021-2030, Strategic Objectives 2, 4 and 5 - Strategies
 2.3, 4.3, 5.2 and 5.5
-<br><a href="https://bmjopenquality.bmj.com/content/12/1/e002029" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a>
+<br><a href="/files/fozia asif_gkps_2023-a021.pdf" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals </a>
+<p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
