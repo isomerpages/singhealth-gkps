@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Fathimath L. Maldives patient safety journey. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A015.</em>
+<p><strong><sub>Shared by Fathimath Limya, Quality Assurance &amp; Regulation Division, Ministry of Health, Republic of Maldives. GKPS Reference: </sub></strong><sub>Maldives patient safety journey. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A015.</sub>
 </p>
 <hr>
 <p>Developed in 2019, in collaboration with WHO, Maldives National Patient
@@ -62,10 +62,10 @@ delivery of health care which is safe and responsive.</p>
 <p>Instigating patient centered approach</p>
 </li>
 <li>
-<p>Engaging of all level of health care</p>
+<p>Engaging of all levels of health care</p>
 </li>
 <li>
-<p>Using evidence- based intervention</p>
+<p>Using evidence-based intervention</p>
 </li>
 </ul>
 <p>The National Patient Safety Framework is aligned to WHO Global Patient
