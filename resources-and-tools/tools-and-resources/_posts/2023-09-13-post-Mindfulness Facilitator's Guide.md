@@ -38,16 +38,16 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Kinjal D. Mindfulness facilitator's guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</em>
+<p><strong><sub>Shared by Kinjal Doshi. GKPS Reference: </sub></strong><sub>Mindfulness facilitator's guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</sub>
 </p>
 <hr>
 <p>The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS
 Institute for Patient Safety &amp; Quality (IPSQ) and designed to serve
 as a handy guide for health care workers to facilitate the practice of
-mindfulness techniques. The guide also provide tips on how to engage and
-facilitate the discussion and Q&amp;A segment during the mindfulness session.In
-this guide, there are four mindfulness exercises, and hope you will find
-at least one or two of amenable to practice on your own.</p>
+mindfulness techniques. The guide also provides tips on how to engage and
+facilitate the discussion and Q&amp;A segment during the mindfulness session.
+In this guide, there are four mindfulness exercises, and hope you will
+find at least one or two of amenable to practice on your own.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Breath Practice</p>
