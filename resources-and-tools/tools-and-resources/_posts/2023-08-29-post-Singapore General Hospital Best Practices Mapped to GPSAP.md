@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Singapore General Hospital. 3 key best practices. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A005.</em>
+<p><strong><sub>Shared by Singapore General Hospital (SGH). GKPS Reference: </sub></strong><sub>3 key best practices. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A005.</sub>
 </p>
 <hr>
 <p>Singapore General Hospital (SGH) is the first and largest hospital in
