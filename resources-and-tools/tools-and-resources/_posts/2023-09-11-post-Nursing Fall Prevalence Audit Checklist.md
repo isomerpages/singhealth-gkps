@@ -38,7 +38,8 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>SingHealth Community Hospital. Nursing fall prevalence audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A016.</em>
+<p><strong><sub>Shared by Singapore Community Hospital (SCH), Singapore. </sub></strong>
+<br><strong><sub>GKPS Reference: </sub></strong><sub>Nursing fall prevalence audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A016.</sub>
 </p>
 <hr>
 <p>The Fall Prevalence Audit Form is developed by the Nursing division of
