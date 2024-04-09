@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>XY Tang. Cross-institutions infection control audit tools. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A007.</em>
+<p><strong><sub>Shared by Tang Xin Yan, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Cross-institutions infection control audit tools. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A007.</sub>
 </p>
 <hr>
 <p>The harmonized Cross-Institutions Infection Control (CIIC) Audit Tools
