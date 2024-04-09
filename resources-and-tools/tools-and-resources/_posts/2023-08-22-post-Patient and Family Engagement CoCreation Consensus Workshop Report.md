@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Mabel Sim. Patient and family engagement consensus report. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A002.</em>
+<p><strong><sub>Shared by Mabel Sim, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Patient and family engagement consensus report. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A002.</sub>
 </p>
 <hr>
 <p>The <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a> on
