@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>YY Low. Patient Safety Engagement Report (PASER). Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A006.</em>
+<p><strong><sub>Shared by Low Yan Yin, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Patient Safety Engagement Report (PASER). Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A006.</sub>
 </p>
 <hr>
 <p>Introduced in 2019, the Patient Safety Engagement Report (PASER) provides
