@@ -56,104 +56,123 @@ Curriculum: An Assessment of Student Gains
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a017" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A017</a><u><br></u></strong>Electronic
-Inpatient Medication Record System</p>
+<p>Electronic Inpatient Medication Record System
+<br><a href="/resources-and-tools/tools-and-resources/schgkps2023a017" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a016" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A016</a><u><br></u></strong>Nursing
-Fall Prevalence Audit Checklist</p>
+<p>Nursing Fall Prevalence Audit Checklist
+<br><a href="/resources-and-tools/tools-and-resources/schgkps2023a016" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/flimyagkps2023a015" rel="noopener noreferrer nofollow" target="_blank">FATHIMATH LIMYA_GKPS_2023-A015</a><u><br></u></strong>Maldives
-Patient Safety Journey</p>
+<p>Maldives Patient Safety Journey
+<br><a href="/resources-and-tools/tools-and-resources/flimyagkps2023a015" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a014" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A014</a><u><br></u></strong>The
-Psychological Experience of Frontline Nurses Amid the COVID19 Pandemic</p>
+<p>The Psychological Experience of Frontline Nurses Amid the COVID19 Pandemic
+<br><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a014" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a013" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A013</a><u><br></u></strong>Health
-Workers' perspective on patient safety incident disclosure</p>
+<p>Health Workers' perspective on patient safety incident disclosure
+<br><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a013" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a012" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A012</a><u><br></u></strong>Psychometric
-Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture</p>
+<p>Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient
+Safety Culture
+<br><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a012" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a011" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A011</a><u><br></u></strong>Impact
-of Hospital Readiness on Patient Safety Incidents during COVID19 in Indonesia</p>
+<p>Impact of Hospital Readiness on Patient Safety Incidents during COVID19
+in Indonesia
+<br><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a011" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/spangkps2023a010" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A010</a><u><br></u></strong>Building
-a Patient Advocacy Network in an Asian Healthcare System</p>
+<p>Building a Patient Advocacy Network in an Asian Healthcare System
+<br><a href="/resources-and-tools/tools-and-resources/spangkps2023a010" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/jytanggkps2023a009" rel="noopener noreferrer nofollow" target="_blank">JY Tang_GKPS_2023-A009</a><u><br></u></strong>Promoting
-Speaking Up for Patient Safety in Your Organization</p>
+<p>Promoting Speaking Up for Patient Safety in Your Organization
+<br><a href="/resources-and-tools/tools-and-resources/jytanggkps2023a009" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/stfoogkps2023a008" rel="noopener noreferrer nofollow" target="_blank">ST Foo _GKPS_2023-A008</a><u><br></u></strong>Prevalence
-of burnout among healthcare professionals in Singapore</p>
+<p>Prevalence of burnout among healthcare professionals in Singapore
+<br><a href="/resources-and-tools/tools-and-resources/stfoogkps2023a008" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/xytanggkps2023a007" rel="noopener noreferrer nofollow" target="_blank">XY Tang_GKPS_2023-A007</a><u><br></u></strong>Cross
-Institutions Infection Control Audits</p>
+<p>Cross Institutions Infection Control Audits
+<br><a href="/resources-and-tools/tools-and-resources/xytanggkps2023a007" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/yylowgkps2023a006" rel="noopener noreferrer nofollow" target="_blank">YY Low_GKPS_2023-A006</a><u><br></u></strong>Patient
-Safety Engagement Report (PASER)</p>
+<p>Patient Safety Engagement Report (PASER)
+<br><a href="/resources-and-tools/tools-and-resources/yylowgkps2023a006" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/resources-and-tools/tools-and-resources/sghgkps2023a005" rel="noopener noreferrer nofollow" target="_blank">SGH_GKPS_2023-A005</a><u><br></u></strong>Singapore
-General Hospital Best Practices</p>
+<p>Singapore General Hospital Best Practices
+<br><a href="/resources-and-tools/tools-and-resources/sghgkps2023a005" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tools-and-resources/tools-and-resources/snecgkps2023a004" rel="noopener noreferrer nofollow" target="_blank">SNEC_GKPS_2023-A004</a><u><br></u></strong>Patient
-Fall Risk Assessment Record in Outpatient Department</p>
+<p>Patient Fall Risk Assessment Record in Outpatient Department
+<br><a href="/tools-and-resources/tools-and-resources/snecgkps2023a004" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tools-and-resources/tools-and-resources/spangkps2023a003" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A003</a><u><br></u></strong>SingHealth
-Patient Advocacy Network Plain English Glossary</p>
+<p>SingHealth Patient Advocacy Network Plain English Glossary
+<br><a href="/tools-and-resources/tools-and-resources/spangkps2023a003" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tools-and-resources/tools-and-resources/mabelsimgkps2023a002" rel="noopener noreferrer nofollow" target="_blank">Mabel Sim_GKPS_2023-A002</a><u><br></u></strong>Asia-Pacific
-Patient and Family Engagement Consensus Report</p>
+<p>Asia-Pacific Patient and Family Engagement Consensus Report
+<br><a href="/tools-and-resources/tools-and-resources/mabelsimgkps2023a002" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tools-and-resources/tools-and-resources/scteogkps2023a001/" rel="noopener noreferrer nofollow" target="_blank">SC Teo_GKPS_2023-A001</a><u><br></u></strong>Healthcare
-Quality and Improvement Toolkit</p>
+<p>Healthcare Quality and Improvement Toolkit
+<br><a href="/tools-and-resources/tools-and-resources/scteogkps2023a001/" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
 </td>
 </tr>
 </tbody>
