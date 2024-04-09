@@ -4,4 +4,159 @@ permalink: /submittedresourcesandtools/
 description: ""
 variant: tiptap
 ---
-<p>These patient safety resources and tools are submitted by health care ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noopener noreferrer nofollow" target="_blank">World Health Organization (WHO)</a>.</p><p><strong>We welcome you to submit patient safety improvement, experiences and practices, as well as its implementation resources and tools for sharing on this page: <a href="https://form.gov.sg/64631e5f0fbfe400126c8e0d" rel="noopener noreferrer nofollow" target="_blank">Click here to submit</a>.</strong></p><h5>Submitted Resources and Tools that are mapped to <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a>:</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Submitted Resources and Tools</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a021" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a></strong><br>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a020" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A020</a><u><br></u></strong>Incorporating a Patient Safety and Quality Course into the Nursing Curriculum: An Assessment of Student Gains</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a019" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A019</a><u><br></u></strong>Incorporating a Patient Safety and Quality Course into the Medical School Curriculum: An Assessment of Student Gains</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/angtgkps2023l010" rel="noopener noreferrer nofollow" target="_blank">Ang T_GKPS_2023-L010</a><u><br></u></strong>Patient and Healthcare Team Care Pledge</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/kinjalgkps2023a018" rel="noopener noreferrer nofollow" target="_blank">Kinjal_GKPS_2023-A018</a><u><br></u></strong>Mindfulness Facilitator’s Guide</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a017" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A017</a><u><br></u></strong>Electronic Inpatient Medication Record System</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a016" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A016</a><u><br></u></strong>Nursing Fall Prevalence Audit Checklist</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/flimyagkps2023a015" rel="noopener noreferrer nofollow" target="_blank">FATHIMATH LIMYA_GKPS_2023-A015</a><u><br></u></strong>Maldives Patient Safety Journey</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a014" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A014</a><u><br></u></strong>The Psychological Experience of Frontline Nurses Amid the COVID19 Pandemic</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a013" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A013</a><u><br></u></strong>Health Workers' perspective on patient safety incident disclosure</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a012" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A012</a><u><br></u></strong>Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a011" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A011</a><u><br></u></strong>Impact of Hospital Readiness on Patient Safety Incidents during COVID19 in Indonesia</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/spangkps2023a010" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A010</a><u><br></u></strong>Building a Patient Advocacy Network in an Asian Healthcare System</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/jytanggkps2023a009" rel="noopener noreferrer nofollow" target="_blank">JY Tang_GKPS_2023-A009</a><u><br></u></strong>Promoting Speaking Up for Patient Safety in Your Organization</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/stfoogkps2023a008" rel="noopener noreferrer nofollow" target="_blank">ST Foo _GKPS_2023-A008</a><u><br></u></strong>Prevalence of burnout among healthcare professionals in Singapore</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/xytanggkps2023a007" rel="noopener noreferrer nofollow" target="_blank">XY Tang_GKPS_2023-A007</a><u><br></u></strong>Cross Institutions Infection Control Audits</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/yylowgkps2023a006" rel="noopener noreferrer nofollow" target="_blank">YY Low_GKPS_2023-A006</a><u><br></u></strong>Patient Safety Engagement Report (PASER)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/resources-and-tools/tools-and-resources/sghgkps2023a005" rel="noopener noreferrer nofollow" target="_blank">SGH_GKPS_2023-A005</a><u><br></u></strong>Singapore General Hospital Best Practices</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/tools-and-resources/tools-and-resources/snecgkps2023a004" rel="noopener noreferrer nofollow" target="_blank">SNEC_GKPS_2023-A004</a><u><br></u></strong>Patient Fall Risk Assessment Record in Outpatient Department</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/tools-and-resources/tools-and-resources/spangkps2023a003" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A003</a><u><br></u></strong>SingHealth Patient Advocacy Network Plain English Glossary</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/tools-and-resources/tools-and-resources/mabelsimgkps2023a002" rel="noopener noreferrer nofollow" target="_blank">Mabel Sim_GKPS_2023-A002</a><u><br></u></strong>Asia-Pacific Patient and Family Engagement Consensus Report</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/tools-and-resources/tools-and-resources/scteogkps2023a001/" rel="noopener noreferrer nofollow" target="_blank">SC Teo_GKPS_2023-A001</a><u><br></u></strong>Healthcare Quality and Improvement Toolkit</p></td></tr></tbody></table><p>***<em>Note: updated as of 19 December 2023</em></p>
+<p>These patient safety resources and tools are submitted by health care
+ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noopener noreferrer nofollow" target="_blank">World Health Organization (WHO)</a>.</p>
+<p><strong>We welcome you to submit patient safety improvement, experiences and practices, as well as its implementation resources and tools for sharing on this page: <a href="https://form.gov.sg/64631e5f0fbfe400126c8e0d" rel="noopener noreferrer nofollow" target="_blank">Click here to submit</a>.</strong>
+</p>
+<h5>Submitted Resources and Tools that are mapped to <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a>:</h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Submitted Resources and Tools</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Measuring the patient safety culture at a tertiary care hospital in Pakistan
+using the Hospital Survey on Patient Safety Culture
+<br><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a021/" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Incorporating a Patient Safety and Quality Course into the Nursing Curriculum:
+An Assessment of Student Gains
+<br><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a020" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Incorporating a Patient Safety and Quality Course into the Medical School
+Curriculum: An Assessment of Student Gains
+<br><a href="/resources-and-tools/tools-and-resources/foziaasifgkps2023a019" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patient and Healthcare Team Care Pledge
+<br><a href="/resources-and-tools/tools-and-resources/angtgkps2023l010" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mindfulness Facilitator’s Guide
+<br><a href="/resources-and-tools/tools-and-resources/kinjalgkps2023a018" rel="noopener noreferrer nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a017" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A017</a><u><br></u></strong>Electronic
+Inpatient Medication Record System</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/schgkps2023a016" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A016</a><u><br></u></strong>Nursing
+Fall Prevalence Audit Checklist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/flimyagkps2023a015" rel="noopener noreferrer nofollow" target="_blank">FATHIMATH LIMYA_GKPS_2023-A015</a><u><br></u></strong>Maldives
+Patient Safety Journey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a014" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A014</a><u><br></u></strong>The
+Psychological Experience of Frontline Nurses Amid the COVID19 Pandemic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a013" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A013</a><u><br></u></strong>Health
+Workers' perspective on patient safety incident disclosure</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a012" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A012</a><u><br></u></strong>Psychometric
+Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/idhamantigkps2023a011" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A011</a><u><br></u></strong>Impact
+of Hospital Readiness on Patient Safety Incidents during COVID19 in Indonesia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/spangkps2023a010" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A010</a><u><br></u></strong>Building
+a Patient Advocacy Network in an Asian Healthcare System</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/jytanggkps2023a009" rel="noopener noreferrer nofollow" target="_blank">JY Tang_GKPS_2023-A009</a><u><br></u></strong>Promoting
+Speaking Up for Patient Safety in Your Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/stfoogkps2023a008" rel="noopener noreferrer nofollow" target="_blank">ST Foo _GKPS_2023-A008</a><u><br></u></strong>Prevalence
+of burnout among healthcare professionals in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/xytanggkps2023a007" rel="noopener noreferrer nofollow" target="_blank">XY Tang_GKPS_2023-A007</a><u><br></u></strong>Cross
+Institutions Infection Control Audits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/yylowgkps2023a006" rel="noopener noreferrer nofollow" target="_blank">YY Low_GKPS_2023-A006</a><u><br></u></strong>Patient
+Safety Engagement Report (PASER)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/resources-and-tools/tools-and-resources/sghgkps2023a005" rel="noopener noreferrer nofollow" target="_blank">SGH_GKPS_2023-A005</a><u><br></u></strong>Singapore
+General Hospital Best Practices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tools-and-resources/tools-and-resources/snecgkps2023a004" rel="noopener noreferrer nofollow" target="_blank">SNEC_GKPS_2023-A004</a><u><br></u></strong>Patient
+Fall Risk Assessment Record in Outpatient Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tools-and-resources/tools-and-resources/spangkps2023a003" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A003</a><u><br></u></strong>SingHealth
+Patient Advocacy Network Plain English Glossary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tools-and-resources/tools-and-resources/mabelsimgkps2023a002" rel="noopener noreferrer nofollow" target="_blank">Mabel Sim_GKPS_2023-A002</a><u><br></u></strong>Asia-Pacific
+Patient and Family Engagement Consensus Report</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tools-and-resources/tools-and-resources/scteogkps2023a001/" rel="noopener noreferrer nofollow" target="_blank">SC Teo_GKPS_2023-A001</a><u><br></u></strong>Healthcare
+Quality and Improvement Toolkit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>***<em>Note: updated as of 19 December 2023</em>
+</p>
