@@ -40,7 +40,11 @@ An Assessment of Student Gains</p>
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Fozia Asif. Incorporating patient safety and quality into the medical school curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A019.</em>
+<p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><sub>Incorporating patient safety and quality into the medical school curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A019.</sub>
+</p>
+<p><strong><sub>Original Article Reference: </sub></strong><sub>Ahmed FA, Asif F, Mubashir A, et al. Incorporating Patient Safety and Quality Into the Medical School Curriculum: An Assessment of Student Gains. </sub><em><sub>J Patient Saf</sub></em><sub>. 2022;18(6):637-644. </sub>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9422755/" rel="noopener noreferrer nofollow" target="_blank"><sub>doi:10.1097/PTS.0000000000001010</sub>
+</a>
 </p>
 <hr>
 <p>The medical students exhibited increases in knowledge, self-efficacy,
