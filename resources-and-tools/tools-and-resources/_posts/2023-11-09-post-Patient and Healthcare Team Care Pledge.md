@@ -36,12 +36,13 @@ permalink: /resources-and-tools/tools-and-resources/angtgkps2023l010/
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Ang T. Patient and healthcare team care pledge. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. L010.</em>
+<p><strong><sub>Shared by Tallin Ang, Office of Patient Experience, Singapore Health Services, Singapore. GKPS Reference: </sub></strong><sub>Patient and healthcare team care pledge. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. L010.</sub>
 </p>
 <hr>
-<p>Launched by SingHealth and the SingHealth Patient Advocacy Network (SPAN)
-and co-created by patients, caregivers and healthcare staff in 2023, the
-Patient and Healthcare Team Care Pledge aims to build a safe and mutually
-respectful healthcare environment for all.</p>
+<p>Launched by Singapore Health Services (SingHealth) and the SingHealth
+Patient Advocacy Network (SPAN) and co-created by patients, caregivers
+and healthcare staff in 2023, the Patient and Healthcare Team Care Pledge
+aims to build a safe and mutually respectful healthcare environment for
+all.</p>
 <p>Click here to view the video: <a href="https://youtube.com/watch?v=GxfG-kS8uUc&amp;si=AtvAuaFngWPOG198" rel="noopener noreferrer nofollow" target="_blank">Patient and Healthcare Team Care Pledge</a>
 </p>

@@ -40,7 +40,12 @@ pandemic in Indonesia: health worker perceptions</p>
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>I Dhamanti. Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia health worker perceptions. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A011.</em>
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia health worker perceptions. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A011.</sub>
+<br>
+</p>
+<p><strong><sub>Original Article Reference: </sub></strong><sub>Dhamanti I, Indriani D, Miftahussurur M</sub><em><sub>, et al </sub></em><sub>Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions. </sub><em><sub>BMJ Open </sub></em><sub>2022;12:e061702. </sub>
+<a href="https://bmjopen.bmj.com/content/12/7/e061702" rel="noopener noreferrer nofollow" target="_blank"><sub>doi: 10.1136/bmjopen-2022-061702</sub>
+</a>
 </p>
 <hr>
 <p>Information on the impact of hospital readiness for patient safety during

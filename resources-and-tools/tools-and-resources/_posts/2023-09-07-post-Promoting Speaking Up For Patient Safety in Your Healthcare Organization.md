@@ -38,7 +38,7 @@ to the theme of <a href="https://www.who.int/campaigns/world-patient-safety-day/
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>JY Tang. TeamSPEAK<sup>TM</sup>. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A009.</em>
+<p><strong><sub>Shared by Tang Joo Ying, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>TeamSPEAK</sub><sup><sub>TM</sub></sup><sub>. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A009.</sub>
 </p>
 <hr>
 <p>TeamSPEAK™ is a structured and scenario-contextualised patient safety

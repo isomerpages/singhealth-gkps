@@ -40,13 +40,16 @@ using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Fozia Asif. Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC). Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A021.</em>
+<p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><em><sub>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC), Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A021.</sub></em>
+</p>
+<p><strong><sub>Original Article Reference: </sub></strong><sub>Ahmed FA, Asif F, Munir T</sub><em><sub>, et al </sub></em><sub>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC) </sub><em><sub>BMJ Open Quality </sub></em><sub>2023;12:e002029. </sub>
+<a href="https://bmjopenquality.bmj.com/content/12/1/e002029" rel="noopener noreferrer nofollow" target="_blank"><sub>doi: 10.1136/bmjoq-2022-002029</sub>
+</a>
 </p>
 <hr>
-<p></p>
 <p>Safety culture measurement is feasible and informative in developing countries
-and could be broadly implemented to inform patient safety efforts.</p>
-<p>Current data suggest that it compares favorably with benchmarks from hospitals
+and could be broadly implemented to inform patient safety efforts. Current
+data suggest that it compares favorably with benchmarks from hospitals
 in the USA. Like the USA, high staff workload is a significant safety concern
 among staff.</p>
 <p>This study lays the foundation for further context-specific research on

@@ -39,7 +39,12 @@ Safety Culture</p>
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>I Dhamanti. Psychometric test: Indonesian version of the nursing home survey on patient safety culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</em>
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Psychometric test: Indonesian version of the nursing home survey on patient safety culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</sub> 
+<br><sub>Note: a research output of </sub><a href="https://scholar.unair.ac.id/en/publications/psychometric-properties-of-the-indonesian-version-of-the-nursing-" rel="noopener noreferrer nofollow" target="_blank"><sub>Universitas Airlangga</sub></a>
+</p>
+<p><strong><sub>Original Article Reference: </sub></strong><sub>Fauziningtyas R, Chan CM, Pin TM, Dhamanti I, Smith GD. Psychometric properties of the Indonesian version of the nursing home survey on patient safety culture. International journal of older people nursing. 2023 Sept;18(5):e12553. </sub>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/opn.12553" rel="noopener noreferrer nofollow" target="_blank"><sub>doi: 10.1111/opn.12553</sub>
+</a>
 </p>
 <hr>
 <p>Quality long-term care for older adults is crucial as the aging population
