@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Kinjal Doshi. GKPS Reference: </sub></strong><sub>Mindfulness facilitator's guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</sub>
+<p><strong><sub>Shared by Kinjal Doshi, Singapore. GKPS Reference: </sub></strong><sub>Mindfulness facilitator's guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</sub>
 </p>
 <hr>
 <p>The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS
