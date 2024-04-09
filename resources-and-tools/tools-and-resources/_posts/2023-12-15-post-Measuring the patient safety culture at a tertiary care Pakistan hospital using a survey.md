@@ -26,11 +26,11 @@ using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021-2030, Strategic Objectives 2, 4 and 5 - Strategies
 2.3, 4.3, 5.2 and 5.5
-<br><a href="https://bmjopenquality.bmj.com/content/12/1/e002029.citation-tools" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a>
+<br><a href="https://bmjopenquality.bmj.com/content/12/1/e002029" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals</a>
+<p><a href="https://hospitals.aku.edu/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">The Aga Khan University Hospitals </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ using the Hospital Survey on Patient Safety Culture (HSOPSC)</p>
 <p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><em><sub>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC), Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A021.</sub></em>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Ahmed FA, Asif F, Munir T</sub><em><sub>, et al </sub></em><sub>Measuring the patient safety culture at a tertiary care hospital in Pakistan using the Hospital Survey on Patient Safety Culture (HSOPSC) </sub><em><sub>BMJ Open Quality </sub></em><sub>2023;12:e002029. </sub>
-<a href="https://bmjopenquality.bmj.com/content/12/1/e002029" rel="noopener noreferrer nofollow" target="_blank"><sub>doi: 10.1136/bmjoq-2022-002029 </sub>
+<a href="https://bmjopenquality.bmj.com/content/12/1/e002029" rel="noopener noreferrer nofollow" target="_blank"><sub>doi: 10.1136/bmjoq-2022-002029</sub>
 </a>
 </p>
 <hr>
