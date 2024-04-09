@@ -38,7 +38,8 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>SingHealth Patient Advocacy Network (SPAN). Plain English glossary. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A003.</em>
+<p><strong><sub>Shared by SingHealth Patient Advocacy Network (SPAN), Singapore. </sub></strong>
+<br><strong><sub>GKPS Reference: </sub></strong><sub>Plain English glossary. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A003.</sub>
 </p>
 <hr>
 <p>SingHealth Patient Advocacy Network (SPAN) is a self-driven network of
