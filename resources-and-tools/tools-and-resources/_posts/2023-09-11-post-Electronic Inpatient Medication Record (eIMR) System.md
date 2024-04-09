@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>SingHealth Community Hospital. Electronic Inpatient Medication Record (eIMR) audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A017.</em>
+<p><strong><sub>Shared by Singapore Community Hospital (SCH). GKPS Reference: </sub></strong><sub>Electronic Inpatient Medication Record (eIMR) audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A017.</sub>
 </p>
 <hr>
 <p>This checklist aims to strengthen the safety of medication management.
