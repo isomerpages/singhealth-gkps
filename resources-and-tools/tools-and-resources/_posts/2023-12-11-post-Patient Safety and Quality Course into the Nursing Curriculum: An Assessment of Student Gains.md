@@ -40,7 +40,11 @@ An Assessment of Student Gains</p>
 </tbody>
 </table>
 <hr>
-<p><strong><em>cite: </em></strong><em>Fozia Asif. Incorporating patient safety and quality into the nursing school curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A020.</em>
+<p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><sub>Incorporating patient safety and quality into the nursing school curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A020.</sub>
+</p>
+<p><strong><sub>Original Article Reference: </sub></strong><sub>Ahmed FA, Choudhary RA, Khan H, et al. Incorporating Patient Safety and Quality Course into the Nursing Curriculum: An Assessment of Student Gains. </sub><em><sub>J Patient Saf</sub></em><sub>. 2023;19(6):408-414. </sub>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10461720/" rel="noopener noreferrer nofollow" target="_blank"><sub>doi:10.1097/PTS.0000000000001146</sub>
+</a>
 </p>
 <hr>
 <p>There was a significant increase in nursing students' knowledge, self-efficacy,
