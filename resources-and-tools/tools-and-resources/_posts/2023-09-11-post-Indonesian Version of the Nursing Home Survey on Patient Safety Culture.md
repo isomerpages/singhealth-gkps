@@ -39,7 +39,7 @@ Safety Culture</p>
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Psychometric test: Indonesian version of the nursing home survey on patient safety culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</sub>
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Psychometric test: Indonesian version of the nursing home survey on patient safety culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</sub> 
 <br><sub>Note: a research output of </sub><a href="https://scholar.unair.ac.id/en/publications/psychometric-properties-of-the-indonesian-version-of-the-nursing-" rel="noopener noreferrer nofollow" target="_blank"><sub>Universitas Airlangga</sub></a>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Fauziningtyas R, Chan CM, Pin TM, Dhamanti I, Smith GD. Psychometric properties of the Indonesian version of the nursing home survey on patient safety culture. International journal of older people nursing. 2023 Sept;18(5):e12553. </sub>
