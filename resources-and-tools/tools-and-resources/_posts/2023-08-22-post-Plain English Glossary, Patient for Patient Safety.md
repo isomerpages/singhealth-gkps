@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 4 and 5- Strategies
 4.5 and 5.1
-<br><a href="/files/span_gkps_2023-a003.pdf" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A003</a>
+<br><a href="/files/gkps_2023-a003.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A003</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: tiptap
 </table>
 <hr>
 <p><strong><sub>Shared by SingHealth Patient Advocacy Network (SPAN), Singapore. </sub></strong>
-<br><strong><sub>GKPS Reference: </sub></strong><sub>Plain English glossary. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A003.</sub>
+<br><strong><sub>GKPS Reference: </sub></strong><sub>Plain English Glossary. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A003.</sub>
 </p>
 <hr>
 <p>SingHealth Patient Advocacy Network (SPAN) is a self-driven network of
