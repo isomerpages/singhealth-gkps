@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to Strategic Objectives 2 and 5- Strategies 2.1 and 5.1. Related
 to the theme of <a href="https://www.who.int/campaigns/world-patient-safety-day/2019" rel="noopener noreferrer nofollow" target="_blank">World Patient Safety Day 2019</a> 
-<br><a href="/files/jy tang_gkps_2023-a009.pdf" rel="noopener noreferrer nofollow" target="_blank">JY Tang_GKPS_2023-A009</a>
+<br><a href="/files/gkps_2023-a009.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A009</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
