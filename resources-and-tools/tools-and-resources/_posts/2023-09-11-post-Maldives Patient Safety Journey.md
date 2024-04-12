@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 to 6 - Strategies
 1.1 to 6.5
-<br><a href="/files/fathimath limya_gkps_2023-a015.pdf" rel="noopener noreferrer nofollow" target="_blank">FATHIMATH LIMYA_GKPS_2023-A015</a>
+<br><a href="/files/gkps_2023-a015.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A015</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Fathimath Limya, Quality Assurance &amp; Regulation Division, Ministry of Health, Republic of Maldives. GKPS Reference: </sub></strong><sub>Maldives patient safety journey. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A015.</sub>
+<p><strong><sub>Shared by Fathimath Limya, Quality Assurance &amp; Regulation Division, Ministry of Health, Republic of Maldives. GKPS Reference: </sub></strong><sub>Maldives Patient Safety Journey. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A015.</sub>
 </p>
 <hr>
 <p>Developed in 2019, in collaboration with WHO, Maldives National Patient
