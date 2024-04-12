@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 3- Strategies 3.1
-<br><a href="/files/snec_gkps_2023-a004.pdf" rel="noopener noreferrer nofollow" target="_blank">SNEC_GKPS_2023-A004</a>
+<br><a href="/files/gkps_2023-a004.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A004</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
