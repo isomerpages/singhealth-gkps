@@ -40,7 +40,7 @@ variant: tiptap
 <p><strong><sub>Shared by Zann Foo, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Prevalence of burnout among healthcare professionals in Singapore. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A008.</sub>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Tan KH, Lim BL, Foo Z, Tang JY, Sim M, Lee PT, Fong KY. Prevalence of Burnout among Healthcare Professionals in Singapore. Ann Acad Med Singapore 2022;51:409-16 </sub>
-<a rel="noopener noreferrer nofollow" target="_blank"><sub>https://doi.org/10.47102/annals-acadmedsg.2021338</sub>
+<a href="https://annals.edu.sg/prevalence-of-burnout-among-healthcare-professionals-in-singapore/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://doi.org/10.47102/annals-acadmedsg.2021338</sub>
 </a>
 </p>
 <hr>
