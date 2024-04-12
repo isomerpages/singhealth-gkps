@@ -24,7 +24,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped GPSAP 2021-2030, Strategic Objective 4 - Strategy 4.4
-<br><a href="/files/i dhamanti_gkps_2023-a013.pdf" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A013</a>
+<br><a href="/files/gkps_2023-a013.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A013</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Health workers' perspective on patient safety incident disclosure. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A013.</sub>
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Health Workers' Perspective on Patient Safety Incident Disclosure. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A013.</sub>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Dhamanti I, Juliasih NN, Semita IN, Zakaria N, Guo HR, Sholikhah V. Health Workers' Perspective on Patient Safety Incident Disclosure in Indonesian Hospitals: A Mixed-Methods Study. </sub><em><sub>J Multidiscip Healthc</sub></em><sub>. 2023;16:1337-1348. Published 2023 May 12. </sub>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10187576/" rel="noopener noreferrer nofollow" target="_blank"><sub>doi:10.2147/JMDH.S412327</sub>
