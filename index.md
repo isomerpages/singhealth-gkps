@@ -7,9 +7,9 @@ description: An online and public platform to facilitate systematic collection
   Duke-NUS Institute for Patient Safety & Quality (IPSQ)
 image: /images/gkps logo_edited 210823.png
 permalink: /
-notification: "A global knowledge sharing platform for patient safety jointly
+notification: A global knowledge sharing platform for patient safety jointly
   established by the World Health Organization Patient Safety Flagship Unit and
-  SingHealth Duke-NUS Institute for Patient Safety & Quality  "
+  SingHealth Duke-NUS Institute for Patient Safety & Quality
 sections:
   - hero:
       background: /images/gkps website banner 070923_v3.svg
