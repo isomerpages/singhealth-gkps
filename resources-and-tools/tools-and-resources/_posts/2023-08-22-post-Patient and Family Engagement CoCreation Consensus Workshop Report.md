@@ -22,8 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mapped to GPSAP 2021 - 2030, Strategic Objective 4- all Strategies
-<br><a href="/files/mabel sim_gkps_2023-a002.pdf" rel="noopener noreferrer nofollow" target="_blank">Mabel Sim_GKPS_2023-A002</a>
+<p>Mapped to GPSAP 2021 - 2030, Strategic Objective 4- all Strategies</p>
+<p><a href="/files/gkps_2023-a002.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Mabel Sim, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Patient and family engagement consensus report. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A002.</sub>
+<p><strong><sub>Shared by Mabel Sim, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Patient and Family Engagement Consensus Report. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A002.</sub>
 </p>
 <hr>
 <p>The <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a> on

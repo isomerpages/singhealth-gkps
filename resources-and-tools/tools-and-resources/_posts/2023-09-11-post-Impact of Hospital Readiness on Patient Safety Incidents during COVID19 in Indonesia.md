@@ -26,7 +26,7 @@ pandemic in Indonesia: health worker perceptions</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1, 2 and 3 - Strategies
 1.2, 2.1, 3.1 and 3.3
-<br><a href="/files/i dhamanti_gkps_2023-a011.pdf" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A011</a>
+<br><a href="/files/gkps_2023-a011.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A011</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ pandemic in Indonesia: health worker perceptions</p>
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia health worker perceptions. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A011.</sub>
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Impact of Hospital Readiness on Patient Safety Incidents During the COVID-19 Pandemic in Indonesia Health Worker Perceptions. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A011.</sub> 
 <br>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Dhamanti I, Indriani D, Miftahussurur M</sub><em><sub>, et al </sub></em><sub>Impact of hospital readiness on patient safety incidents during the COVID-19 pandemic in Indonesia: health worker perceptions. </sub><em><sub>BMJ Open </sub></em><sub>2022;12:e061702. </sub>

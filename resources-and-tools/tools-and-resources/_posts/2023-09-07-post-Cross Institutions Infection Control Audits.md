@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to Strategic Objective 3-Strategy 3.3
-<br><a href="/files/xy tang_gkps_2023-a007.pdf" rel="noopener noreferrer nofollow" target="_blank">XY Tang_GKPS_2023-A007</a>
+<br><a href="/files/gkps_2023-a007.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A007</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Tang Xin Yan, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Cross-institutions infection control audit tools. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A007.</sub>
+<p><strong><sub>Shared by Tang Xin Yan, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Cross-institutions Infection Control Audit Tools. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A007.</sub>
 </p>
 <hr>
 <p>The harmonized Cross-Institutions Infection Control (CIIC) Audit Tools

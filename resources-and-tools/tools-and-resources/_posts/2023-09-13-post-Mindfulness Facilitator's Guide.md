@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 5 - Strategies 5.1 and
 5.5
-<br><a href="/files/kinjal_gkps_2023-a018.pdf" rel="noopener noreferrer nofollow" target="_blank">Kinjal_GKPS_2023-A018</a>
+<br><a href="/files/gkps_2023-a018.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A018</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Kinjal Doshi, Singapore. GKPS Reference: </sub></strong><sub>Mindfulness facilitator's guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</sub>
+<p><strong><sub>Shared by Kinjal Doshi, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality, Singapore. GKPS Reference: </sub></strong><sub>Mindfulness Facilitator's Guide. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A018.</sub>
 </p>
 <hr>
 <p>The Mindfulness Facilitator's Guide is produced by SingHealth Duke-NUS

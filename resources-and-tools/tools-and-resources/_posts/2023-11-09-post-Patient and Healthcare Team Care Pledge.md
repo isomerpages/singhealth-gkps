@@ -44,5 +44,5 @@ Patient Advocacy Network (SPAN) and co-created by patients, caregivers
 and healthcare staff in 2023, the Patient and Healthcare Team Care Pledge
 aims to build a safe and mutually respectful healthcare environment for
 all.</p>
-<p>Click here to view the video: <a href="https://youtube.com/watch?v=GxfG-kS8uUc&amp;si=AtvAuaFngWPOG198" rel="noopener noreferrer nofollow" target="_blank">Patient and Healthcare Team Care Pledge</a>
+<p>Click the link to view the <a href="https://www.youtube.com/watch?v=t3Q14GR-Qf4" rel="noopener noreferrer nofollow" target="_blank">Patient and Healthcare Team Care Pledge</a>
 </p>

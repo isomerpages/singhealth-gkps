@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 3 - Strategy 3.1 of GPSAP
 2021-2030
-<br><a href="/files/sch_gkps_2023-a016.pdf" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A016</a>
+<br><a href="/files/gkps_2023-a016.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A016</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: tiptap
 </table>
 <hr>
 <p><strong><sub>Shared by Singapore Community Hospital (SCH), Singapore. </sub></strong>
-<br><strong><sub>GKPS Reference: </sub></strong><sub>Nursing fall prevalence audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A016.</sub>
+<br><strong><sub>GKPS Reference: </sub></strong><sub>Nursing Fall Prevalence Audit Checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A016.</sub>
 </p>
 <hr>
 <p>The Fall Prevalence Audit Form is developed by the Nursing division of

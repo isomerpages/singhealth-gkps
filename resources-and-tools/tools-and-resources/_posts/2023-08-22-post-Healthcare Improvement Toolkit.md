@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 5 - Strategies 5.1 and
 5.2
-<br><a href="/files/sc teo_gkps_2023-a001.pdf" rel="noopener noreferrer nofollow" target="_blank">SC Teo_GKPS_2023-A001</a>
+<br><a href="/files/gkps_2023-a001.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A001</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: tiptap
 </table>
 <p></p>
 <hr>
-<p><strong><sub>Shared by Teo Shao Chu, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Healthcare improvement toolkit. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A001.</sub>
+<p><strong><sub>Shared by Teo Shao Chu, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Healthcare Improvement Toolkit. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A001.</sub>
 </p>
 <hr>
 <p>This Improvement Compendium of Toolkits is published by the SingHealth

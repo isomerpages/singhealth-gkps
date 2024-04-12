@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 3- Strategy 3.2
-<br><a href="/files/sch_gkps_2023-a017.pdf" rel="noopener noreferrer nofollow" target="_blank">SCH_GKPS_2023-A017</a>
+<br><a href="/files/gkps_2023-a017.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A017</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Singapore Community Hospital (SCH). GKPS Reference: </sub></strong><sub>Electronic Inpatient Medication Record (eIMR) audit checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A017.</sub>
+<p><strong><sub>Shared by Singapore Community Hospital (SCH). GKPS Reference: </sub></strong><sub>Electronic Inpatient Medication Record (eIMR) Audit Checklist. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A017.</sub>
 </p>
 <hr>
 <p>This checklist aims to strengthen the safety of medication management.

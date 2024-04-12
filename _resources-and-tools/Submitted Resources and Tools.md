@@ -177,5 +177,5 @@ in Indonesia
 </tr>
 </tbody>
 </table>
-<p>***<em>Note: updated as of 19 December 2023</em>
+<p>***<em>Note: updated as of 12 April 2024.</em>
 </p>
