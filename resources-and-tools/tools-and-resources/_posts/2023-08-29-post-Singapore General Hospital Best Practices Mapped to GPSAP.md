@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to Strategic Objectives 2, 3 and 5- Strategies 2.2, 3.3 and 5.1
-<br><a href="/files/sgh_gkps_2023-a005.pdf" rel="noopener noreferrer nofollow" target="_blank">SGH_GKPS_2023-A005</a>
+<br><a href="/files/gkps_2023-a005.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A005</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Singapore General Hospital (SGH). GKPS Reference: </sub></strong><sub>3 key best practices. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A005.</sub>
+<p><strong><sub>Shared by Singapore General Hospital (SGH). GKPS Reference: </sub></strong><sub>SGH 3 Key Best Practices. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A005.</sub>
 </p>
 <hr>
 <p>Singapore General Hospital (SGH) is the first and largest hospital in
