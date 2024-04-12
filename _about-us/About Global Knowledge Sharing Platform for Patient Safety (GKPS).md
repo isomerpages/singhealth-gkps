@@ -4,7 +4,7 @@ permalink: /aboutgkps/
 description: ""
 variant: tiptap
 ---
-<h4>World Health Organization Global Knowledge Sharing Platform for Patient Safety (GKPS)</h4>
+<h4>Global Knowledge Sharing Platform for Patient Safety (GKPS)</h4>
 <p>GKPS is an online and public platform jointly established by World Health
 Organization Patient Safety Flagship Unit and SingHealth Duke-NUS Institute
 for Patient Safety &amp; Quality to facilitate systematic collection and
