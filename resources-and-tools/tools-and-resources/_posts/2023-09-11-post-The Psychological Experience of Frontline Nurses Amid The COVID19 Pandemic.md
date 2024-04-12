@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 5 - Strategy 5.5
-<br><a href="/files/i dhamanti_gkps_2023-a014.pdf" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A014</a>
+<br><a href="/files/gkps_2023-a014.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A014</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>The psychological experience of frontline nurses amid the covid-19 pandemic. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A014.</sub> 
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>The Psychological Experience of Frontline Nurses Amid the Covid-19 Pandemic. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A014.</sub> 
 <br><sub>Note: a research output of </sub><a href="https://scholar.unair.ac.id/en/publications/the-psychological-experience-of-frontline-nurses-amid-the-covid-1" rel="noopener noreferrer nofollow" target="_blank"><sub>Universitas Airlangga.</sub></a>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Pratiwi IN, Setiawan HW, Pawanis Z, Fauziningtyas R, Nimah L, Ramoo V et al. The Psychological Experience of Frontline Nurses Amid the COVID-19 Pandemic. Malaysian Journal of Medicine and Health Sciences. 2022 Oct;18:107-114.</sub>
