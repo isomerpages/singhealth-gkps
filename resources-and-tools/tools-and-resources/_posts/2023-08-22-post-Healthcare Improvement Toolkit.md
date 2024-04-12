@@ -39,7 +39,7 @@ variant: tiptap
 </table>
 <p></p>
 <hr>
-<p><strong><sub>Shared by Teo Shao Chu, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Healthcare improvement toolkit. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A001.</sub>
+<p><strong><sub>Shared by Teo Shao Chu, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Healthcare Improvement Toolkit. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A001.</sub>
 </p>
 <hr>
 <p>This Improvement Compendium of Toolkits is published by the SingHealth
