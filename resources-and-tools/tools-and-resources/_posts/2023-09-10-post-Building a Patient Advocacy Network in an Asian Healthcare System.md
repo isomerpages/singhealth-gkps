@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by SingHealth Patient Advocacy Network (SPAN). GKPS Reference: </sub></strong><sub>Building a patient advocacy network- case study. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A010.</sub>
+<p><strong><sub>Shared by SingHealth Patient Advocacy Network (SPAN). GKPS Reference: </sub></strong><sub>Building a Patient Advocacy Network- A Case Study. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A010.</sub>
 </p>
 <hr>
 <p>Patient engagement &amp; partnership to improve health care and elevate
