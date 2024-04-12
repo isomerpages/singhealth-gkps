@@ -25,7 +25,7 @@ Safety Culture</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 and 2 - Strategies
 1.1 and 2.1
-<br><a href="/files/i dhamanti_gkps_2023-a012.pdf" rel="noopener noreferrer nofollow" target="_blank">I DHAMANTI_GKPS_2023-A012</a>
+<br><a href="/files/gkps_2023-a012.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A012</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ Safety Culture</p>
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Psychometric test: Indonesian version of the nursing home survey on patient safety culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</sub> 
+<p><strong><sub>Shared by Inge Dhamanti, Center of Excellence for Patient Safety and Quality, Airlangga University, Indonesia. GKPS Reference: </sub></strong><sub>Psychometric Test: Indonesian Version of the Nursing Home Survey on Patient Safety Culture. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A012.</sub> 
 <br><sub>Note: a research output of </sub><a href="https://scholar.unair.ac.id/en/publications/psychometric-properties-of-the-indonesian-version-of-the-nursing-" rel="noopener noreferrer nofollow" target="_blank"><sub>Universitas Airlangga</sub></a>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Fauziningtyas R, Chan CM, Pin TM, Dhamanti I, Smith GD. Psychometric properties of the Indonesian version of the nursing home survey on patient safety culture. International journal of older people nursing. 2023 Sept;18(5):e12553. </sub>
