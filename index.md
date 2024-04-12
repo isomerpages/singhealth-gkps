@@ -16,11 +16,9 @@ sections:
       variant: center
   - infobar:
       id: infobar
-      description: >-
-        A global platform jointly established by the World Health Organization
-        Patient Safety Flagship Unit 
-
-        SingHealth Duke-NUS Institute for Patient Safety & Quality
+      description: A global platform jointly established by the World Health
+        Organization Patient Safety Flagship Unit SingHealth Duke-NUS Institute
+        for Patient Safety & Quality
   - infobar:
       title: Content Page
       subtitle: www.gkps.net
