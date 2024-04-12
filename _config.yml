@@ -15,10 +15,12 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "An online and public platform to facilitate systematic collection
-  and sharing of patient safety knowledge by stakeholders in different
-  geographic regions, economic and cultural settings. Administered by SingHealth
-  Duke-NUS Institute for Patient Safety & Quality (IPSQ) "
+description: An online and public platform jointly established by the World
+  Health Organization Patient Safety Flagship Unit and SingHealth Duke-NUS
+  Institute for Patient Safety & Quality to facilitate systematic collection and
+  sharing of patient safety knowledge by stakeholders in different geographic
+  regions, economic and cultural settings. Administered by SingHealth Duke-NUS
+  Institute for Patient Safety & Quality (IPSQ)
 permalink: none
 baseurl: ""
 exclude:
