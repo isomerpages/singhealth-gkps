@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to Strategic Objective 5-Strategy 5.5
-<br><a href="/files/st foo _gkps_2023-a008.pdf" rel="noopener noreferrer nofollow" target="_blank">ST Foo _GKPS_2023-A008</a>
+<br><a href="/files/gkps_2023-a008.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A008</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Zann Foo, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Prevalence of burnout among healthcare professionals in Singapore. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A008.</sub>
+<p><strong><sub>Shared by Zann Foo, SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ), Singapore. GKPS Reference: </sub></strong><sub>Prevalence of Burnout Among Healthcare Professionals in Singapore. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A008.</sub>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Tan KH, Lim BL, Foo Z, Tang JY, Sim M, Lee PT, Fong KY. Prevalence of Burnout among Healthcare Professionals in Singapore. Ann Acad Med Singapore 2022;51:409-16 </sub>
 <a href="https://annals.edu.sg/prevalence-of-burnout-among-healthcare-professionals-in-singapore/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://doi.org/10.47102/annals-acadmedsg.2021338</sub>
