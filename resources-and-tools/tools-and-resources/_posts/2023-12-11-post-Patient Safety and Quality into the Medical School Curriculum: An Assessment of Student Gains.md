@@ -26,7 +26,7 @@ An Assessment of Student Gains</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objective 5 &amp; 6- Strategies
 5.1, 5.2, 5.5 &amp; 6.4
-<br><a href="/files/fozia asif_gkps_2023-a019.pdf" rel="noopener noreferrer nofollow" target="_blank">FOZIA ASIF_GKPS_2023-A019</a>
+<br><a href="/files/gkps_2023-a019.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A019</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ An Assessment of Student Gains</p>
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><sub>Incorporating patient safety and quality into the medical school curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A019.</sub>
+<p><strong><sub>Shared by Fozia Asif, Center for Patient Safety, Aga Khan University Medical College, Karachi, Pakistan. GKPS Reference: </sub></strong><sub>Incorporating Patient Safety and Quality into the Medical School Curriculum: An assessment of student gains. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2023. A019.</sub>
 </p>
 <p><strong><sub>Original Article Reference: </sub></strong><sub>Ahmed FA, Asif F, Mubashir A, et al. Incorporating Patient Safety and Quality into the Medical School Curriculum: An Assessment of Student Gains. </sub><em><sub>J Patient Saf</sub></em><sub>. 2022;18(6):637-644. </sub>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9422755/" rel="noopener noreferrer nofollow" target="_blank"><sub>doi:10.1097/PTS.0000000000001010</sub>
