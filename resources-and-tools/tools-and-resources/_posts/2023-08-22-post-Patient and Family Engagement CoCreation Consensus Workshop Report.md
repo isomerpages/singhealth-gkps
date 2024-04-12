@@ -22,8 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mapped to GPSAP 2021 - 2030, Strategic Objective 4- all Strategies
-<br><a href="/files/mabel sim_gkps_2023-a002.pdf" rel="noopener noreferrer nofollow" target="_blank">Mabel Sim_GKPS_2023-A002</a>
+<p>Mapped to GPSAP 2021 - 2030, Strategic Objective 4- all Strategies</p>
+<p><a href="/files/gkps_2023-a002.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
