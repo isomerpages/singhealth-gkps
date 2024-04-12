@@ -23,7 +23,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to Strategic Objective 4-Strategies 4.1, 4.2 and 4.3
-<br><a href="/files/span_gkps_2023-a010.pdf" rel="noopener noreferrer nofollow" target="_blank">SPAN_GKPS_2023-A010</a>
+<br><a href="/files/gkps_2023-a010.pdf" rel="noopener noreferrer nofollow" target="_blank">GKPS 2023 A010</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
