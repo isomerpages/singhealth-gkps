@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/3.png
+      background: /images/GKPS_Website_banner__795___380px_.png
       variant: center
   - infobar:
       title: Content Page
