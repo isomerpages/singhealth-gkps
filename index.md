@@ -47,7 +47,7 @@ sections:
         comprehensive strategy to promote
 
         patient safety.
-      button: CLICK HERE
+      button: DOWNLOAD HERE
       url: https://www.singhealthdukenus.com.sg/ipsq/Documents/GPSAP2024Report.pdf
       image: /images/GPSAP2024reportcover.png
       alt: Image alt text
