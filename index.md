@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GKPS_Website_banner_20240605.png
+      background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
   - infobar:
       title: Site Navigation
