@@ -39,6 +39,19 @@ sections:
       alt: Image alt text
       image: /images/gkps imageresize22.png
   - infopic:
+      title: Global Patient Safety Report 2024
+      subtitle: WORLD HEALTH ORGANIZATION
+      id: infopic
+      description: >-
+        Captures progress made and charts the course forward, offering a
+        comprehensive strategy to promote
+
+        patient safety.
+      button: CLICK HERE
+      url: https://www.singhealthdukenus.com.sg/ipsq/Documents/GPSAP2024Report.pdf
+      image: /images/GPSAP2024reportcover.png
+      alt: Image alt text
+  - infopic:
       title: Patient Safety
       subtitle: World Health Organization
       description: Focusing on patient safety and health care systems linkages to
