@@ -15,11 +15,12 @@ sections:
       background: /images/GKPS_Website_banner_20240605.png
       variant: center
   - infobar:
-      title: Content Page
+      title: Site Navigation
       subtitle: www.gkps.net
       id: infobar
-      button: Click for listing
+      button: Click for listings
       url: https://www.gkps.net/contentpage
+      description: Content Page
   - infobar:
       title: start sharing
       subtitle: we invite you to
