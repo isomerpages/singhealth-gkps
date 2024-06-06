@@ -68,7 +68,7 @@ sections:
         action by all countries and international partners to improve patient
         safety.
       button: Click Here
-      url: https://www.who.int/campaigns/world-patient-safety-day
-      image: /images/2023 wpsd poster.jpg
+      url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
+      image: /images/who_patient_safety_day_logo.png
       alt: Image alt text
 ---
