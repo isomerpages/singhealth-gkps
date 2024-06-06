@@ -138,4 +138,5 @@ Day:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Click to share</a>
+</p>
