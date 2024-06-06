@@ -18,7 +18,7 @@ sections:
       title: Site Navigation
       subtitle: www.gkps.net
       id: infobar
-      button: Click for listings
+      button: Click for listing
       url: https://www.gkps.net/contentpage
       description: Content Page
   - infobar:
