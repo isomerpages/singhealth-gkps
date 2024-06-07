@@ -12,14 +12,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GKPS_Website_banner__795___380px_.png
+      background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
   - infobar:
-      title: Content Page
+      title: Site Navigation
       subtitle: www.gkps.net
       id: infobar
       button: Click for listing
       url: https://www.gkps.net/contentpage
+      description: Content Page
   - infobar:
       title: start sharing
       subtitle: we invite you to
@@ -38,6 +39,19 @@ sections:
       alt: Image alt text
       image: /images/gkps imageresize22.png
   - infopic:
+      title: Global Patient Safety Report 2024
+      subtitle: WORLD HEALTH ORGANIZATION
+      id: infopic
+      description: >-
+        Captures progress made and charts the course forward, offering a
+        comprehensive strategy to promote
+
+        patient safety.
+      button: DOWNLOAD HERE
+      url: https://www.singhealthdukenus.com.sg/ipsq/Documents/GPSAP2024Report.pdf
+      image: /images/GPSAP2024reportcover.png
+      alt: Image alt text
+  - infopic:
       title: Patient Safety
       subtitle: World Health Organization
       description: Focusing on patient safety and health care systems linkages to
@@ -54,7 +68,7 @@ sections:
         action by all countries and international partners to improve patient
         safety.
       button: Click Here
-      url: https://www.who.int/campaigns/world-patient-safety-day
-      image: /images/2023 wpsd poster.jpg
+      url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
+      image: /images/who_patient_safety_day_logo.png
       alt: Image alt text
 ---
