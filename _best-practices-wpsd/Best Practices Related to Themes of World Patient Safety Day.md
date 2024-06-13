@@ -17,27 +17,6 @@ health care leaders to improve patient safety. &nbsp;&nbsp;</p>
 the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
-<p>Here are some submitted resources and tools aligned to Strategic Objective
-4 - Patient and Family Engagement of the <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a>.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Collection of Patient Stories <a href="/resources-and-tools/tools-and-resources/patientstories/" rel="noopener noreferrer nofollow" target="_blank">more</a>
-</p>
-</li>
-<li>
-<p>Asia-Pacific Patient and Family Engagement Co-creation and Consensus Report
-<a href="/tools-and-resources/tools-and-resources/patientfamilyconsensus/" rel="noopener noreferrer nofollow" target="_blank">more</a>
-</p>
-</li>
-<li>
-<p>Building a Patient Advocacy Network <a href="/resources-and-tools/tools-and-resources/span/" rel="noopener noreferrer nofollow" target="_blank">more</a>
-</p>
-</li>
-<li>
-<p>Plain English Glossary <a href="/tools-and-resources/tools-and-resources/plainenglishglossary/" rel="noopener noreferrer nofollow" target="_blank">more</a>
-</p>
-</li>
-</ol>
 <p>In commemorating the World Patient Safety Day, we invite you to share
 best practices that are related to the theme of each World Patient Safety
 Day:</p>
