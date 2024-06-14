@@ -21,6 +21,16 @@ sections:
       button: Click for listing
       url: https://www.gkps.net/contentpage
       description: Content Page
+  - infopic:
+      title: World Patient Safety Day
+      subtitle: World Health Organization
+      description: World Patient Safety Day calls for global solidarity and concerted
+        action by all countries and international partners to improve patient
+        safety.
+      button: Click Here
+      url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
+      image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
+      alt: Image alt text
   - infobar:
       title: start sharing
       subtitle: we invite you to
@@ -42,11 +52,8 @@ sections:
       title: Global Patient Safety Report 2024
       subtitle: WORLD HEALTH ORGANIZATION
       id: infopic
-      description: >-
-        Captures progress made and charts the course forward, offering a
-        comprehensive strategy to promote
-
-        patient safety.
+      description: Captures progress made and charts the course forward, offering a
+        comprehensive strategy to promote patient safety.
       button: DOWNLOAD HERE
       url: https://www.singhealthdukenus.com.sg/ipsq/Documents/GPSAP2024Report.pdf
       image: /images/GPSAP2024reportcover.png
@@ -61,14 +68,4 @@ sections:
       alt: Image alt text
       url: https://www.who.int/teams/integrated-health-services/patient-safety
       image: /images/gkps imageresize11.jpg
-  - infopic:
-      title: World Patient Safety Day
-      subtitle: World Health Organization
-      description: World Patient Safety Day calls for global solidarity and concerted
-        action by all countries and international partners to improve patient
-        safety.
-      button: Click Here
-      url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
-      image: /images/who_patient_safety_day_logo.png
-      alt: Image alt text
 ---
