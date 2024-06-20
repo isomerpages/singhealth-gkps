@@ -34,5 +34,10 @@ links:
         url: /networks/organizations/
   - title: Events
     url: /events
+    sublinks:
+      - title: Current and Past Events
+        url: /events
+      - title: Website Content Page
+        url: /contentpage
   - title: Contact Us
     url: /contactus
