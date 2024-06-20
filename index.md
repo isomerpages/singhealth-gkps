@@ -61,8 +61,4 @@ sections:
       alt: Image alt text
       url: https://www.who.int/teams/integrated-health-services/patient-safety
       image: /images/gkps imageresize11.jpg
-  - infobar:
-      id: infobar
-      button: Content page
-      url: https://www.gkps.net/contentpage
 ---
