@@ -27,7 +27,7 @@ to be done to improve the safety of diagnostic processes.</p>
 <p>The following collection of links to resources is categorized by the organizations
 that produce/share the materials or categorized by the group it is most
 relevant for:</p>
-<h4><strong>1. By National Academies </strong></h4>
+<h4><strong>1. By National Academies</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,7 +126,7 @@ From Diagnostic Safety Events</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>3. For Patient Organizations/Societies </strong></h4>
+<h4><strong>3. For Patient Organizations/Societies</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
