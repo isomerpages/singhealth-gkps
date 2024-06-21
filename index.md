@@ -17,10 +17,9 @@ sections:
   - infopic:
       title: World Patient Safety Day 2024
       subtitle: World Health Organization
-      description: World Patient Safety Day calls for global solidarity and concerted
-        action by all countries and international partners to improve patient
-        safety.
-      button: Click Here
+      description: World Patient Safety Day 2024 is dedicated to ‘Improving diagnosis
+        for patient safety’ with the slogan ‘Get it right, make it safe!’.
+      button: Click here for more info
       url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
       image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
       alt: Image alt text
