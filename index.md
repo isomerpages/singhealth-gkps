@@ -14,15 +14,8 @@ sections:
   - hero:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
-  - infobar:
-      title: Site Navigation
-      subtitle: www.gkps.net
-      id: infobar
-      button: Click for listing
-      url: https://www.gkps.net/contentpage
-      description: Content Page
   - infopic:
-      title: World Patient Safety Day
+      title: World Patient Safety Day 2024
       subtitle: World Health Organization
       description: World Patient Safety Day calls for global solidarity and concerted
         action by all countries and international partners to improve patient
