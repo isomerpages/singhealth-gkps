@@ -17,7 +17,9 @@ health care leaders to improve patient safety. &nbsp;&nbsp;</p>
 is <strong>“Improving diagnosis for patient safety” </strong>with the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
+<blockquote>
 <h2><a href="/world-patient-safety-day-2024-resources/" rel="noopener noreferrer nofollow" target="_blank">Click</a> to access the list of submitted resources and tools relevant to this year's World Patient Safety Day Theme.</h2>
+</blockquote>
 <p>In commemorating the World Patient Safety Day, we invite you to share
 best practices that are related to the theme of each World Patient Safety
 Day:</p>
@@ -118,5 +120,4 @@ Day:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Click to share</a>
-</p>
+<p></p>
