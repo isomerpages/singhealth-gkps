@@ -67,6 +67,7 @@ account for medications, and plan your next steps with the Patient's Toolkit.</p
 <p><a href="https://www.improvediagnosis.org/wp-content/uploads/2020/08/PFAC-Guide-for-Hospital-and-Health-System-Leaders.pdf" rel="noopener noreferrer nofollow" target="_blank">PFAC-Guide-for-Hospital-and-Health-System-Leaders.pdf (</a>
 <a rel="noopener noreferrer nofollow" target="_blank">improvediagnosis.org</a><a href="https://www.improvediagnosis.org/wp-content/uploads/2020/08/PFAC-Guide-for-Hospital-and-Health-System-Leaders.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="https://www.improvediagnosis.org/wp-content/uploads/2020/08/PFAC-Leaders-Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">PFAC-Leaders-Guide.pdf (</a>
