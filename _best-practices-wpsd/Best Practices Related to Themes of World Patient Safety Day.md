@@ -16,10 +16,8 @@ health care leaders to improve patient safety. &nbsp;&nbsp;</p>
 <p>This year <a href="https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety" rel="noopener noreferrer nofollow" target="_blank">WPSD </a>theme
 is <strong>“Improving diagnosis for patient safety” </strong>with the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
-safety and improving health outcomes. <a href="/world-patient-safety-day-2024-resources/" rel="noopener noreferrer nofollow" target="_blank">Click</a> to access the
-list of submitted resources and tools relevant to this year's World Patient
-Safety Day Theme.</p>
-<p></p>
+safety and improving health outcomes.</p>
+<h2><a href="/world-patient-safety-day-2024-resources/" rel="noopener noreferrer nofollow" target="_blank">Click</a> to access the list of submitted resources and tools relevant to this year's World Patient Safety Day Theme.</h2>
 <p>In commemorating the World Patient Safety Day, we invite you to share
 best practices that are related to the theme of each World Patient Safety
 Day:</p>
