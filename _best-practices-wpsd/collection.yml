@@ -2,4 +2,5 @@ collections:
   best-practices-wpsd:
     output: true
     order:
+      - Past World Patient Safety Day.md
       - Best Practices Related to Themes of World Patient Safety Day.md
