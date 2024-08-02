@@ -9,9 +9,7 @@ links:
         url: /iag
   - title: World Patient Safety Day 2024
     url: /wpsd2024/
-    sublinks:
-      - title: Past World Patient Safety Days
-        url: /past-world-patient-safety-day/
+    sublinks: []
   - title: Patient Safety Challenges
     url: /overviewglobalpatientsafetychallenges
     sublinks:
