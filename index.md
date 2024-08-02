@@ -32,14 +32,14 @@ sections:
             channels.
           linktext: Learn more
           url: https://www.who.int/campaigns/world-patient-safety-day
-        - title: Resources dedicated to improving
+        - title: Share Best Practices
+          description: to celebrate World Patient Safety Day 2024!
+          linktext: Click to share
+          url: https://form.gov.sg/
+        - title: Curated Resources Dedicated to Improving
           description: diagnosis for patient safety.
           linktext: Learn more
           url: /wpsd2024/
-        - title: Share Best Practices
-          description: on improving diagnosis for patient safety.
-          linktext: Click to share
-          url: https://form.gov.sg/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
       subtitle: World Health Organization
