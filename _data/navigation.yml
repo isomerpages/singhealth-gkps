@@ -7,6 +7,8 @@ links:
         url: /aboutgkps
       - title: International Advisory Group
         url: /iag
+  - title: World Patient Safety Day
+    url: /wpsd/
   - title: Patient Safety Challenges
     url: /overviewglobalpatientsafetychallenges
     sublinks:
@@ -39,5 +41,3 @@ links:
         url: /contentpage
   - title: Contact Us
     url: /contactus
-  - title: World Patient Safety Day
-    url: /wpsd/
