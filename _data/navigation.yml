@@ -7,8 +7,11 @@ links:
         url: /aboutgkps
       - title: International Advisory Group
         url: /iag
-  - title: World Patient Safety Day
-    url: /bestpracticesthemeswpsd/
+  - title: World Patient Safety Day 2024
+    url: /wpsd2024/
+    sublinks:
+      - title: Past World Patient Safety Days
+        url: /past-world-patient-safety-day/
   - title: Patient Safety Challenges
     url: /overviewglobalpatientsafetychallenges
     sublinks:
