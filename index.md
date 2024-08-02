@@ -35,7 +35,7 @@ sections:
         - title: Resources dedicated to improving
           description: diagnosis for patient safety.
           linktext: Learn more
-          url: /bestpracticesthemeswpsd/
+          url: /wpsd2024/
         - title: Share Best Practices
           description: on improving diagnosis for patient safety.
           linktext: Click to share
