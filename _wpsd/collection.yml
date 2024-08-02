@@ -1,5 +1,5 @@
 collections:
-  best-practices-wpsd:
+  wpsd:
     output: true
     order:
       - World Patient Safety Day 2024.md
