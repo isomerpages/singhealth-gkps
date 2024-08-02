@@ -15,9 +15,9 @@ sections:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
   - infopic:
-      title: World Health Organization
+      title: World Health Organization (WHO)
       id: infopic
-      button: Official homepage
+      button: WHO Official homepage
       url: https://www.who.int/
       image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
       alt: Image alt text
