@@ -159,6 +159,18 @@ diagnostic quality and safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Actionable Evidence-Based Practices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://psmf.org/actionable-evidence-based-practices/page/2/?et_blog" rel="noopener noreferrer nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Patient Safety Movement Foundation (PSMF)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Workshop on Patient Safety: Diagnostic Errors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,6 +179,17 @@ diagnostic quality and safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World Patients Alliance (WPA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
