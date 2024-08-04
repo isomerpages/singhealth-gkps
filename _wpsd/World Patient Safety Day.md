@@ -14,16 +14,12 @@ dedication to patient safety.</p>
 is <strong>“Improving diagnosis for patient safety” </strong>with the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
-<p>To kickstart the commemoration of this annual event, we have curated the
-following list of online videos, webinars, tools and resources in the table
-below.
+<p>To kickstart the commemoration of this global annual event, we have curated
+the following list of online videos, webinars, tools and resources, listed
+in the table below.
 <br>
 </p>
-<blockquote>
-<p>We invite you can start sharing your organization's best practices on
-improving diagnosis for patient safety. <strong><u>Click</u></strong> to
-share:</p>
-</blockquote>
+<h4>As a global community, we can share more learnings! We now invite you to <strong><u>click here</u></strong> to start sharing your organization's best practices on improving diagnosis for patient safety. </h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
 <table style="minWidth: 75px">
@@ -46,7 +42,7 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tools To Improve Diagnostic Safety</p>
+<p>Tools to Improve Diagnostic Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ahrq.gov/diagnostic-safety/tools/index.html" rel="noopener noreferrer nofollow" target="_blank">Click to access</a>
@@ -121,7 +117,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Resources including “what if” video on diagnostic safety for WPSD</p>
+<p>Resources including “What If” video on diagnostic safety for WPSD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pfps.us/dx-systems" rel="noopener noreferrer nofollow" target="_blank">Click to access</a>
