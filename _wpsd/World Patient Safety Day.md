@@ -24,8 +24,8 @@ below.
 improving diagnosis for patient safety. <strong><u>Click</u></strong> to
 share:</p>
 </blockquote>
-<p>*Note: submitted resource will be reviewed by the IAG before it gets published
-on GKPS</p>
+<p>*Note: all submitted resource will be reviewed by the IAG before it gets
+published on GKPS.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
