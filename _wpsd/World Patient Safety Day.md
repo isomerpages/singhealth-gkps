@@ -15,14 +15,17 @@ is <strong>“Improving diagnosis for patient safety” </strong>with the slogan
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
 <p>To kickstart the commemoration of this annual event, we have curated the
-following list of online videos, webinars and resources.
+following list of online videos, webinars, tools and resources in the table
+below.
 <br>
 </p>
 <blockquote>
-<p>We hope you can start sharing your institution's best practices on improving
-diagnosis for patient safety. <strong><u>Click</u></strong> to share:</p>
-<p></p>
+<p>We invite you can start sharing your organization's best practices on
+improving diagnosis for patient safety. <strong><u>Click</u></strong> to
+share:</p>
 </blockquote>
+<p>*Note: submitted resource will be reviewed by the IAG before it gets published
+on GKPS</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,7 +65,7 @@ diagnosis for patient safety. <strong><u>Click</u></strong> to share:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>International Alliance of Patients' Organzations</p>
+<p>International Alliance of Patients' Organzations (IAPO)</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +78,7 @@ Safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Academy for Innovation and Research</p>
+<p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +91,7 @@ Safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Academy for Innovation and Research</p>
+<p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +103,7 @@ Safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Academy for Innovation and Research</p>
+<p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +116,7 @@ Safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Academy for Innovation and Research</p>
+<p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +128,7 @@ Safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patients for Patient Safety US</p>
+<p>Patients for Patient Safety US (PFPS US)</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +141,7 @@ information and resources to improve diagnostic quality and safety.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Society to Improve Diagnosis in Medicine</p>
+<p>Society to Improve Diagnosis in Medicine (SIDM)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +154,7 @@ diagnostic quality and safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Society to Improve Diagnosis in Medicine</p>
+<p>Society to Improve Diagnosis in Medicine (SIDM)</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +166,7 @@ diagnostic quality and safety</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>World Patients Alliance</p>
+<p>World Patients Alliance (WPA)</p>
 </td>
 </tr>
 </tbody>
