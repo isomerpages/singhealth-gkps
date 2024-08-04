@@ -28,11 +28,6 @@ sections:
       id: textcards
       description: '"Improving Diagnosis for Patient Safety"'
       cards:
-        - title: WPSD 2024 Campaign Materials
-          description: We encourage you to disseminate campaign materials through various
-            channels.
-          linktext: Learn more
-          url: https://www.who.int/campaigns/world-patient-safety-day
         - title: Share Best Practices
           description: to celebrate World Patient Safety Day 2024!
           linktext: Click to share
