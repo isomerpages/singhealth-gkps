@@ -10,6 +10,8 @@ health care leaders to improve patient safety. &nbsp;&nbsp;</p>
 <p>GKPS was set up in October 2023, and we invite you to share best practices
 that are related to the themes of the past World Patient Safety Days, for
 sharing with the global patient safety community.</p>
+<p>*Note: all submitted resource will be reviewed by the IAG before it gets
+published on GKPS.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -37,8 +39,16 @@ sharing with the global patient safety community.</p>
 <p>Engaging Patients for Patient Safety</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://for.sg/engagingpatientsforpatientsafetywpsd2023" rel="noopener noreferrer nofollow" target="_blank"><u>Click to share</u></a>
 </p>
+</li>
+<li>
+<p><a href="/resources-and-tools/tools-and-resources/patientstories/" rel="noopener noreferrer nofollow" target="_blank">Access patient stories</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
