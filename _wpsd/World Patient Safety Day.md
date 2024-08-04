@@ -159,6 +159,18 @@ diagnostic quality and safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>A Global Inquiry on Excellence in the Diagnostic Journey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://theberylinstitute.org/product/a-global-inquiry-on-excellence-in-the-diagnostic-journey/" rel="noopener noreferrer nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Beryl Institute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Actionable Evidence-Based Practices</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,17 +191,6 @@ diagnostic quality and safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World Patients Alliance (WPA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
