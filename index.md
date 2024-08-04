@@ -32,8 +32,8 @@ sections:
           description: to celebrate World Patient Safety Day 2024!
           linktext: Click to share
           url: https://form.gov.sg/
-        - title: Curated List of Resources Dedicated to Improving
-          description: diagnosis for patient safety.
+        - title: Curated List of Resources
+          description: dedicated to Improving diagnosis for patient safety.
           linktext: Learn more
           url: /wpsd/
   - infopic:
