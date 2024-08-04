@@ -16,9 +16,7 @@ the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
 <p>To kickstart the commemoration of this global annual event, we have curated
 the following list of online videos, webinars, tools and resources, listed
-in the table below.
-<br>
-</p>
+in the table below.</p>
 <h4>As a global community, we can share more learnings! We now invite you to <strong><u>click here</u></strong> to start sharing your organization's best practices on improving diagnosis for patient safety.</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
