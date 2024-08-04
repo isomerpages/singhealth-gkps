@@ -39,7 +39,7 @@ sections:
         - title: Curated Resources Dedicated to Improving
           description: diagnosis for patient safety.
           linktext: Learn more
-          url: /wpsd2024/
+          url: /wpsd/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
       subtitle: World Health Organization
