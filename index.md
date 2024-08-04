@@ -33,7 +33,7 @@ sections:
           linktext: Click to share
           url: https://form.gov.sg/
         - title: Curated List of Resources
-          description: dedicated to Improving diagnosis for patient safety.
+          description: dedicated to improving diagnosis for patient safety.
           linktext: Learn more
           url: /wpsd/
   - infopic:
