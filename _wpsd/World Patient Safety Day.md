@@ -21,6 +21,7 @@ following list of online videos, webinars and resources.
 <blockquote>
 <p>We hope you can start sharing your institution's best practices on improving
 diagnosis for patient safety. <strong><u>Click</u></strong> to share:</p>
+<p></p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
