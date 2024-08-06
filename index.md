@@ -15,21 +15,27 @@ sections:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
   - infopic:
-      title: World Patient Safety Day 2024
-      subtitle: World Health Organization
-      description: World Patient Safety Day 2024 is dedicated to ‘Improving diagnosis
-        for patient safety’ with the slogan ‘Get it right, make it safe!’.
-      button: Click here for more info
-      url: https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety
+      title: World Patient Safety Day 2024 Campaign Materials
+      id: infopic
+      button: COMING SOON
+      url: https://www.who.int/campaigns/world-patient-safety-day
       image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
       alt: Image alt text
-  - infobar:
-      title: start sharing
-      subtitle: we invite you to
-      description: Patient Safety Improvements, Experiences, Best Practices and
-        Patient Stories with the Global Patient Safety Community today
-      button: click to share
-      url: /submission-forms/submissionforms
+      description: Keep a lookout for this space for the link to download these
+        campaign materials!
+  - textcards:
+      title: '"Improving Diagnosis for Patient Safety"'
+      id: textcards
+      description: World Patient Safety Day 2024 Theme
+      cards:
+        - title: Share Best Practices
+          description: to celebrate World Patient Safety Day 2024!
+          linktext: Click to share
+          url: https://for.sg/improvingdiagnosisforpatientsafetywpsd2024
+        - title: Curated List of Resources
+          description: dedicated to improving diagnosis for patient safety.
+          linktext: Learn more
+          url: /wpsd/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
       subtitle: World Health Organization
@@ -50,6 +56,13 @@ sections:
       url: https://www.singhealthdukenus.com.sg/ipsq/Documents/GPSAP2024Report.pdf
       image: /images/GPSAP2024reportcover.png
       alt: Image alt text
+  - infobar:
+      title: start sharing
+      subtitle: we invite you to
+      description: Patient Safety Improvements, Experiences, Best Practices and
+        Patient Stories with the Global Patient Safety Community today
+      button: click to share
+      url: /submission-forms/submissionforms
   - infopic:
       title: Patient Safety
       subtitle: World Health Organization
