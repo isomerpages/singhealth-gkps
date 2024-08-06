@@ -4,7 +4,7 @@ permalink: /wpsd/
 description: ""
 variant: tiptap
 ---
-<h2>Annually, World Patient Safety Day falls on 17 September</h2>
+<h2>Annually, World Patient Safety Day falls on 17 September 2024</h2>
 <p>Annually on World Patient Safety Day, all nations and international allies
 are encouraged to collaborate and take action to enhance patient safety
 globally. The event unites patients, families, caregivers, communities,
