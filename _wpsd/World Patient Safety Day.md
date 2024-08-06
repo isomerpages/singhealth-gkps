@@ -17,7 +17,7 @@ safety and improving health outcomes.</p>
 <p>To kickstart the commemoration of this global annual event, we have curated
 the following list of online videos, webinars, tools and resources, listed
 in the table below.</p>
-<h4>To improve diagnosis safety, we now invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's best practices on improving diagnosis for patient safety with the global patient safety community</h4>
+<h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
 <table style="minWidth: 75px">
