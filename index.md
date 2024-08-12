@@ -24,7 +24,7 @@ sections:
       description: Keep a lookout for this space for the link to download these
         campaign materials!
   - textcards:
-      title: '"Improving Diagnosis for Patient Safety"'
+      title: '"Improving diagnosis for patient safety"'
       id: textcards
       description: World Patient Safety Day 2024 Theme
       cards:
