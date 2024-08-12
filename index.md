@@ -19,13 +19,13 @@ sections:
       id: textcards
       description: World Patient Safety Day 2024 Theme
       cards:
-        - title: Share Best Practices
-          description: to celebrate World Patient Safety Day 2024!
-          linktext: Click to share
+        - title: Share resources and best practices
+          description: ""
+          linktext: Submit here
           url: https://for.sg/improvingdiagnosisforpatientsafetywpsd2024
-        - title: Curated List of Resources
-          description: dedicated to improving diagnosis for patient safety.
-          linktext: Learn more
+        - title: Access curated resources
+          description: ""
+          linktext: Access here
           url: /wpsd/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
