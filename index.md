@@ -14,27 +14,18 @@ sections:
   - hero:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
-  - infopic:
-      title: World Patient Safety Day 2024 Campaign Materials
-      id: infopic
-      button: COMING SOON
-      url: https://www.who.int/campaigns/world-patient-safety-day
-      image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
-      alt: Image alt text
-      description: Keep a lookout for this space for the link to download these
-        campaign materials!
   - textcards:
-      title: '"Improving Diagnosis for Patient Safety"'
+      title: '"Improving diagnosis for patient safety"'
       id: textcards
       description: World Patient Safety Day 2024 Theme
       cards:
-        - title: Share Best Practices
-          description: to celebrate World Patient Safety Day 2024!
-          linktext: Click to share
+        - title: Share resources and best practices
+          description: ""
+          linktext: Submit here
           url: https://for.sg/improvingdiagnosisforpatientsafetywpsd2024
-        - title: Curated List of Resources
-          description: dedicated to improving diagnosis for patient safety.
-          linktext: Learn more
+        - title: Access curated resources
+          description: ""
+          linktext: Access here
           url: /wpsd/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
