@@ -14,10 +14,10 @@ dedication to patient safety.</p>
 is <strong>“Improving diagnosis for patient safety” </strong>with the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
-<p>To kickstart the commemoration of this global annual event, we have curated
-the following list of online videos, webinars, tools and resources, listed
-in the table below.</p>
-<h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
+<p>To support the commemoration of this year's World Patient Safety Day,
+we have curated the following list of online videos, webinars, tools and
+resources, listed in the table below.</p>
+<h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's resources and best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
 <table style="minWidth: 75px">
@@ -59,7 +59,7 @@ published on GKPS.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>International Alliance of Patients' Organzations (IAPO)</p>
+<p>International Alliance of Patients' Organizations (IAPO)</p>
 </td>
 </tr>
 <tr>
