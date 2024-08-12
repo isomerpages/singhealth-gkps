@@ -14,15 +14,6 @@ sections:
   - hero:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
-  - infopic:
-      title: World Patient Safety Day 2024 Campaign Materials
-      id: infopic
-      button: COMING SOON
-      url: https://www.who.int/campaigns/world-patient-safety-day
-      image: /images/WHO_Patient_Safety_Day_2024_logos_colors_compact_EN.png
-      alt: Image alt text
-      description: Keep a lookout for this space for the link to download these
-        campaign materials!
   - textcards:
       title: '"Improving diagnosis for patient safety"'
       id: textcards
