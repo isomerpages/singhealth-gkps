@@ -103,7 +103,8 @@ published on GKPS.</p>
 <p>Patient Preparation for Imaging Procedures</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/WPSD2024_Patient_Prep_for_Imaging_Procedures_Jocham_Hospital_Ltd.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jocham Hospital Ltd</p>
