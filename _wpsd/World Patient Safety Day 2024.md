@@ -40,6 +40,30 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Poster: 5 Ds of Diagnostic Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.linkedin.com/posts/healthgovernanceunit_diagnostic-safety-5-ds-activity-7225053314789367810-UqNq?utm_source=share&amp;utm_medium=member_ios" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poster: Diagnostic Pause</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.linkedin.com/posts/healthgovernanceunit_diagnostic-safety-ugcPost-7214351788521451521-e5xF?utm_source=share&amp;utm_medium=member_ios" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tools to Improve Diagnostic Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,6 +84,31 @@ published on GKPS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>International Alliance of Patients' Organizations (IAPO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patient Preparation for Imaging Procedures</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/WPSD2024_Patient_Prep_for_Imaging_Procedures_Jocham_Hospital_Ltd.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jocham Hospital Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>R69 - "illness, unspecified" to mark the diagnostic odyssey (Dx uncertainty)
+in (esp.) rare disease</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/WPSD2024_R_69_Initiative_KAL_Research_Initiatives.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAL Research Initiatives</p>
 </td>
 </tr>
 <tr>
@@ -127,6 +176,19 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Rheumatoid arthritis: would my life be different if I had been diagnosed
+sooner?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pslhub.org/learn/patient-safety-in-health-and-care/diagnosis/diagnostic-error/rheumatoid-arthritis-would-my-life-be-different-if-i-had-been-diagnosed-sooner-r11879/" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient Safety Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tools aimed at providing patients, clinical teams, and educators with
 information and resources to improve diagnostic quality and safety.</p>
 </td>
@@ -149,6 +211,19 @@ diagnostic quality and safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Society to Improve Diagnosis in Medicine (SIDM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Improving Diagnosis for Patient Safety in An Oncology Setting: Quality
+Initiatives</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sobraj.com/books/index.php/pub/catalog/book/8" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sultan Qaboos Comprehensive Cancer Care and Research Centre</p>
 </td>
 </tr>
 <tr>
