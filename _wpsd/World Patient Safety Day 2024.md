@@ -104,7 +104,8 @@ published on GKPS.</p>
 in (esp.) rare disease</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/WPSD2024_R_69_Initiative_KAL_Research_Initiatives.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KAL Research Initiatives</p>
