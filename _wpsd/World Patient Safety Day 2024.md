@@ -76,18 +76,6 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Website: DrGuide.net</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="www.DrGuide.net" rel="noopener nofollow" target="_blank">Click to access</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DrGuide.net</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Patient Safety Toolkits</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,6 +96,18 @@ published on GKPS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jocham Hospital Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>R69 - "illness, unspecified" to mark the diagnostic odyssey (Dx uncertainty)
+in (esp.) rare disease</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAL Research Initiatives</p>
 </td>
 </tr>
 <tr>
