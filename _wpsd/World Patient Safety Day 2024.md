@@ -138,7 +138,7 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Policy, strategy, framework or action plan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R69 - "illness, unspecified" to mark the diagnostic odyssey (Dx uncertainty)
@@ -157,7 +157,7 @@ in (esp.) rare disease</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Webinar: Understanding the Landscape: Current Challenges in Diagnostic
@@ -176,7 +176,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Webinar:
@@ -195,7 +195,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Webinar: Multiple Stakeholder Perspectives in Diagnostic Safety</p>
@@ -213,7 +213,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Webinar:
@@ -232,7 +232,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Resources including “What If” video on diagnostic safety for WPSD</p>
@@ -250,7 +250,7 @@ Safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Patient Story</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rheumatoid arthritis: would my life be different if I had been diagnosed
@@ -269,7 +269,7 @@ sooner?</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Education and Training Material</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tools aimed at providing patients, clinical teams, and educators with
@@ -288,7 +288,7 @@ information and resources to improve diagnostic quality and safety.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Patient Story</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Stories- guarantee the patient voice is heard in efforts to improve
@@ -307,7 +307,7 @@ diagnostic quality and safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Best Practice, Case Study or Feature Story</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Improving Diagnosis for Patient Safety in An Oncology Setting: Quality
@@ -326,7 +326,7 @@ Initiatives</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Research Study or Scientific Paper</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A Global Inquiry on Excellence in the Diagnostic Journey</p>
@@ -344,7 +344,7 @@ Initiatives</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Standard, guideline or protocol including clinical support tool</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Actionable Evidence-Based Practices</p>
@@ -362,7 +362,7 @@ Initiatives</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop on Patient Safety: Diagnostic Errors</p>
