@@ -20,14 +20,19 @@ resources, listed in the table below.</p>
 <h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's resources and best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Type of Resource</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
@@ -37,8 +42,14 @@ published on GKPS.</p>
 <th rowspan="1" colspan="1">
 <p>Organization</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Mapped to GPSAP SO</p>
+</th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and advocacy material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Poster: 5 Ds of Diagnostic Safety</p>
 </td>
@@ -49,8 +60,14 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Poster: Diagnostic Pause</p>
 </td>
@@ -61,8 +78,14 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Measurement Tools</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Tools to Improve Diagnostic Safety</p>
 </td>
@@ -73,10 +96,16 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>Agency for Healthcare Research and Quality (AHRQ)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Patient Safety Toolkits</p>
+<p>Education and Training Material</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient Safety Toolkit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.iapo.org.uk/patient-safety-toolkit" rel="noopener noreferrer nofollow" target="_blank">Click to access</a>
@@ -85,8 +114,14 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>International Alliance of Patients' Organizations (IAPO)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Standard, guideline or protocol including clinical support tool</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Patient Preparation for Imaging Procedures</p>
 </td>
@@ -97,8 +132,14 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>Jocham Hospital Ltd</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Policy, strategy, framework or action plan</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>R69 - "illness, unspecified" to mark the diagnostic odyssey (Dx uncertainty)
 in (esp.) rare disease</p>
@@ -110,8 +151,14 @@ in (esp.) rare disease</p>
 <td rowspan="1" colspan="1">
 <p>KAL Research Initiatives</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Webinar: Understanding the Landscape: Current Challenges in Diagnostic
 Safety</p>
@@ -123,8 +170,14 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Webinar:
 <br>Diagnostic Safety Across the Spectrum</p>
@@ -136,8 +189,14 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Webinar: Multiple Stakeholder Perspectives in Diagnostic Safety</p>
 </td>
@@ -148,8 +207,14 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Webinar:
 <br>Learning from Diagnostic Errors</p>
@@ -161,8 +226,14 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Resources including “What If” video on diagnostic safety for WPSD</p>
 </td>
@@ -173,8 +244,14 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patients for Patient Safety US (PFPS US)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Patient Story</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Rheumatoid arthritis: would my life be different if I had been diagnosed
 sooner?</p>
@@ -186,8 +263,14 @@ sooner?</p>
 <td rowspan="1" colspan="1">
 <p>Patient Safety Learning</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Education and Training Material</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Tools aimed at providing patients, clinical teams, and educators with
 information and resources to improve diagnostic quality and safety.</p>
@@ -199,8 +282,14 @@ information and resources to improve diagnostic quality and safety.</p>
 <td rowspan="1" colspan="1">
 <p>Society to Improve Diagnosis in Medicine (SIDM)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Patient Story</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Patient Stories- guarantee the patient voice is heard in efforts to improve
 diagnostic quality and safety</p>
@@ -212,8 +301,14 @@ diagnostic quality and safety</p>
 <td rowspan="1" colspan="1">
 <p>Society to Improve Diagnosis in Medicine (SIDM)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Best Practice, Case Study or Feature Story</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Improving Diagnosis for Patient Safety in An Oncology Setting: Quality
 Initiatives</p>
@@ -225,8 +320,14 @@ Initiatives</p>
 <td rowspan="1" colspan="1">
 <p>Sultan Qaboos Comprehensive Cancer Care and Research Centre</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Research Study or Scientific Paper</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>A Global Inquiry on Excellence in the Diagnostic Journey</p>
 </td>
@@ -237,8 +338,14 @@ Initiatives</p>
 <td rowspan="1" colspan="1">
 <p>The Beryl Institute</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Standard, guideline or protocol including clinical support tool</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Actionable Evidence-Based Practices</p>
 </td>
@@ -249,8 +356,14 @@ Initiatives</p>
 <td rowspan="1" colspan="1">
 <p>The Patient Safety Movement Foundation (PSMF)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Communication and Advocacy Material (Podcast, infographic, poster, video)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Workshop on Patient Safety: Diagnostic Errors</p>
 </td>
@@ -260,6 +373,9 @@ Initiatives</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World Patients Alliance (WPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
