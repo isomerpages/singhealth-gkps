@@ -29,11 +29,11 @@ and connect with patient safety experts and practitioners around the world
 and its regions:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://ihshub.org/topics/4216/feed" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety (GPS) Network</a>
+<p><a href="https://ihshub.org/topics/4216/feed" rel="noopener nofollow" target="_blank">Global Patient Safety (GPS) Network</a>
 </p>
 </li>
 <li>
-<p><a href="https://ihshub.org/topics/4293/feed" rel="noopener noreferrer nofollow" target="_blank">Asia-Pacific Patient Safety (APPS) Network</a>
+<p><a href="https://ihshub.org/topics/4293/feed" rel="noopener nofollow" target="_blank">Asia-Pacific Patient Safety (APPS) Network</a>
 </p>
 </li>
 </ol>
