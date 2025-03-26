@@ -22,7 +22,7 @@ sections:
         - title: Share resources and best practices
           description: ""
           linktext: Submit here
-          url: https://for.sg/improvingdiagnosisforpatientsafetywpsd2024
+          url: /submission-forms/submissionforms
         - title: Access curated resources
           description: ""
           linktext: Access here
