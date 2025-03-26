@@ -10,13 +10,14 @@ are encouraged to collaborate and take action to enhance patient safety
 globally. The event unites patients, families, caregivers, communities,
 health care professionals, leaders, and policymakers in demonstrating their
 dedication to patient safety.</p>
-<p>This year's <a href="https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety" rel="noopener noreferrer nofollow" target="_blank">World Patient Safety Day</a> theme
-is <strong>“Improving diagnosis for patient safety” </strong>with the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
+<p><a href="https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety" rel="noopener noreferrer nofollow" target="_blank">World Patient Safety Day</a> theme
+in 2024 was <strong>“Improving diagnosis for patient safety” </strong>with
+the slogan<strong> “Get it right, make it safe!”,</strong> highlighting
 the critical importance of correct and timely diagnosis in ensuring patient
 safety and improving health outcomes.</p>
-<p>To support the commemoration of this year's World Patient Safety Day,
-we have curated the following list of online videos, webinars, tools and
-resources, listed in the table below.</p>
+<p>To support the commemoration of World Patient Safety Day 2024, we have
+curated the following list of online videos, webinars, tools and resources,
+listed in the table below.</p>
 <h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's resources and best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
