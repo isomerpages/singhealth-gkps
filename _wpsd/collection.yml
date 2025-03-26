@@ -2,5 +2,6 @@ collections:
   wpsd:
     output: true
     order:
+      - World Patient Safety Day 2025.md
       - World Patient Safety Day 2024.md
       - Past World Patient Safety Day.md
