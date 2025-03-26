@@ -15,14 +15,14 @@ sections:
       background: /images/GKPS_Website_banner__795___380px__2.png
       variant: center
   - textcards:
-      title: '"Improving diagnosis for patient safety"'
+      title: '"Safe care for every newborn and every child"'
       id: textcards
-      description: World Patient Safety Day 2024 Theme
+      description: World Patient Safety Day 2025 Theme
       cards:
         - title: Share resources and best practices
           description: ""
           linktext: Submit here
-          url: https://for.sg/improvingdiagnosisforpatientsafetywpsd2024
+          url: /submission-forms/submissionforms
         - title: Access curated resources
           description: ""
           linktext: Access here
