@@ -10,7 +10,7 @@ are encouraged to collaborate and take action to enhance patient safety
 globally. The event unites patients, families, caregivers, communities,
 health care professionals, leaders, and policymakers in demonstrating their
 dedication to patient safety.</p>
-<p><a href="https://www.who.int/news-room/events/detail/2024/09/17/default-calendar/world-patient-safety-day-17-september-2024-improving-diagnosis-for-patient-safety" rel="noopener noreferrer nofollow" target="_blank">World Patient Safety Day</a> 2025
+<p><a href="https://asia-southeast1-menlo-inspect.menlosecurity.com/https://www.who.int/news-room/events/detail/2025/09/17/default-calendar/world-patient-safety-day--17-september-2025--patient-safety-from-the-start" rel="noopener noreferrer nofollow" target="_blank">World Patient Safety Day</a> 2025
 theme is “<strong>Safe care for every newborn and every child</strong>”,
 with the slogan “<strong><em>Patient safety from the start!</em></strong>”,
 recognizing the vulnerability of this age group to risks and harm caused
