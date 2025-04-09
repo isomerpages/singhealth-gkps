@@ -24,6 +24,7 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 <p>Compendium of best practices and case studies in quality of care, patient
 safety, infection prevention and control in lower- and middle-income countries</p>
 <p></p>
+<p></p>
 <p><a href="https://iris.who.int/handle/10665/380849" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
 </td>
@@ -189,5 +190,5 @@ in Indonesia
 </tr>
 </tbody>
 </table>
-<p>***<em>Note: updated as of 12 April 2024.</em>
+<p>***<em>Note: updated as of 9 April 2025.</em>
 </p>
