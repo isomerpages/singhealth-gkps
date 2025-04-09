@@ -9,12 +9,23 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 <p><strong>We welcome you to submit patient safety improvement, experiences and practices, as well as its implementation resources and tools for sharing on this page: <a href="https://form.gov.sg/64631e5f0fbfe400126c8e0d" rel="noopener noreferrer nofollow" target="_blank">Click here to submit</a>.</strong>
 </p>
 <h5>Submitted Resources and Tools that are mapped to <a href="https://www.who.int/teams/integrated-health-services/patient-safety/policy/global-patient-safety-action-plan" rel="noopener noreferrer nofollow" target="_blank">Global Patient Safety Action Plan (GPSAP) 2021-2030</a>:</h5>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Submitted Resources and Tools</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Compendium of best practices and case studies in quality of care, patient
+safety, infection prevention and control in lower- and middle-income countries</p>
+<p><a href="https://iris.who.int/handle/10665/380849" rel="noopener nofollow" target="_blank">click to access</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
