@@ -22,8 +22,8 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 <tr>
 <td rowspan="1" colspan="1">
 <p>Compendium of best practices and case studies in quality of care, patient
-safety, infection prevention and control in lower- and middle-income countries</p>
-<p><a href="https://iris.who.int/handle/10665/380849" rel="noopener nofollow" target="_blank">click to access</a>
+safety, infection prevention and control in lower- and middle-income countries
+<br><a href="https://iris.who.int/handle/10665/380849" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
 </td>
 </tr>
