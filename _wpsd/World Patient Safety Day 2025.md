@@ -16,8 +16,8 @@ with the slogan “<strong><em>Patient safety from the start!</em></strong>”,
 recognizing the vulnerability of this age group to risks and harm caused
 by unsafe care.</p>
 <p>To support the commemoration of this year's World Patient Safety Day,
-we invite you to start sharing your organization's resources and best practices
-on improving diagnosis for patient safety with our global patient safety
-community!</p>
+we invite you to <a href="https://form.gov.sg/67f5eaf5ac6e19d2691a997b" rel="noopener nofollow" target="_blank">start sharing</a> your
+organization's resources and best practices on improving diagnosis for
+patient safety with our global patient safety community!</p>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
