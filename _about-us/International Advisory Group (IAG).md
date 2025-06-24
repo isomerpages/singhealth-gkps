@@ -36,6 +36,16 @@ Singapore</p>
 <br>World Health Organization, Switzerland</p>
 </li>
 <li>
+<p><strong>Dr Irina Papieva</strong> 
+<br>Technical Officer, Patient Safety and Quality of Care Unit
+<br>World Health Organization, Switzerland</p>
+</li>
+<li>
+<p><strong>Dr Ayda Taha </strong>
+<br>Technical Officer, Patient Safety and Quality of Care Unit
+<br>World Health Organization, Switzerland</p>
+</li>
+<li>
 <p><strong>Professor Ezequiel Garcia Elorrio </strong>
 <br>President, International Society for Quality (ISQua)
 <br>Argentina</p>
@@ -84,16 +94,6 @@ Education
 <p><strong>Ms Ronel Steinhobel </strong>
 <br>Deputy Director, Complaint Management
 <br>National Department of Health, South Africa</p>
-</li>
-<li>
-<p><strong>Dr Ayda Taha </strong>
-<br>Technical Officer, Patient Safety and Quality of Care Unit
-<br>World Health Organization, Switzerland</p>
-</li>
-<li>
-<p><strong>Dr Irina Papieva</strong> 
-<br>Technical Officer, Patient Safety and Quality of Care Unit
-<br>World Health Organization, Switzerland</p>
 </li>
 <li>
 <p><strong>Dr Neelam Dhingra </strong>
