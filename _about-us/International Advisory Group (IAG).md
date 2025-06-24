@@ -120,20 +120,20 @@ Ireland</p>
 <h4>IAG Secretariat Team</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Ms Zann Foo</strong> 
-<br>IAG Secretariat
+<p><strong>Ms Zann Foo</strong>
+<br>Deputy Director
 <br>SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ),
 Singapore</p>
 </li>
 <li>
-<p><strong>Ms Mabel Sim</strong> 
-<br>IAG Secretariat
+<p><strong>Ms Mabel Sim</strong>
+<br>Assistant Manager
 <br>SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ),
 Singapore</p>
 </li>
 <li>
-<p><strong>Ms Annabel Loh </strong>
-<br>IAG Secretariat
+<p><strong>Ms Annabel Loh</strong>
+<br>Executive
 <br>SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ),
 Singapore</p>
 </li>
