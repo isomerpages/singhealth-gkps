@@ -116,6 +116,9 @@ Ireland</p>
 <br>Head of Global Health, IQVIA, USA
 <br>Founder &amp; Chief Executive Officer, Rashad Massoud Associates LLC</p>
 </li>
+</ol>
+<h4>IAG Secretariat Team</h4>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Ms Zann Foo</strong> 
 <br>IAG Secretariat
