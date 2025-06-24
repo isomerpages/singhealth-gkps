@@ -36,6 +36,16 @@ Singapore</p>
 <br>World Health Organization, Switzerland</p>
 </li>
 <li>
+<p><strong>Dr Irina Papieva</strong> 
+<br>Technical Officer, Patient Safety and Quality of Care Unit
+<br>World Health Organization, Switzerland</p>
+</li>
+<li>
+<p><strong>Dr Ayda Taha </strong>
+<br>Technical Officer, Patient Safety and Quality of Care Unit
+<br>World Health Organization, Switzerland</p>
+</li>
+<li>
 <p><strong>Professor Ezequiel Garcia Elorrio </strong>
 <br>President, International Society for Quality (ISQua)
 <br>Argentina</p>
@@ -86,16 +96,6 @@ Education
 <br>National Department of Health, South Africa</p>
 </li>
 <li>
-<p><strong>Dr Ayda Taha </strong>
-<br>Technical Officer, Patient Safety and Quality of Care Unit
-<br>World Health Organization, Switzerland</p>
-</li>
-<li>
-<p><strong>Dr Irina Papieva</strong> 
-<br>Technical Officer, Patient Safety and Quality of Care Unit
-<br>World Health Organization, Switzerland</p>
-</li>
-<li>
 <p><strong>Dr Neelam Dhingra </strong>
 <br>Vice President and Chief Patient Safety Officer, Joint Commission International</p>
 </li>
@@ -116,6 +116,9 @@ Ireland</p>
 <br>Head of Global Health, IQVIA, USA
 <br>Founder &amp; Chief Executive Officer, Rashad Massoud Associates LLC</p>
 </li>
+</ol>
+<h4>IAG Secretariat Team</h4>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Ms Zann Foo</strong> 
 <br>IAG Secretariat
