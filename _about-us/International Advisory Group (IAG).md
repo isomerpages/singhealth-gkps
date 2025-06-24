@@ -123,14 +123,14 @@ Ireland</p>
 Singapore</p>
 </li>
 <li>
-<p>Ms Mabel Sim</p>
-<p>IAG Secretariat
+<p>Ms Mabel Sim
+<br>IAG Secretariat
 <br>SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ),
 Singapore</p>
 </li>
 <li>
-<p>Ms Annabel Loh</p>
-<p>IAG Secretariat
+<p>Ms Annabel Loh
+<br>IAG Secretariat
 <br>SingHealth Duke-NUS Institute for Patient Safety &amp; Quality (IPSQ),
 Singapore</p>
 </li>
