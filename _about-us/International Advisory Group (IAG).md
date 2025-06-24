@@ -113,8 +113,8 @@ Ireland</p>
 </li>
 <li>
 <p>Professor Rashad Massoud
-<br>Head of Global Health, IQVIA, USA</p>
-<p>Founder &amp; Chief Executive Officer, Rashad Massoud Associates LLC</p>
+<br>Head of Global Health, IQVIA, USA
+<br>Founder &amp; Chief Executive Officer, Rashad Massoud Associates LLC</p>
 </li>
 <li>
 <p>Ms Zann Foo
