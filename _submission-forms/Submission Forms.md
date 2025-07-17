@@ -26,8 +26,8 @@ email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Best Practices related to 'Safe paediatric and newborn care', theme of
-World Patient Safety Day 2025</p>
+<p>Best Practices related to 'Safe care for every newborn and every child',
+theme of World Patient Safety Day 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/67f5eaf5ac6e19d2691a997b" rel="noopener nofollow" target="_blank">Submit</a>
