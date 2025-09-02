@@ -21,9 +21,8 @@ listed in the table below.</p>
 <h4>We invite you to <a href="https://for.sg/improvingdiagnosisforpatientsafetywpsd2024" rel="noopener noreferrer nofollow" target="_blank">start sharing</a> your organization's resources and best practices on improving diagnosis for patient safety with our global patient safety community!</h4>
 <p>*Note: all submitted resource will be reviewed by the IAG before it gets
 published on GKPS.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -43,9 +42,6 @@ published on GKPS.</p>
 <th rowspan="1" colspan="1">
 <p>Organization</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mapped to GPSAP SO</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,9 +56,6 @@ published on GKPS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -79,9 +72,6 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>Alexandria University, Medical Research Institute, Health Governance Unit</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -96,9 +86,6 @@ published on GKPS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Agency for Healthcare Research and Quality (AHRQ)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -115,9 +102,6 @@ published on GKPS.</p>
 <td rowspan="1" colspan="1">
 <p>International Alliance of Patients' Organizations (IAPO)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -132,9 +116,6 @@ published on GKPS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jocham Hospital Ltd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -152,9 +133,6 @@ in (esp.) rare disease</p>
 <td rowspan="1" colspan="1">
 <p>KAL Research Initiatives</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -170,9 +148,6 @@ Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -190,9 +165,6 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -207,9 +179,6 @@ Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -227,9 +196,6 @@ Safety</p>
 <td rowspan="1" colspan="1">
 <p>Patient Academy for Innovation and Research (PAIR)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -244,9 +210,6 @@ Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patients for Patient Safety US (PFPS US)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -264,9 +227,6 @@ sooner?</p>
 <td rowspan="1" colspan="1">
 <p>Patient Safety Learning</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -282,9 +242,6 @@ information and resources to improve diagnostic quality and safety.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Society to Improve Diagnosis in Medicine (SIDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -302,9 +259,6 @@ diagnostic quality and safety</p>
 <td rowspan="1" colspan="1">
 <p>Society to Improve Diagnosis in Medicine (SIDM)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -321,9 +275,6 @@ Initiatives</p>
 <td rowspan="1" colspan="1">
 <p>Sultan Qaboos Comprehensive Cancer Care and Research Centre</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -338,9 +289,6 @@ Initiatives</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Beryl Institute</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -357,9 +305,6 @@ Initiatives</p>
 <td rowspan="1" colspan="1">
 <p>The Patient Safety Movement Foundation (PSMF)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -374,9 +319,6 @@ Initiatives</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World Patients Alliance (WPA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
