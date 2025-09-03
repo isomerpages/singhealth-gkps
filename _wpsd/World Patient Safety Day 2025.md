@@ -61,6 +61,22 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrating stakeholder and community engagement in quality of care initiatives
+for maternal, newborn and child health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iris.who.int/bitstream/handle/10665/333922/9789240006317-eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Measurement Tool</p>
 </td>
 <td rowspan="1" colspan="1">
