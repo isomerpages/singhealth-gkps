@@ -26,7 +26,7 @@ sections:
         - title: Access curated resources
           description: ""
           linktext: Access here
-          url: /wpsd/worldpatientsafetyday2025/
+          url: /wpsd/
   - infopic:
       title: Global Patient Safety Action Plan (GPSAP) 2021-2030
       subtitle: World Health Organization
