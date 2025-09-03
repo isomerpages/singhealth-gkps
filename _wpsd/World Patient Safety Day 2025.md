@@ -124,6 +124,21 @@ for Disease Control and Prevention (CDC).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Patient Story</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maile's Story- Maternal Sepsis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=w0tag0R9EBk" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sepsis Alliance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Patient story</p>
 </td>
 <td rowspan="1" colspan="1">
