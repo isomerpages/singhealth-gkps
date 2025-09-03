@@ -123,6 +123,21 @@ safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blood Transfusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nice.org.uk/guidance/ng24" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Institute for Health &amp; Care Excellence, UK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Patient story</p>
 </td>
 <td rowspan="1" colspan="1">
