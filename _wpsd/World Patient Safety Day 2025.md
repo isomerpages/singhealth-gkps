@@ -45,6 +45,52 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Checklist Implementation Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WHO Safe Childbirth Checklist Implementation Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iris.who.int/bitstream/handle/10665/199177/9789241549455_eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrating stakeholder and community engagement in quality of care initiatives
+for maternal, newborn and child health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iris.who.int/bitstream/handle/10665/333922/9789240006317-eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WHO labour care guide: user’s manual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.who.int/publications/i/item/9789240017566" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Measurement Tool</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,6 +123,36 @@ safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blood Transfusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nice.org.uk/guidance/ng24" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Institute for Health &amp; Care Excellence, UK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Podcasts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Podcast Series -Keeping our Children Safe in Healthcare Settings</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safety.rcpch.ac.uk/podcasts/" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Royal College of Paediatrics and Child Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Patient story</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +180,21 @@ safety</p>
 <td rowspan="1" colspan="1">
 <p>Up &amp; Away is an initiative of PROTECT in partnership with the Centers
 for Disease Control and Prevention (CDC).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patient Story</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maile's Story- Maternal Sepsis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=w0tag0R9EBk" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sepsis Alliance</p>
 </td>
 </tr>
 <tr>
