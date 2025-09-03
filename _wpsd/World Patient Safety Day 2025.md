@@ -242,6 +242,21 @@ for Disease Control and Prevention (CDC).</p>
 <p>Health Service Executive Ireland (HSE)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Communication and advocacy material (Podcast, infographic, poster, video)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient safety books for children</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.worldpatientsalliance.org/patient-safety-books-for-children/" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Patients Alliance (WPA)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
