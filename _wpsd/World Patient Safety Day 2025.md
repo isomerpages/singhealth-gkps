@@ -45,6 +45,22 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Checklist Implementation Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WHO Safe Childbirth Checklist</p>
+<p>Implementation Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iris.who.int/bitstream/handle/10665/199177/9789241549455_eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Measurement Tool</p>
 </td>
 <td rowspan="1" colspan="1">
