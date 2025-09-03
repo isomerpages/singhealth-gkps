@@ -48,8 +48,7 @@ published on GKPS.</p>
 <p>Checklist Implementation Guide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WHO Safe Childbirth Checklist</p>
-<p>Implementation Guide</p>
+<p>WHO Safe Childbirth Checklist Implementation Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://iris.who.int/bitstream/handle/10665/199177/9789241549455_eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
@@ -69,6 +68,21 @@ for maternal, newborn and child health</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://iris.who.int/bitstream/handle/10665/333922/9789240006317-eng.pdf?sequence=1" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Health Organization</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WHO labour care guide: user’s manual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.who.int/publications/i/item/9789240017566" rel="noopener nofollow" target="_blank">Click to access</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
