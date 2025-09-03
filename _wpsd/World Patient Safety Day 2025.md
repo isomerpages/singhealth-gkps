@@ -138,6 +138,21 @@ safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Podcasts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Podcast Series -Keeping our Children Safe in Healthcare Settings</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safety.rcpch.ac.uk/podcasts/" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Royal College of Paediatrics and Child Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Patient story</p>
 </td>
 <td rowspan="1" colspan="1">
