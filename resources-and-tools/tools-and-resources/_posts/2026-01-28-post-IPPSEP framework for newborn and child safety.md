@@ -29,8 +29,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 &amp; 5 - Strategies
-1.1 and 5.1</p>
-<p><a href="/files/wpsd2025_ippsep_framework.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A023</a>
+1.1 and 5.1
+<br><a href="/files/wpsd2025_ippsep_framework.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
