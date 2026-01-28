@@ -45,6 +45,64 @@ published on GKPS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Communication and advocacy material (Podcast, infographic, poster, video)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5C for Child Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexandria University</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Policy, strategy, framework or action plan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IPPSEP framework for newborn and child safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexandria University</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Report</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Country brief - on World Patient Safety Commemoration 2025, Sri Lanka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient Safety &amp; Accreditation Bureau, Ministry of Health Sri Lanka</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blog</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The safety issues affecting children in intensive care: A blog by Peter
+Sidgwick (UK)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pslhub.org/learn/patient-safety-in-health-and-care/high-risk-areas/paediatrics/the-safety-issues-affecting-children-in-intensive-care-a-blog-by-peter-sidgwick-r13476/" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient Safety Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Checklist Implementation Guide</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,4 +317,5 @@ for Disease Control and Prevention (CDC).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>***<em>Note: updated as of 28 January 2026.</em>
+</p>
