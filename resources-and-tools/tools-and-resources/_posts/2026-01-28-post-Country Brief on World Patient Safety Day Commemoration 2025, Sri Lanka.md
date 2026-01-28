@@ -28,8 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 - Strategies 1.5</p>
-<p><a href="/files/wpsd2025_sri lanka_country brief.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A022</a>
+<p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 1 - Strategies 1.5
+<br><a href="/files/wpsd2025_sri lanka_country brief.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
