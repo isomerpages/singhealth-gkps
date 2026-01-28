@@ -51,7 +51,8 @@ published on GKPS.</p>
 <p>5C for Child Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/WPSD2025_5C_for_Child_Safety.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alexandria University</p>
@@ -65,7 +66,8 @@ published on GKPS.</p>
 <p>IPPSEP framework for newborn and child safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/wpsd2025_ippsep_framework.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alexandria University</p>
@@ -79,7 +81,8 @@ published on GKPS.</p>
 <p>Country brief - on World Patient Safety Commemoration 2025, Sri Lanka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/wpsd2025_sri lanka_country brief.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Safety &amp; Accreditation Bureau, Ministry of Health Sri Lanka</p>
