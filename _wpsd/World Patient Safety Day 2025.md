@@ -78,7 +78,7 @@ published on GKPS.</p>
 <p>Report</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Country brief - on World Patient Safety Commemoration 2025, Sri Lanka</p>
+<p>Country brief - on World Patient Safety Day Commemoration 2025, Sri Lanka</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/wpsd2025_sri lanka_country brief.pdf" rel="noopener nofollow" target="_blank">Click to access</a>
