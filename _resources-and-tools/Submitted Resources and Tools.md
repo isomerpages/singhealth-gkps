@@ -21,6 +21,27 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5C for Child Safety
+<br><a href="/resources-and-tools/tools-and-resources/nabildowidargkps2025a024/" rel="noopener nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IPPSEP framework for newborn and child safety
+<br><a href="/resources-and-tools/tools-and-resources/nabildowidargkps2025a023/" rel="noopener nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Country brief on World Patient Safety Day Commemoration 2025, Sri Lanka
+<br><a href="/resources-and-tools/tools-and-resources/upuliwijemannegkps2025a022/" rel="noopener nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Compendium of best practices and case studies in quality of care, patient
 safety, infection prevention and control in lower- and middle-income countries
 <br><a href="https://iris.who.int/handle/10665/380849" rel="noopener nofollow" target="_blank">click to access</a>
