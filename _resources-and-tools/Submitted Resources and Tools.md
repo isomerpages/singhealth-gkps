@@ -21,14 +21,14 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C for Child Safety
+<p>Infographic: 5C for Child Safety
 <br><a href="/resources-and-tools/tools-and-resources/nabildowidargkps2025a024/" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IPPSEP framework for newborn and child safety
+<p>IPPSEP Framework for Newborn and Child Safety
 <br><a href="/resources-and-tools/tools-and-resources/nabildowidargkps2025a023/" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
 </td>
