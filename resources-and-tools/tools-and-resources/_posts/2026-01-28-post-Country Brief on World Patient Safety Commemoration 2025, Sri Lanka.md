@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Country Brief on World Patient Safety Commemoration 2025, Sri Lanka</p>
+<p>Country Brief on World Patient Safety Day Commemoration 2025, Sri Lanka</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Shared by</p>
