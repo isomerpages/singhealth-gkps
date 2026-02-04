@@ -48,9 +48,5 @@ variant: tiptap
 </p>
 <p></p>
 <hr>
-<p>This infographic presents the "5C for Child Safety" framework from Alexandria
-University's Medical Research Institute, outlining five key principles:
-Coordinate (team protection), Connect (engage families), Check (verify
-procedures), Capture (document information), and Correct (address unsafe
-conditions). The framework provides healthcare professionals with a systematic
-approach to ensure comprehensive child safety in medical settings.</p>
+<p>Framework for child safety based on teamwork, child engagement, safe practices,
+use of information and continuous safety improvement.</p>

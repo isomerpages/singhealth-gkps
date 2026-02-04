@@ -209,5 +209,5 @@ in Indonesia
 </tr>
 </tbody>
 </table>
-<p>***<em>Note: updated as of 9 April 2025.</em>
+<p>***<em>Note: updated as of 3 February 2026.</em>
 </p>
