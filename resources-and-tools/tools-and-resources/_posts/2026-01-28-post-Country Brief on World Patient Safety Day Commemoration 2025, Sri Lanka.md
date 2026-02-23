@@ -43,7 +43,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p><strong><sub>Shared by Upuli Wijemanne, Patient Safety &amp; Accreditation Bureau, Sri Lanka. GKPS Reference: </sub></strong><sub>Country Brief on World Patient Safety Day Commemoration 2025, Sri Lanka. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2025. A022.</sub>
+<p><strong><sub>Shared by Upuli Wijemanne, Ministry of Health, Sri Lanka. GKPS Reference: </sub></strong><sub>Country Brief on World Patient Safety Day Commemoration 2025, Sri Lanka. Global Knowledge Sharing Platform for Patient Safety (GKPS). 2025. A022.</sub>
 </p>
 <p></p>
 <hr>
@@ -51,12 +51,14 @@ variant: tiptap
 Day on 17th September 2025, held in Colombo under the theme "Safe care
 for every newborn and child." The main event, attended by over 170 delegates
 including the Minister of Health and WHO representatives, featured the
-launch of a national Continuous Professional Development manual on patient
-safety and a digital Quality Performance Evaluation Tool for hospitals.
-The celebration included a panel discussion on newborn and child safety,
-recognition of best practices from hospitals across the country with gold,
-silver and bronze awards, and concluded with the Colombo Municipal Council
-building being lit in orange to demonstrate Sri Lanka's commitment to patient
-safety. The event highlighted the country's ongoing efforts to strengthen
-patient safety culture and improve healthcare quality, particularly for
-maternal and child health services.</p>
+launch of Continuous Professional Development manual on patient safety
+and a digital Quality Performance Evaluation Tool for hospitals. Celebration
+included a panel discussion on newborn-and-child safety, recognition of
+best practices from hospitals across the country with gold/silver/bronze
+awards, and concluded with the Colombo Municipal Council building being
+lit in orange to demonstrate Sri Lanka's commitment to patient safety.
+The event highlighted the country's ongoing efforts to strengthen patient
+safety culture and improve healthcare quality and safety. With the Cabinet
+of Ministers approval in 2024, the Directorate of Healthcare Quality &amp;
+Safety was officially transformed into the Patient Safety &amp; Accreditation
+Bureau, with expanded services.&nbsp;</p>
