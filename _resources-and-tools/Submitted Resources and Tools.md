@@ -21,6 +21,14 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Impact of Pharmacist Clerking on Right-First-Time Admission Prescribing
+in an Acute Medicine Unit</p>
+<p><a href="/resources-and-tools/tools-and-resources/gkps-2025-a025" rel="noopener nofollow" target="_blank">click to access</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Infographic: 5C for Child Safety
 <br><a href="/resources-and-tools/tools-and-resources/nabildowidargkps2025a024/" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
