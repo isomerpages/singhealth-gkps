@@ -32,7 +32,7 @@ in an Acute Medicine Unit</p>
 <td rowspan="1" colspan="1">
 <p>Mapped to GPSAP 2021 - 2030, Strategic Objectives 2 &amp; 3 - Strategies
 2.4 and 3.2
-<br><a href="/files/Impact_of_Pharmacist_Clerking_on_Right_First_Time_Admission_Prescribing_in_an_Acute_Medicines_Unit_JOIS_2019_v59_p1_13.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A025</a>
+<br><a href="/files/gkps_2025-a025.pdf" rel="noopener nofollow" target="_blank">GKPS 2025 A025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
