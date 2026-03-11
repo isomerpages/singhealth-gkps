@@ -23,7 +23,7 @@ ministries, facilities, stakeholders and <a href="https://www.who.int/" rel="noo
 <td rowspan="1" colspan="1">
 <p>Impact of Pharmacist Clerking on Right-First-Time Admission Prescribing
 in an Acute Medicine Unit
-<br><a href="/resources-and-tools/tools-and-resources/gkps-2025-a025" rel="noopener nofollow" target="_blank">click to access</a>
+<br><a href="/resources-and-tools/tools-and-resources/petekiddgkps2025a025/" rel="noopener nofollow" target="_blank">click to access</a>
 </p>
 </td>
 </tr>
